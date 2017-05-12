@@ -25,7 +25,7 @@ public class Main {
         // start ui
         LOG.info("Startup the main ui");
         SwingConsole.run(MainFrame.instance());
-
+//rex's change
         // print server propeties in ui
         ServerProperties.printServerProperties();
 
