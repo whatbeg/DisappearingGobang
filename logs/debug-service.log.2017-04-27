@@ -1,0 +1,28 @@
+2017-04-27 15:58:09  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-04-27 15:58:09  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-04-27 15:58:09 ERROR DebugServiceRunnable:136 - java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2017-04-27 15:58:09 ERROR DebugServiceRunnable:137 - RobotOmegavsRobotAlpha-debug-0 ROUND 0 Unkown Exception when receive RED step!
+2017-04-27 15:58:09  INFO DebugServiceRunnable:244 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-04-27 15:58:09  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-04-27 15:58:09 ERROR DebugServiceRunnable:206 - java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2017-04-27 15:58:09 ERROR DebugServiceRunnable:207 - RobotOmegavsRobotAlpha-debug-0 ROUND 1 Unkown Exception when receive WHITE step!
+2017-04-27 15:58:09  INFO DebugServiceRunnable:244 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-04-27 15:58:09  INFO DebugServiceRunnable:264 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-04-27 15:58:09  INFO DebugServiceRunnable:271 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-04-27 15:58:09  INFO DebugServiceRunnable:276 - RobotOmegavsRobotAlpha-debug-0 record save completed!
+2017-04-27 16:00:44  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-04-27 16:00:44  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-04-27 16:00:45  INFO DebugServiceRunnable:244 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-04-27 16:00:45  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-04-27 16:00:46  INFO DebugServiceRunnable:244 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-04-27 16:00:46  INFO DebugServiceRunnable:264 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-04-27 16:00:46  INFO DebugServiceRunnable:271 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-04-27 16:00:46  INFO DebugServiceRunnable:276 - RobotOmegavsRobotAlpha-debug-0 record save completed!
+2017-04-27 16:04:12  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-04-27 16:04:12  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-04-27 16:04:13  INFO DebugServiceRunnable:244 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-04-27 16:04:13  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-04-27 16:04:14  INFO DebugServiceRunnable:244 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-04-27 16:04:14  INFO DebugServiceRunnable:264 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-04-27 16:04:14  INFO DebugServiceRunnable:271 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-04-27 16:04:14  INFO DebugServiceRunnable:276 - RobotOmegavsRobotAlpha-debug-0 record save completed!

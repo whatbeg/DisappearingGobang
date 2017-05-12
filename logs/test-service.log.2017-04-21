@@ -1,0 +1,157 @@
+2017-04-21 18:50:29  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 18:50:29  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 18:51:54  INFO TestServiceRunnable:400 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 18:51:54  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 18:53:10  INFO TestServiceRunnable:400 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 18:53:10  INFO TestServiceRunnable:426 - 123456789vsRobotI-test-0 game over
+2017-04-21 18:53:10  INFO TestServiceRunnable:433 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 18:53:10  INFO TestServiceRunnable:438 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 19:01:52  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 19:01:52  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 19:03:07  INFO TestServiceRunnable:400 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 19:03:07  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 19:04:29  INFO TestServiceRunnable:400 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 19:04:29  INFO TestServiceRunnable:426 - 123456789vsRobotI-test-0 game over
+2017-04-21 19:04:29  INFO TestServiceRunnable:433 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 19:04:29  INFO TestServiceRunnable:438 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 19:09:55  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 19:09:55  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 19:11:10  INFO TestServiceRunnable:276 - Winner is Black
+2017-04-21 19:11:10  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 19:11:10  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 19:12:21  INFO TestServiceRunnable:276 - Winner is Black
+2017-04-21 19:12:21  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 19:12:21  INFO TestServiceRunnable:435 - 123456789vsRobotI-test-0 game over
+2017-04-21 19:12:21  INFO TestServiceRunnable:442 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 19:12:21  INFO TestServiceRunnable:447 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 19:14:57  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 19:14:57  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 19:16:13  INFO TestServiceRunnable:276 - Winner is Black
+2017-04-21 19:16:13  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 19:16:13  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 19:17:35  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 19:17:35  INFO TestServiceRunnable:435 - 123456789vsRobotI-test-0 game over
+2017-04-21 19:17:35  INFO TestServiceRunnable:442 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 19:17:35  INFO TestServiceRunnable:447 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 19:18:33  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-1 begin!
+2017-04-21 19:18:33  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-1 round 0 start
+2017-04-21 19:19:55  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-1 round 0 end
+2017-04-21 19:19:55  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-1 round 1 start
+2017-04-21 19:20:40  INFO TestServiceRunnable:158 - Winner is White
+2017-04-21 19:20:40  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-1 round 1 end
+2017-04-21 19:20:40  INFO TestServiceRunnable:435 - 123456789vsRobotI-test-1 game over
+2017-04-21 19:20:40  INFO TestServiceRunnable:442 - 123456789vsRobotI-test-1 result save completed!
+2017-04-21 19:20:40  INFO TestServiceRunnable:447 - 123456789vsRobotI-test-1 record save completed!
+2017-04-21 20:22:19  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 20:22:19  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 20:23:41  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 20:23:41  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 20:25:03  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 20:25:03  INFO TestServiceRunnable:435 - 123456789vsRobotI-test-0 game over
+2017-04-21 20:25:03  INFO TestServiceRunnable:442 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 20:25:03  INFO TestServiceRunnable:447 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 20:26:59  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 20:26:59  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 20:28:09  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 20:28:09  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 20:30:16 ERROR TestServiceRunnable:146 - java.net.SocketException: Connection reset
+2017-04-21 20:30:16 ERROR TestServiceRunnable:147 - 123456789vsRobotI-test-0 ROUND 1 Unkown Exception when synchronize black round!
+2017-04-21 20:30:16 ERROR TestServiceRunnable:407 - java.net.SocketException: Connection reset by peer: socket write error
+2017-04-21 20:30:16  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 20:30:16 ERROR TestServiceRunnable:433 - java.net.SocketException: Connection reset by peer: socket write error
+2017-04-21 20:30:16  INFO TestServiceRunnable:435 - 123456789vsRobotI-test-0 game over
+2017-04-21 20:30:16  INFO TestServiceRunnable:442 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 20:30:16  INFO TestServiceRunnable:447 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 20:30:34  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 20:30:34  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 20:31:49  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 20:31:49  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 20:33:07  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 20:33:07  INFO TestServiceRunnable:435 - 123456789vsRobotI-test-0 game over
+2017-04-21 20:33:07  INFO TestServiceRunnable:442 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 20:33:07  INFO TestServiceRunnable:447 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 20:35:25  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 20:35:25  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 20:35:58  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 20:35:58  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 20:36:30  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 20:36:30  INFO TestServiceRunnable:435 - 123456789vsRobotI-test-0 game over
+2017-04-21 20:36:30  INFO TestServiceRunnable:442 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 20:36:30  INFO TestServiceRunnable:447 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 20:36:58  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 20:36:58  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 20:37:27  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 20:37:27  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 20:38:00  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 20:38:00  INFO TestServiceRunnable:435 - 123456789vsRobotI-test-0 game over
+2017-04-21 20:38:00  INFO TestServiceRunnable:442 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 20:38:00  INFO TestServiceRunnable:447 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 20:40:47  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 20:40:47  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 20:41:17  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 20:41:17  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 20:41:40  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 20:41:40  INFO TestServiceRunnable:435 - 123456789vsRobotI-test-0 game over
+2017-04-21 20:41:40  INFO TestServiceRunnable:442 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 20:41:40  INFO TestServiceRunnable:447 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 20:48:54  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 20:48:54  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 20:49:27  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 20:49:27  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 20:50:00  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 20:50:00  INFO TestServiceRunnable:435 - 123456789vsRobotI-test-0 game over
+2017-04-21 20:50:00  INFO TestServiceRunnable:442 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 20:50:00  INFO TestServiceRunnable:447 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 20:52:19  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 20:52:19  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 20:52:45  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 20:52:45  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 20:53:12  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 20:53:12  INFO TestServiceRunnable:435 - 123456789vsRobotI-test-0 game over
+2017-04-21 20:53:12  INFO TestServiceRunnable:442 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 20:53:12  INFO TestServiceRunnable:447 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 21:05:40  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 21:05:40  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 21:05:46 ERROR TestServiceRunnable:363 - java.net.SocketException: Connection reset by peer: socket write error
+2017-04-21 21:05:46 ERROR TestServiceRunnable:407 - java.net.SocketException: Connection reset by peer: socket write error
+2017-04-21 21:05:46  INFO TestServiceRunnable:409 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 21:05:46 ERROR TestServiceRunnable:433 - java.net.SocketException: Connection reset by peer: socket write error
+2017-04-21 21:05:46  INFO TestServiceRunnable:435 - 123456789vsRobotI-test-0 game over
+2017-04-21 21:05:46  INFO TestServiceRunnable:442 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 21:05:46  INFO TestServiceRunnable:447 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 21:22:27  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 21:22:27  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 21:22:56  INFO TestServiceRunnable:426 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 21:22:56  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 21:23:20  INFO TestServiceRunnable:426 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 21:23:20  INFO TestServiceRunnable:452 - 123456789vsRobotI-test-0 game over
+2017-04-21 21:23:20  INFO TestServiceRunnable:459 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 21:23:20  INFO TestServiceRunnable:464 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 21:26:20  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 21:26:20  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 21:26:52  INFO TestServiceRunnable:426 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 21:26:52  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 21:27:07  INFO TestServiceRunnable:426 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 21:27:07  INFO TestServiceRunnable:452 - 123456789vsRobotI-test-0 game over
+2017-04-21 21:27:07  INFO TestServiceRunnable:459 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 21:27:07  INFO TestServiceRunnable:464 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 21:31:17  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 21:31:17  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 21:31:23 ERROR TestServiceRunnable:240 - java.net.SocketException: Connection reset by peer: socket write error
+2017-04-21 21:31:23 ERROR TestServiceRunnable:424 - java.net.SocketException: Connection reset by peer: socket write error
+2017-04-21 21:31:23  INFO TestServiceRunnable:426 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 21:31:23 ERROR TestServiceRunnable:450 - java.net.SocketException: Connection reset by peer: socket write error
+2017-04-21 21:31:23  INFO TestServiceRunnable:452 - 123456789vsRobotI-test-0 game over
+2017-04-21 21:31:23  INFO TestServiceRunnable:459 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 21:31:23  INFO TestServiceRunnable:464 - 123456789vsRobotI-test-0 record save completed!
+2017-04-21 21:40:33  INFO TestServiceRunnable:62 - 123456789vsRobotI-test-0 begin!
+2017-04-21 21:40:33  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 0 start
+2017-04-21 21:41:06  INFO TestServiceRunnable:426 - 123456789vsRobotI-test-0 round 0 end
+2017-04-21 21:41:06  INFO TestServiceRunnable:72 - 123456789vsRobotI-test-0 round 1 start
+2017-04-21 21:41:10 ERROR TestServiceRunnable:368 - java.net.SocketException: Connection reset by peer: socket write error
+2017-04-21 21:41:10 ERROR TestServiceRunnable:424 - java.net.SocketException: Connection reset by peer: socket write error
+2017-04-21 21:41:10  INFO TestServiceRunnable:426 - 123456789vsRobotI-test-0 round 1 end
+2017-04-21 21:41:10 ERROR TestServiceRunnable:450 - java.net.SocketException: Connection reset by peer: socket write error
+2017-04-21 21:41:10  INFO TestServiceRunnable:452 - 123456789vsRobotI-test-0 game over
+2017-04-21 21:41:10  INFO TestServiceRunnable:459 - 123456789vsRobotI-test-0 result save completed!
+2017-04-21 21:41:10  INFO TestServiceRunnable:464 - 123456789vsRobotI-test-0 record save completed!
