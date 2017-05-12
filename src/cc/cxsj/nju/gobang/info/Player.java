@@ -49,7 +49,14 @@ public class Player {
 		this.receiver.read(recvBuffer);
 		return recvBuffer;
 	}
-	
+
+	public boolean isclosed() {
+	    if (this.socket.isConnected()) return true;
+	    if (this.socket.isOutputShutdown()) return true;
+	    if (this.socket.isClosed()) return true;
+	    return false;
+    }
+
 	public void send(String msg) throws IOException {
 		Arrays.fill(sendBuffer, (byte)0);
 		byte[] bmsg = msg.getBytes();

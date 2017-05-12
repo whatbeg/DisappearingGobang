@@ -15,7 +15,6 @@ public class ChessBoard {
 	private static final int COLS = Integer.valueOf(ServerProperties.instance().getProperty("chess.board.cols"));
 	private static final int INTERVAL = Integer.valueOf(ServerProperties.instance().getProperty("play.interval"));
 	private static String spliter = "----------------------";
-    private static int lastStepRow = -1, lastStepCol = -1;
     private int[] dx = new int[]{0, 1, 1,  1};
     private int[] dy = new int[]{1, 1, 0, -1};
 	static 
@@ -25,6 +24,7 @@ public class ChessBoard {
 	
 	// the chess board
 	private Square[][] board = new Square[ROWS][COLS];
+    private int lastStepRow = -1, lastStepCol = -1;
 
 	public ChessBoard() {}
 

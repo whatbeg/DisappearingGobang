@@ -186,6 +186,20 @@ public class CreateServiceRunnable extends Thread {
 							String password = msg.substring(10, 16);
 							LOG.info("Accepted " + id);
 							MainFrame.instance().log("Accepted " + id);
+							/*
+                            HashSet<Integer> toDelete = new HashSet<>();
+							for (int i = 0; i < matchPlayerList.size(); i++) {
+							    Player ply = matchPlayerList.get(i);
+							    if (ply.isclosed()) {
+                                    toDelete.add(i);
+                                }
+							    // System.out.println(ply.toString() + "ISCLOSED: " + ply.isclosed());
+                            }
+                            int idx = 0;
+                            for (int i = 0; i < matchPlayerList.size(); i++) {
+							    matchPlayerList.
+                            }
+                            */
 							if (Players.isContainedPlayer(id) && !matchPlayerSet.contains(Players.getPlayer(id))) {
 								user = Players.getPlayer(id);
 								if (user.getPassword().equals(password)) {

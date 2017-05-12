@@ -24,6 +24,7 @@ public class ContestServiceRunnable implements Runnable{
     private static final int STEPS = Integer.valueOf(ServerProperties.instance().getProperty("round.steps"));
     private static final int ERRORS = Integer.valueOf(ServerProperties.instance().getProperty("step.error.number"));
     private static final int DIS_FREQ = Integer.valueOf(ServerProperties.instance().getProperty("disappear_freq"));
+    private static final boolean PRINT_ERROR = true;
     private static int ID = 0;
 
     private Player[] players;
@@ -83,8 +84,16 @@ public class ContestServiceRunnable implements Runnable{
 
                 try {
                     try {
+                        if (players[black].isclosed()) {
+                            System.out.println("BLACK SOCKET CLOSED");
+                            record.get(round).add("BLACK SOCKET CLOSED");
+                            result.errors[black][round]++;
+                            result.winner = white;
+                            return;
+                        }
                         players[black].send("BB");
                     } catch (Exception e) {
+                        if (PRINT_ERROR) e.printStackTrace();
                         LOG.error(e);
                         record.get(round).add("SEND_ERROR BLACK");
                         result.errors[black][round]++;
@@ -92,9 +101,16 @@ public class ContestServiceRunnable implements Runnable{
                         return;
                     }
                     try {
+                        if (players[white].isclosed()) {
+                            System.out.println("WHITE SOCKET CLOSED");
+                            record.get(round).add("WHITE SOCKET CLOSED");
+                            result.errors[white][round]++;
+                            result.winner = black;
+                            return;
+                        }
                         players[white].send("BW");
                     } catch (Exception e) {
-                        e.printStackTrace();
+                        if (PRINT_ERROR) e.printStackTrace();
                         LOG.error(e);
                         record.get(round).add("SEND_ERROR WHITE");
                         result.errors[white][round]++;
@@ -196,7 +212,7 @@ public class ContestServiceRunnable implements Runnable{
                                 // System.out.println("BLACK SEND " + disappearedCode);
                                 players[black].send(disappearedCode);
                             } catch (Exception e) {
-                                e.printStackTrace();
+                                if (PRINT_ERROR) e.printStackTrace();
                                 LOG.error(e);
                                 record.get(round).add("SEND_ERROR BLACK");
                                 result.errors[black][round]++;
@@ -207,7 +223,7 @@ public class ContestServiceRunnable implements Runnable{
                                 // System.out.println("WHITE SEND " + disappearedCode);
                                 players[white].send(disappearedCode);
                             } catch (Exception e) {
-                                e.printStackTrace();
+                                if (PRINT_ERROR) e.printStackTrace();
                                 LOG.error(e);
                                 record.get(round).add("SEND_ERROR WHITE");
                                 result.errors[white][round]++;
@@ -247,6 +263,7 @@ public class ContestServiceRunnable implements Runnable{
                             }
                         } catch (Exception e) {
                             // other exception
+                            if (PRINT_ERROR) e.printStackTrace();
                             LOG.error(e);
                             LOG.error(this.info + " ROUND " + round + " Unkown Exception when receive BLACK step!");
                             record.get(round).add("UNKOWN_EXCEPTION BLACK");
@@ -267,6 +284,7 @@ public class ContestServiceRunnable implements Runnable{
                             try {
                                 players[black].send(blackReturnCode);
                             } catch (Exception e) {
+                                if (PRINT_ERROR) e.printStackTrace();
                                 LOG.error(e);
                                 record.get(round).add("SEND_ERROR BLACK");
                                 result.errors[black][round]++;
@@ -274,8 +292,16 @@ public class ContestServiceRunnable implements Runnable{
                                 return;
                             }
                             try {
+                                if (players[white].isclosed()) {
+                                    System.out.println("WHITE SOCKET CLOSED");
+                                    record.get(round).add("WHITE SOCKET CLOSED");
+                                    result.errors[white][round]++;
+                                    result.winner = black;
+                                    return;
+                                }
                                 players[white].send(blackReturnCode);
                             } catch (Exception e) {
+                                if (PRINT_ERROR) e.printStackTrace();
                                 LOG.error(e);
                                 record.get(round).add("SEND_ERROR WHITE");
                                 result.errors[white][round]++;
@@ -287,8 +313,16 @@ public class ContestServiceRunnable implements Runnable{
                             result.errors[black][round]++;
                             record.get(round).add("ERROR_STEP BLACK " + result.errors[black][round] + " " + blackStep.substring(0, 6));
                             try {
+                                if (players[black].isclosed()) {
+                                    System.out.println("BLACK SOCKET CLOSED");
+                                    record.get(round).add("BLACK SOCKET CLOSED");
+                                    result.errors[black][round] = 1;
+                                    result.winner = white;
+                                    return;
+                                }
                                 players[black].send(blackReturnCode);
                             } catch (Exception e) {
+                                if (PRINT_ERROR) e.printStackTrace();
                                 LOG.error(e);
                                 record.get(round).add("SEND_ERROR BLACK");
                                 result.errors[black][round]++;
@@ -296,8 +330,16 @@ public class ContestServiceRunnable implements Runnable{
                                 return;
                             }
                             try {
+                                if (players[white].isclosed()) {
+                                    System.out.println("WHITE SOCKET CLOSED");
+                                    record.get(round).add("WHITE SOCKET CLOSED");
+                                    result.errors[white][round]++;
+                                    result.winner = black;
+                                    return;
+                                }
                                 players[white].send("R0N");
                             } catch (Exception e) {
+                                if (PRINT_ERROR) e.printStackTrace();
                                 LOG.error(e);
                                 record.get(round).add("SEND_ERROR WHITE");
                                 result.errors[white][round]++;
@@ -328,10 +370,16 @@ public class ContestServiceRunnable implements Runnable{
                             String whitedisappear = whiteMoves.poll();
                             String disappearedCode = "R0D" + whitedisappear + "1";
                             try {
-                                // System.out.println("WHITE SEND " + disappearedCode);
+                                if (players[white].isclosed()) {
+                                    System.out.println("WHITE SOCKET CLOSED");
+                                    record.get(round).add("WHITE SOCKET CLOSED");
+                                    result.errors[white][round]++;
+                                    result.winner = black;
+                                    return;
+                                }
                                 players[white].send(disappearedCode);
                             } catch (Exception e) {
-                                e.printStackTrace();
+                                if (PRINT_ERROR) e.printStackTrace();
                                 LOG.error(e);
                                 record.get(round).add("SEND_ERROR WHITE");
                                 result.errors[white][round]++;
@@ -339,10 +387,16 @@ public class ContestServiceRunnable implements Runnable{
                                 return;
                             }
                             try {
-                                // System.out.println("BLACK SEND " + disappearedCode);
+                                if (players[black].isclosed()) {
+                                    System.out.println("BLACK SOCKET CLOSED");
+                                    record.get(round).add("BLACK SOCKET CLOSED");
+                                    result.errors[black][round]++;
+                                    result.winner = white;
+                                    return;
+                                }
                                 players[black].send(disappearedCode);
                             } catch (Exception e) {
-                                e.printStackTrace();
+                                if (PRINT_ERROR) e.printStackTrace();
                                 LOG.error(e);
                                 record.get(round).add("SEND_ERROR BLACK");
                                 result.errors[black][round]++;
@@ -400,8 +454,16 @@ public class ContestServiceRunnable implements Runnable{
                             record.get(round).add("VALID_STEP WHITE " + whiteStep.substring(0, 6));
                             record.get(round).add(board.toStringToDisplay());
                             try {
+                                if (players[white].isclosed()) {
+                                    System.out.println("WHITE SOCKET CLOSED");
+                                    record.get(round).add("WHITE SOCKET CLOSED");
+                                    result.errors[white][round]++;
+                                    result.winner = black;
+                                    return;
+                                }
                                 players[white].send(whiteReturnCode);
                             } catch (Exception e) {
+                                if (PRINT_ERROR) e.printStackTrace();
                                 LOG.error(e);
                                 record.get(round).add("SEND_ERROR WHITE");
                                 result.errors[white][round]++;
@@ -409,8 +471,16 @@ public class ContestServiceRunnable implements Runnable{
                                 return;
                             }
                             try {
+                                if (players[black].isclosed()) {
+                                    System.out.println("BLACK SOCKET CLOSED");
+                                    record.get(round).add("BLACK SOCKET CLOSED");
+                                    result.errors[black][round]++;
+                                    result.winner = white;
+                                    return;
+                                }
                                 players[black].send(whiteReturnCode);
                             } catch (Exception e) {
+                                if (PRINT_ERROR) e.printStackTrace();
                                 LOG.error(e);
                                 record.get(round).add("SEND_ERROR BLACK");
                                 result.errors[black][round]++;
@@ -422,8 +492,16 @@ public class ContestServiceRunnable implements Runnable{
                             result.errors[white][round]++;
                             record.get(round).add("ERROR_STEP WHITE " + result.errors[white][round] + " " + whiteStep.substring(0, 6));
                             try {
+                                if (players[white].isclosed()) {
+                                    System.out.println("WHITE SOCKET CLOSED");
+                                    record.get(round).add("WHITE SOCKET CLOSED");
+                                    result.errors[white][round]++;
+                                    result.winner = black;
+                                    return;
+                                }
                                 players[white].send(whiteReturnCode);
                             } catch (Exception e) {
+                                if (PRINT_ERROR) e.printStackTrace();
                                 LOG.error(e);
                                 record.get(round).add("SEND_ERROR WHITE");
                                 result.errors[white][round]++;
@@ -431,8 +509,16 @@ public class ContestServiceRunnable implements Runnable{
                                 return;
                             }
                             try {
+                                if (players[black].isclosed()) {
+                                    System.out.println("BLACK SOCKET CLOSED");
+                                    record.get(round).add("BLACK SOCKET CLOSED");
+                                    result.errors[black][round]++;
+                                    result.winner = white;
+                                    return;
+                                }
                                 players[black].send("R0N");
                             } catch (Exception e) {
+                                if (PRINT_ERROR) e.printStackTrace();
                                 LOG.error(e);
                                 record.get(round).add("SEND_ERROR BLACK");
                                 result.errors[black][round]++;
@@ -458,6 +544,7 @@ public class ContestServiceRunnable implements Runnable{
                         players[0].send("E1");
                         players[1].send("E1");
                     } catch (Exception e) {
+                        if (PRINT_ERROR) e.printStackTrace();
                         LOG.error(e);
                     }
                     LOG.info(this.info + " round " + round + " end");
@@ -483,6 +570,7 @@ public class ContestServiceRunnable implements Runnable{
                 players[0].send("E0");
                 players[1].send("E0");
             } catch (Exception e) {
+                if (PRINT_ERROR) e.printStackTrace();
                 LOG.error(e);
             }
 

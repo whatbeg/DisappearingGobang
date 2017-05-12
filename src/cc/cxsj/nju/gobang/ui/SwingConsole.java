@@ -14,7 +14,7 @@ public class SwingConsole {
 			@Override
 			public void run() {
 				f.pack();
-				f.setTitle("GobanGServer 1.0.2");
+				f.setTitle("GobanGServer 1.0.3");
 				f.setLocationRelativeTo(null);
 				f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 				f.setSize(width, height);
