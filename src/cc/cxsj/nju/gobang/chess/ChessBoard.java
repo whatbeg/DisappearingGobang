@@ -14,13 +14,9 @@ public class ChessBoard {
 	private static final int ROWS = Integer.valueOf(ServerProperties.instance().getProperty("chess.board.rows"));
 	private static final int COLS = Integer.valueOf(ServerProperties.instance().getProperty("chess.board.cols"));
 	private static final int INTERVAL = Integer.valueOf(ServerProperties.instance().getProperty("play.interval"));
-	private static String spliter = "----------------------";
+	private static String spliter = "--------------------------------------------";
     private int[] dx = new int[]{0, 1, 1,  1};
     private int[] dy = new int[]{1, 1, 0, -1};
-	static 
-	{
-		if (COLS == 15) spliter += spliter;
-	}
 	
 	// the chess board
 	private Square[][] board = new Square[ROWS][COLS];
@@ -133,8 +129,6 @@ public class ChessBoard {
                 }
             }
             case 'N': {   // Nostep
-//                lastStepCol = 0;
-//                lastStepCol = 0;
                 return "R0N";
             }
             default:

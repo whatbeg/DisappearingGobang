@@ -23,6 +23,7 @@ import cc.cxsj.nju.gobang.ui.MainFrame;
  * store contest mode result defaultly
  * 
  * @author coldcode
+ * modifier: whatbeg
  *
  */
 public class ContestResults {
@@ -37,8 +38,8 @@ public class ContestResults {
 	}
 	
 	public static synchronized ContestResult getContestResult(Integer id) {
-//	    System.out.println("ENTRY SET: " + contestResults.get(id).toString());
-//	    System.out.println("Get " + contestResults.get(id).toString());
+	    System.out.println("ID: " + id);
+	    System.out.println("Get " + contestResults.get(id).toString());
 		return contestResults.get(id);
 	}
 	
@@ -120,8 +121,7 @@ public class ContestResults {
 					} else {
 						result.players[1] = Players.getPlayer(l2[3]);
 					}
-					
-					
+
 					line = in.readLine();          // winner, actually line 3
 					String[] l22 = line.split(" ");
 					result.winner = Integer.valueOf(l22[1]);
