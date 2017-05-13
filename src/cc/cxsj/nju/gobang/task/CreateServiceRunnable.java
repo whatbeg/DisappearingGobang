@@ -29,7 +29,7 @@ public class CreateServiceRunnable extends Thread {
 
 	private BlockingQueue<Socket> sockets;
 	private ArrayList<Player> matchPlayerList;
-	private HashSet<Player> matchPlayerSet;
+	private HashMap<String, Player> matchPlayerMap;
 	private ExecutorService executor;
 
 	public static CreateServiceRunnable instance() {
@@ -78,8 +78,8 @@ public class CreateServiceRunnable extends Thread {
 				break;
 		}
 		this.sockets = new LinkedBlockingQueue<Socket>();
+		this.matchPlayerMap = new HashMap<String, Player>();
 		this.matchPlayerList = new ArrayList<Player>();
-		this.matchPlayerSet = new HashSet<Player>();
 		this.executor = Executors.newFixedThreadPool(Players.getPlayersNum() / 2 + 1);
 		LOG.info("CreateServiceRunnable initialization complete!");
 		MainFrame.instance().log("CreateServiceRunnable initialization complete!");
@@ -110,10 +110,10 @@ public class CreateServiceRunnable extends Thread {
 			BufferedInputStream bfin = null;
 			try {
 				// blocking to get two socket
-				while (!Thread.currentThread().isInterrupted() && matchPlayerSet.size() != Players.getPlayersNum()) {
+				while (!Thread.currentThread().isInterrupted() && matchPlayerMap.size() != Players.getPlayersNum()) {
 
-					LOG.info("The number of registered players: " + matchPlayerSet.size());
-					MainFrame.instance().log("The number of registered players: " + matchPlayerSet.size());
+					LOG.info("The number of registered players: " + matchPlayerMap.size());
+					MainFrame.instance().log("The number of registered players: " + matchPlayerMap.size());
 
 					while (!Thread.currentThread().isInterrupted()) {
 						try {
@@ -186,21 +186,7 @@ public class CreateServiceRunnable extends Thread {
 							String password = msg.substring(10, 16);
 							LOG.info("Accepted " + id);
 							MainFrame.instance().log("Accepted " + id);
-							/*
-                            HashSet<Integer> toDelete = new HashSet<>();
-							for (int i = 0; i < matchPlayerList.size(); i++) {
-							    Player ply = matchPlayerList.get(i);
-							    if (ply.isclosed()) {
-                                    toDelete.add(i);
-                                }
-							    // System.out.println(ply.toString() + "ISCLOSED: " + ply.isclosed());
-                            }
-                            int idx = 0;
-                            for (int i = 0; i < matchPlayerList.size(); i++) {
-							    matchPlayerList.
-                            }
-                            */
-							if (Players.isContainedPlayer(id) && !matchPlayerSet.contains(Players.getPlayer(id))) {
+							if (Players.isContainedPlayer(id)) {
 								user = Players.getPlayer(id);
 								if (user.getPassword().equals(password)) {
 									try {
@@ -213,8 +199,7 @@ public class CreateServiceRunnable extends Thread {
 										continue;
 									}
 									isContested.add(id);
-									matchPlayerSet.add(user);
-									matchPlayerList.add(user);
+									matchPlayerMap.put(user.getId(), user); // ID :
 									LOG.info("Welcome " + id);
 									MainFrame.instance().log("Welcome " + id);
 									break;
@@ -239,8 +224,8 @@ public class CreateServiceRunnable extends Thread {
 								} catch (IOException e) {
 									LOG.error(e);
 								}
-								LOG.info("No authorized " + id);
-								MainFrame.instance().log("No authorized " + id);
+								LOG.info("Not in Player List " + id);
+								MainFrame.instance().log("Not in Player List" + id);
 							}
 						} else {
 							try {
@@ -255,7 +240,6 @@ public class CreateServiceRunnable extends Thread {
 							MainFrame.instance().log("Authorize msg format error");
 						}
 					}
-
 				}
 
 				synchronized (this) {
@@ -270,13 +254,15 @@ public class CreateServiceRunnable extends Thread {
 					}
 					this.sockets = null;
 				}
-
+                // Ready Start Contest
 				if (!Thread.currentThread().isInterrupted()) {
-					LOG.info("The number of registered players: " + matchPlayerSet.size());
-					for (int i = 0; i < matchPlayerList.size(); i++)
-                        MainFrame.instance().log(matchPlayerList.get(i).toString());
-					MainFrame.instance().log("The number of registered players: " + matchPlayerList.size());
-					Collections.shuffle(matchPlayerList, new Random(System.currentTimeMillis()));
+					LOG.info("The number of registered players: " + matchPlayerMap.size());
+					for (String key : matchPlayerMap.keySet())
+                        MainFrame.instance().log(key);
+					MainFrame.instance().log("The number of registered players: " + matchPlayerMap.size());
+                    matchPlayerList.clear();
+                    matchPlayerList.addAll(matchPlayerMap.values());
+                    Collections.shuffle(matchPlayerList, new Random(System.currentTimeMillis()));
 					if (matchPlayerList.size() % 2 == 0) {
 						LOG.info("No passed player in contest");
 						MainFrame.instance().log("No passed player in contest");
@@ -302,9 +288,7 @@ public class CreateServiceRunnable extends Thread {
 					}
 				}
 			} finally {
-//				LOG.info("All peer contest done!");
-//				MainFrame.instance().log("All peer contest done!");
-//				System.out.println("All peer contest done!");
+
 			}
 			break;
 		}
@@ -409,8 +393,8 @@ public class CreateServiceRunnable extends Thread {
 								} catch (IOException e) {
 									LOG.error(e);
 								}
-								LOG.info("No authorized " + id);
-								MainFrame.instance().log("No authorized " + id);
+								LOG.info("Not in Player List" + id);
+								MainFrame.instance().log("Not in Player List" + id);
 							}
 						} else {
 							try {

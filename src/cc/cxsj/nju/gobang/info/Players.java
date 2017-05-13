@@ -202,4 +202,7 @@ public class Players {
 		}
 	}
 
+    public static HashMap<String, Player> getPlayersInfo() {
+        return playersInfo;
+    }
 }

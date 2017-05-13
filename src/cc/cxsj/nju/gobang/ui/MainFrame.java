@@ -601,9 +601,6 @@ public class MainFrame extends JFrame {
     public void setPlayerId(String playerA, String playerB) {
 	    player1info.setText(playerA);
 	    player2info.setText(playerB);
-	    // selectRoundLabel.setText(round);
-	    // selectedRound = Integer.valueOf(round);
-        // roundSelectComboBox.setSelectedIndex(Integer.valueOf(round));
     }
 
     public void ClearChessBoardUI() {
@@ -619,6 +616,7 @@ public class MainFrame extends JFrame {
     }
 
 	private void refreshResultListModal() {
+	    ContestResults.loadContestResults(0);
 		resultsIdList = ContestResults.getContestIdsOrderly();
 		int resultNum = resultsIdList.size();
 		System.out.println("ResultsIdList has " + resultNum);
@@ -641,7 +639,9 @@ public class MainFrame extends JFrame {
 		});
 		resultListModel.clear();
 		for (Integer id : resultsIdList) {
+		    System.out.println(id);
 			ContestResult result = ContestResults.getContestResult(id);
+			System.out.println(result);
 			StringBuilder sb = new StringBuilder(" ");
 			if (id < 10) {
 				sb.append("0");
