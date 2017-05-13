@@ -38,8 +38,6 @@ public class ContestResults {
 	}
 	
 	public static synchronized ContestResult getContestResult(Integer id) {
-	    System.out.println("ID: " + id);
-	    System.out.println("Get " + contestResults.get(id).toString());
 		return contestResults.get(id);
 	}
 	
@@ -48,7 +46,7 @@ public class ContestResults {
 		temp.addAll(contestResults.keySet());
 		return temp;
 	}
-	
+
 	public static synchronized int getContestResultNum() {
 		return contestResults.size();
 	}
@@ -166,7 +164,7 @@ public class ContestResults {
 				MainFrame.instance().log(e.toString());
 			}
 		}
-        // System.out.println(results.keySet());
+
 		if (!results.isEmpty()) {
 			contestResults.clear();
 			contestResults = results;
