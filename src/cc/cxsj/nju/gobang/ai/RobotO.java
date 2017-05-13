@@ -2,8 +2,6 @@ package cc.cxsj.nju.gobang.ai;
 
 import cc.cxsj.nju.gobang.chess.Square;
 import cc.cxsj.nju.gobang.config.ServerProperties;
-import javafx.util.Pair;
-import java.math.*;
 
 import java.util.*;
 
@@ -55,7 +53,7 @@ public class RobotO extends RobotAI {
     private boolean SearchStep(int depth) {
         tboard = board;
         path = new String[depth+1];
-        alphabeta(new LinkedList<>(), depth, -Integer.MAX_VALUE, Integer.MIN_VALUE, true);
+        alphabeta(tboard, depth, -Long.valueOf("2147483648"), Long.valueOf("2147483648"), true);
         System.out.println("PATH: ");
         for (int i = 0; i < path.length; i++) {
             System.out.print(path[i] + " ");
@@ -76,25 +74,27 @@ public class RobotO extends RobotAI {
         updateTboard(node);
     }
 
-    private long alphabeta(List<String> node, int depth, long alpha, long beta, boolean maxPlayer) {
-        if (depth == 0 || isEnded(node)) return evaluate(node, ownColor);
+    private long alphabeta(Square[][] tboard, int depth, long alpha, long beta, boolean maxPlayer) {
+        // System.out.println("Alpha, Beta = " + alpha + " " + beta);
+        if (depth == 0 || isEnded(tboard)) return evaluate(tboard, ownColor);
         String bestChild = "";
-        // genTboard(node);
+        // printtboardWithIndent(tboard, depth*2);
         if (maxPlayer) {
             System.out.println("maxPlayer");
-            HashMap<Integer, String> childlist = generateSteps();
+            HashMap<Integer, String> childlist = generateSteps(tboard);
+//            for (int i = 0; i < childlist.size(); i++) {
+//                System.out.println(childlist.get(i));
+//            }
             for (int i = 0; i < childlist.size(); i++) {
-                System.out.println(childlist.get(i));
-            }
-            for (int i = 0; i < childlist.size(); i++) {
-                node.add(childlist.get(i) + "0");
+                // node.add(childlist.get(i) + "0");
                 String stp = childlist.get(i);
                 int Row = stp.charAt(1) - '0' + (stp.charAt(0) - '0')*10;
                 int Col = stp.charAt(3) - '0' + (stp.charAt(2) - '0')*10;
-                System.out.println(String.format("%d %d puted black", Row, Col));
+               // System.out.println(String.format("%d %d puted black", Row, Col));
                 tboard[Row][Col].empty = false;
                 tboard[Row][Col].color = 0;
-                long subalpha = alphabeta(node, depth-1, alpha, beta, false);
+                // printtboardWithIndent(tboard, depth-1);
+                long subalpha = alphabeta(tboard, depth-1, alpha, beta, false);
                 System.out.println("subalpha = " + subalpha);
                 if (subalpha > alpha) {
                     alpha = subalpha;
@@ -102,7 +102,7 @@ public class RobotO extends RobotAI {
                 }
                 tboard[Row][Col].empty = true;
                 tboard[Row][Col].color = -1;
-                node.remove(node.size()-1);
+                // node.remove(node.size()-1);
                 if (beta <= alpha) break;    // beta cut off
             }
             path[depth] = bestChild;
@@ -110,30 +110,31 @@ public class RobotO extends RobotAI {
         }
         else {
             System.out.println("minPlayer");
-            HashMap<Integer, String> childlist = generateSteps();
+            HashMap<Integer, String> childlist = generateSteps(tboard);
             for (int i = 0; i < childlist.size(); i++) {
                 System.out.println(childlist.get(i));
             }
             for (int i = 0; i < childlist.size(); i++) {
-                node.add(childlist.get(i) + "1");
+                // node.add(childlist.get(i) + "1");
                 String stp = childlist.get(i);
                 int Row = stp.charAt(1) - '0' + (stp.charAt(0) - '0')*10;
                 int Col = stp.charAt(3) - '0' + (stp.charAt(2) - '0')*10;
-                System.out.println(String.format("%d %d puted white", Row, Col));
+                // System.out.println(String.format("%d %d puted white", Row, Col));
                 tboard[Row][Col].empty = false;
                 tboard[Row][Col].color = 1;
-                long subbeta = alphabeta(node, depth-1, alpha, beta, true);
-                System.out.println("subbeta = " + subbeta);
+                long subbeta = alphabeta(tboard, depth-1, alpha, beta, true);
+                // System.out.println("subbeta = " + subbeta + " Beta = " + beta);
                 if (subbeta < beta) {
                     beta = subbeta;
                     bestChild = childlist.get(i);
-                    System.out.println("bestChild = " + bestChild);
+                    // System.out.println("bestChild = " + bestChild);
                 }
                 tboard[Row][Col].empty = true;
                 tboard[Row][Col].color = -1;
-                node.remove(node.size()-1);
+                // node.remove(node.size()-1);
                 if (beta <= alpha) break;    // alpha cut off
             }
+            // System.out.println("Path[" + depth + "] = " + bestChild);
             path[depth] = bestChild;
             return beta;
         }
@@ -175,8 +176,8 @@ public class RobotO extends RobotAI {
         }
     }
 
-    private boolean isEnded(List<String> node) {            // 15x15x4
-        updateTboard(node);
+    private boolean isEnded(Square[][] tboard) {            // 15x15x4
+        // updateTboard(node);
         full = true;
         for (int sR = 0; sR < ROWS; sR++) {
             for (int sC = 0; sC < COLS; sC++) {
@@ -204,12 +205,12 @@ public class RobotO extends RobotAI {
                     }
                 }
                 if (MaxSeq >= 5) {
-                    restoreTboard(node);
+                    // restoreTboard(node);
                     return true;
                 }
             }
         }
-        restoreTboard(node);
+        // restoreTboard(node);
         return full;
     }
 
@@ -416,15 +417,15 @@ public class RobotO extends RobotAI {
         return score;
     }
 
-    private long evaluate(List<String> node, int color) {    // get heuristic score of board
-        updateTboard(node);
+    private long evaluate(Square[][] tboard, int color) {    // get heuristic score of board
+        // updateTboard(node);
         long self = evaluateColor(color);
         long other = evaluateColor(1-color);
-        restoreTboard(node);
+        // restoreTboard(node);
         return self - other;
     }
 
-    private HashMap<Integer, String> generateSteps() {     // return neighbor-len1 and neighbor-len2 steps
+    private HashMap<Integer, String> generateSteps(Square[][] chessBoard) {     // return neighbor-len1 and neighbor-len2 steps
         HashMap<Integer, String> candidate = new HashMap<Integer, String>();
         List<String> len2 = new LinkedList<String>();
         len2.clear();
@@ -432,7 +433,7 @@ public class RobotO extends RobotAI {
         int c = 0;
         for (int i = 0; i < ROWS; i++) {
             for (int j = 0; j < COLS; j++) {
-                if (!tboard[i][j].empty) continue;
+                if (!chessBoard[i][j].empty) continue;
                 if (hasNeighbor(i, j, 1)) {
                     candidate.put(c, String.format("%02d%02d", i, j));
                     c++;
@@ -467,5 +468,19 @@ public class RobotO extends RobotAI {
             }
         }
         return false;
+    }
+
+    private void printtboardWithIndent(Square[][] tboard, int indent) {
+        String IND = "";
+        for (int i = 0; i < indent; i++)
+            IND += " ";
+        for (int i = 0; i < ROWS; i++) {
+            System.out.print(IND);
+            for (int j = 0; j < COLS; j++) {
+                if (tboard[i][j].empty) System.out.print("-");
+                else System.out.print(tboard[i][j].color);
+            }
+            System.out.println();
+        }
     }
 }

@@ -668,7 +668,7 @@ public class MainFrame extends JFrame {
 		logInfo.selectAll();
 	}
 
-	public static MainFrame instance() {
+	public synchronized static MainFrame instance() {
 		return instance;
 	}
 }
