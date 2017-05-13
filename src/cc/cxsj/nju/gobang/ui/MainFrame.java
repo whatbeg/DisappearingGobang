@@ -5,6 +5,7 @@ import java.awt.event.*;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.HashMap;
 
 import javax.swing.*;
 import javax.swing.border.Border;
@@ -616,7 +617,6 @@ public class MainFrame extends JFrame {
     }
 
 	private void refreshResultListModal() {
-	    ContestResults.loadContestResults(0);
 		resultsIdList = ContestResults.getContestIdsOrderly();
 		int resultNum = resultsIdList.size();
 		System.out.println("ResultsIdList has " + resultNum);
