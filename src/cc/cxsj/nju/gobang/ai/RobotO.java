@@ -17,9 +17,10 @@ public class RobotO extends RobotAI {
     private static final int ROWS = Integer.valueOf(ServerProperties.instance().getProperty("chess.board.rows"));
     private static final int COLS = Integer.valueOf(ServerProperties.instance().getProperty("chess.board.cols"));
     private String[] path;
+    private int depth;
     private HashMap<String, Integer> SCORE;
 
-    public RobotO() {
+    public RobotO(int dep) {
         SCORE = new HashMap<String, Integer>();
         SCORE.put("ONE", 10);        // 单子
         SCORE.put("TWO", 100);       // 活二，包括跳活二
@@ -30,6 +31,7 @@ public class RobotO extends RobotAI {
         SCORE.put("MTWO", 10);       // 眠二
         SCORE.put("MTHREE", 100);    // 眠三
         SCORE.put("MFOUR", 1000);    // 眠四(冲四)
+        depth = dep;
     }
 
     @Override
@@ -39,7 +41,7 @@ public class RobotO extends RobotAI {
 
         // find the first empty grid and put down
         if (!isThisStep) {
-            isThisStep = SearchStep(2);
+            isThisStep = SearchStep(depth);
         }
 
         // no step is last step

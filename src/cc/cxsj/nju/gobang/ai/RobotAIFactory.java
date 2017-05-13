@@ -11,14 +11,16 @@ public class RobotAIFactory {
 		switch (model) {
 			case RobotOmega:
                 LOG.info("Produce Robot Omega");
-                return new RobotO();
+                return new RobotO(1);
 			case RobotAlpha:
 				LOG.info("Produce one Robot Alpha");
 				return new RobotI();
 			case RobotBeta:
-				LOG.info("Produce on Robot Beta");
+				LOG.info("Produce one Robot Beta");
 				return new RobotII();
 			case RobotGamma:
+				LOG.info("Produce one Robot Gamma");
+				return new RobotO(2);
             case RobotLambda:
 			default:
 				LOG.info("Robot Factory can not produce this model Robot!");
