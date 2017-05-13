@@ -5,6 +5,7 @@ import java.awt.event.*;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.HashMap;
 
 import javax.swing.*;
 import javax.swing.border.Border;
@@ -601,9 +602,6 @@ public class MainFrame extends JFrame {
     public void setPlayerId(String playerA, String playerB) {
 	    player1info.setText(playerA);
 	    player2info.setText(playerB);
-	    // selectRoundLabel.setText(round);
-	    // selectedRound = Integer.valueOf(round);
-        // roundSelectComboBox.setSelectedIndex(Integer.valueOf(round));
     }
 
     public void ClearChessBoardUI() {
@@ -641,7 +639,9 @@ public class MainFrame extends JFrame {
 		});
 		resultListModel.clear();
 		for (Integer id : resultsIdList) {
+		    System.out.println(id);
 			ContestResult result = ContestResults.getContestResult(id);
+			System.out.println(result);
 			StringBuilder sb = new StringBuilder(" ");
 			if (id < 10) {
 				sb.append("0");

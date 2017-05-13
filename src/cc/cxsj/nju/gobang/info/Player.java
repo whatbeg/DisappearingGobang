@@ -51,7 +51,7 @@ public class Player {
 	}
 
 	public boolean isclosed() {
-	    if (this.socket.isConnected()) return true;
+	    if (!this.socket.isConnected()) return true;
 	    if (this.socket.isOutputShutdown()) return true;
 	    if (this.socket.isClosed()) return true;
 	    return false;
