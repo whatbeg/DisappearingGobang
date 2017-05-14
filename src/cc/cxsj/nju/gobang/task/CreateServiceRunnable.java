@@ -22,7 +22,7 @@ public class CreateServiceRunnable extends Thread {
 	private static final Logger LOG = Logger.getLogger(CreateServiceRunnable.class);
 	private static final Integer MODE = Integer.valueOf(ServerProperties.instance().getProperty("server.mode"));
 	private static boolean isFilterOut;
-
+    private static final Boolean PRINT_ERROR = Boolean.valueOf(ServerProperties.instance().getProperty("see.error"));
 	static CreateServiceRunnable instance = new CreateServiceRunnable();
 
 	private HashSet<String> isContested = new HashSet<String>();
@@ -58,6 +58,7 @@ public class CreateServiceRunnable extends Thread {
 		try {
 			this.sockets.put(socket);
 		} catch (InterruptedException e) {
+		    if (PRINT_ERROR) MainFrame.instance().log("InterruptedException when add socket");
 			LOG.error("InterruptedException when add socket");
 			System.exit(0);
 		}
@@ -120,7 +121,7 @@ public class CreateServiceRunnable extends Thread {
 							// block
 							socket = this.sockets.take();
 						} catch (InterruptedException e) {
-						    e.printStackTrace();
+						    if (PRINT_ERROR) e.printStackTrace();
 							LOG.error(e);
 							break;
 						}
@@ -129,12 +130,13 @@ public class CreateServiceRunnable extends Thread {
 							socket.setSoTimeout(
 									Integer.valueOf(ServerProperties.instance().getProperty("step.timeout")));
 						} catch (SocketException e) {
-						    e.printStackTrace();
+                            if (PRINT_ERROR) e.printStackTrace();
 							LOG.error(e);
 							try {
 								socket.close();
 							} catch (IOException e1) {
-								LOG.error(e);
+                                if (PRINT_ERROR) e1.printStackTrace();
+								LOG.error(e1);
 							}
 							continue;
 						}
@@ -142,13 +144,13 @@ public class CreateServiceRunnable extends Thread {
 						try {
 							bfin = new BufferedInputStream(socket.getInputStream());
 						} catch (IOException e) {
-                            e.printStackTrace();
+                            if (PRINT_ERROR) e.printStackTrace();
 							LOG.error(e);
 							try {
 								socket.close();
 							} catch (IOException e1) {
-							    e.printStackTrace();
-								LOG.error(e);
+                                if (PRINT_ERROR) e1.printStackTrace();
+								LOG.error(e1);
 							}
 							continue;
 						}
@@ -157,11 +159,13 @@ public class CreateServiceRunnable extends Thread {
 							// block
 							bfin.read(buffer);
 						} catch (IOException e) {
+                            if (PRINT_ERROR) e.printStackTrace();
 							LOG.error(e);
 							try {
 								socket.close();
 							} catch (IOException e1) {
-								LOG.error(e);
+                                if (PRINT_ERROR) e1.printStackTrace();
+								LOG.error(e1);
 							}
 							continue;
 						}
@@ -192,6 +196,7 @@ public class CreateServiceRunnable extends Thread {
 									try {
 										user.initial(socket, bfin);
 									} catch (IOException e) {
+                                        if (PRINT_ERROR) e.printStackTrace();
 										LOG.error(e);
 										user.clear();
 										socket = null;
@@ -210,6 +215,7 @@ public class CreateServiceRunnable extends Thread {
 										socket = null;
 										bfin = null;
 									} catch (IOException e) {
+                                        if (PRINT_ERROR) e.printStackTrace();
 										LOG.error(e);
 									}
 									LOG.info("Password is wrong: " + password);
@@ -222,6 +228,7 @@ public class CreateServiceRunnable extends Thread {
 									socket = null;
 									bfin = null;
 								} catch (IOException e) {
+                                    if (PRINT_ERROR) e.printStackTrace();
 									LOG.error(e);
 								}
 								LOG.info("Not in Player List " + id);
@@ -234,6 +241,7 @@ public class CreateServiceRunnable extends Thread {
 								socket = null;
 								bfin = null;
 							} catch (IOException e) {
+                                if (PRINT_ERROR) e.printStackTrace();
 								LOG.error(e);
 							}
 							LOG.info("Authorize msg format error");
@@ -247,13 +255,16 @@ public class CreateServiceRunnable extends Thread {
 						try {
 							sockets.take().close();
 						} catch (IOException e) {
+                            if (PRINT_ERROR) e.printStackTrace();
 							LOG.error(e);
-						} catch (InterruptedException e) {
-							LOG.error(e);
+						} catch (InterruptedException e1) {
+                            if (PRINT_ERROR) e1.printStackTrace();
+							LOG.error(e1);
 						}
 					}
 					this.sockets = null;
 				}
+
                 // Ready Start Contest
 				if (!Thread.currentThread().isInterrupted()) {
 					LOG.info("The number of registered players: " + matchPlayerMap.size());
@@ -287,8 +298,13 @@ public class CreateServiceRunnable extends Thread {
 						}
 					}
 				}
-			} finally {
-
+			} catch (Exception e) {
+                if (PRINT_ERROR) e.printStackTrace();
+                LOG.error(e);
+            } finally {
+			    if (PRINT_ERROR)
+			    MainFrame.instance().log("May Interrupted Current Thread");
+//			    System.exit(0);
 			}
 			break;
 		}
@@ -411,10 +427,10 @@ public class CreateServiceRunnable extends Thread {
 					}
 
 					if (!Thread.currentThread().isInterrupted()) {
-						// create contest service
-						TestServiceRunnable tsr = new TestServiceRunnable(user);
-						this.executor.execute(tsr);
-					}
+                        // create contest service
+                        TestServiceRunnable tsr = new TestServiceRunnable(user);
+                        this.executor.execute(tsr);
+                    }
 				}
 			} finally {
 

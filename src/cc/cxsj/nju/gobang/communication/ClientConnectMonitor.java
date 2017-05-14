@@ -83,9 +83,11 @@ public class ClientConnectMonitor extends Thread {
 					MainFrame.instance().log("Waitting clients to access...");
 					socket = serverSocket.accept();
 				} catch (IOException e) {
+					MainFrame.instance().log(e.toString());
 					LOG.error(e);
 					continue;
 				} catch (SecurityException e) {
+                    MainFrame.instance().log(e.toString());
 					LOG.error(e);
 					continue;
 				}
@@ -113,6 +115,7 @@ public class ClientConnectMonitor extends Thread {
                 try {
                     serverSocket.close();
                 } catch (IOException e) {
+                    MainFrame.instance().log("Server Socket Close Exception");
                     LOG.error(e);
                 } finally {
                     LOG.error("System will exit!");
