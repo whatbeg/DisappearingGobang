@@ -152,8 +152,8 @@ public class ContestResults {
 					line = in.readLine();
 					String [] l7 = line.split(" ");
                     for (int j = 1; j < l7.length; j++) {
-                        result.timecost[0][j - 1] = Integer.valueOf(l7[j].split(":")[0]);
-                        result.timecost[1][j - 1] = Integer.valueOf(l7[j].split(":")[1]);
+                        result.timecost[0][j - 1] = Long.valueOf(l7[j].split(":")[0]);
+                        result.timecost[1][j - 1] = Long.valueOf(l7[j].split(":")[1]);
                     }
 					results.put(result.id, result);
 				} finally {

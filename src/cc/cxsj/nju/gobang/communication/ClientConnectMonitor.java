@@ -103,18 +103,22 @@ public class ClientConnectMonitor extends Thread {
 						+ ":" + socket.getPort());
 				MainFrame.instance().log("Accepted one accession: " + socket.getInetAddress().getHostAddress()
 						+ ":" + socket.getPort());
+				System.out.println("Next...");
 			}
 		} catch (Exception e) {
+		    e.printStackTrace();
 		    MainFrame.instance().log(e.toString());
 			LOG.error(e);
 		} finally {
 		    if (serverSocket == null) {
+		        System.out.println("ServerSocket is NULL!");
 		        MainFrame.instance().log("ServerSocket is NULL!");
             }
             else {
                 try {
                     serverSocket.close();
                 } catch (IOException e) {
+                    e.printStackTrace();
                     MainFrame.instance().log("Server Socket Close Exception");
                     LOG.error(e);
                 } finally {

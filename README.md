@@ -28,17 +28,24 @@ DisappearingGobang Server Source Code.
 1. 支持断连后重新连接
 
 之前一旦连接成功后的断连（比赛开始前），则无法再次连接。本版本支持断连后重连，多次以同一用户登录则取最新登录的参加比赛。
+需注意的是，在比赛模式下，只要用户成功登录过一次，不管是否掉线，服务器都会当做已经登录，人数足够则开始比赛，所以，用户如果成功连上以后掉线，则必须在比赛开始之前重连上服务器，否则比赛开始后无法重连。
 更新的文件有：
-* GobangServer1.0.3.jar
+* GobangServer1.0.3_rc2.jar
 
 2. 修正多局比赛同时进行时的输赢判定错误问题
 
 调查表明该bug出自不恰当的静态变量的使用，已修复。
 更新的文件有：
-* GobangServer1.0.3.jar
+* GobangServer1.0.3_rc2.jar
 
 3. 增加了蒟蒻的两个电脑AI： RobotOmega 和 RobotGamma
 
 就不告诉你们编号~
 更新的文件有：
-* GobangServer1.0.3.jar
+* GobangServer1.0.3_rc2.jar
+
+4. 修复了下子时间统计为负数的情况
+
+由于数值溢出导致时间统计为负数，已修复。
+更新的文件有
+* GobangServer1.0.3_rc2.jar

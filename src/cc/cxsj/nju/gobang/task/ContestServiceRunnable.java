@@ -24,7 +24,7 @@ public class ContestServiceRunnable implements Runnable{
     private static final int STEPS = Integer.valueOf(ServerProperties.instance().getProperty("round.steps"));
     private static final int ERRORS = Integer.valueOf(ServerProperties.instance().getProperty("step.error.number"));
     private static final int DIS_FREQ = Integer.valueOf(ServerProperties.instance().getProperty("disappear_freq"));
-    private static final boolean PRINT_ERROR = true;
+    private static final boolean PRINT_ERROR = Boolean.valueOf(ServerProperties.instance().getProperty("see.error"));
     private static int ID = 0;
 
     private Player[] players;
@@ -271,7 +271,7 @@ public class ContestServiceRunnable implements Runnable{
                             result.winner = white;
                             break;
                         }
-                        result.timecost[black][round] += System.nanoTime() - stepstart;
+                        result.timecost[black][round] += Long.max(0, System.nanoTime() - stepstart);
                         // test and verify the black step
                         String blackStep = new String(recvBuffer);
                         String blackReturnCode = board.step(blackStep, num,0);
@@ -443,7 +443,7 @@ public class ContestServiceRunnable implements Runnable{
                             result.winner = black;
                             break;
                         }
-                        result.timecost[white][round] += System.nanoTime() - stepstart;
+                        result.timecost[white][round] += Long.max(0, System.nanoTime() - stepstart);
                         // test and verify the white step
                         String whiteStep = new String(recvBuffer);
                         String whiteReturnCode = board.step(whiteStep, num,1);
@@ -533,7 +533,7 @@ public class ContestServiceRunnable implements Runnable{
                     }
                 } catch (Exception e) {
                     // round end abnormally
-                    e.printStackTrace();
+                    if (PRINT_ERROR) e.printStackTrace();
                     LOG.error(e);
                     LOG.error(this.info + " ROUND " + round + " Unkown Exception in " + round + " CONTEST");
                     record.get(round).add("ROUND_ERROR " + round);
@@ -561,6 +561,7 @@ public class ContestServiceRunnable implements Runnable{
                 }
             }
         } catch (Exception e) {
+            if (PRINT_ERROR) e.printStackTrace();
             LOG.error(e);
             LOG.error(this.info + " Unkown Exception");
         } finally {
@@ -581,19 +582,18 @@ public class ContestServiceRunnable implements Runnable{
             result.evaluate();
             ContestResults.addContestResult(result);
             saveResult();
-            LOG.info(this.info + " result save done!");
-            MainFrame.instance().log(this.info + " result save done!");
+            LOG.info(this.info + " result saved!");
+            MainFrame.instance().log(this.info + " result saved!");
 
             // store record into file
             saveRecord();
             LOG.info(this.info + " record save completed!");
-            MainFrame.instance().log(this.info + " record save done!");
+            MainFrame.instance().log(this.info + " record saved!");
 
             // release
             players[0].clear();
             players[1].clear();
         }
-
     }
 
     private void saveRecord() {

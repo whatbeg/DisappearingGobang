@@ -662,13 +662,13 @@ public class MainFrame extends JFrame {
 	}
 
 	public synchronized void log(String info) {
-		logInfo.append(info);
+		logInfo.append(info + '\n');
         System.out.println(info);
 		logInfo.append("\n");
 		logInfo.selectAll();
 	}
 
-	public synchronized static MainFrame instance() {
+	public static MainFrame instance() {
 		return instance;
 	}
 }

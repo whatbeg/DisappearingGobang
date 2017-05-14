@@ -115,11 +115,20 @@ public class CreateServiceRunnable extends Thread {
 
 					LOG.info("The number of registered players: " + matchPlayerMap.size());
 					MainFrame.instance().log("The number of registered players: " + matchPlayerMap.size());
-
+                    if (matchPlayerMap.size() >= 0.75 * Players.getPlayersNum()) {
+                        MainFrame.instance().log("Un-accessed Players, be soon:");
+                        HashMap<String, Player> playerHashMap = Players.getPlayersInfo();
+                        for (String key: playerHashMap.keySet()) {
+                            if (!matchPlayerMap.containsKey(key)) {
+                                MainFrame.instance().log(key);
+                            }
+                        }
+                    }
 					while (!Thread.currentThread().isInterrupted()) {
 						try {
-							// block
+							// block / wait for take
 							socket = this.sockets.take();
+							System.out.println("Take one socket, this.sockets remain " + this.sockets.size() + " ps");
 						} catch (InterruptedException e) {
 						    if (PRINT_ERROR) e.printStackTrace();
 							LOG.error(e);
@@ -171,6 +180,7 @@ public class CreateServiceRunnable extends Thread {
 						}
 
 						String msg = new String(buffer);
+						System.out.println("MSG: " + msg);
 						Arrays.fill(buffer, (byte) 0);
 						if (msg.charAt(0) == 'A' && msg.length() == 16) {
 							String id = msg.substring(1, 10);
@@ -204,10 +214,10 @@ public class CreateServiceRunnable extends Thread {
 										continue;
 									}
 									isContested.add(id);
-									matchPlayerMap.put(user.getId(), user); // ID :
+									matchPlayerMap.put(user.getId(), user); // ID : Player
 									LOG.info("Welcome " + id);
 									MainFrame.instance().log("Welcome " + id);
-									break;
+									break;     // break this sub loop
 								} else {
 									try {
 										bfin.close();
@@ -231,8 +241,8 @@ public class CreateServiceRunnable extends Thread {
                                     if (PRINT_ERROR) e.printStackTrace();
 									LOG.error(e);
 								}
-								LOG.info("Not in Player List " + id);
-								MainFrame.instance().log("Not in Player List" + id);
+								LOG.info("Not in Player List: " + id);
+								MainFrame.instance().log("Not in Player List: " + id);
 							}
 						} else {
 							try {
@@ -302,8 +312,8 @@ public class CreateServiceRunnable extends Thread {
                 if (PRINT_ERROR) e.printStackTrace();
                 LOG.error(e);
             } finally {
-			    if (PRINT_ERROR)
-			    MainFrame.instance().log("May Interrupted Current Thread");
+//			    if (PRINT_ERROR)
+//			    MainFrame.instance().log("May Interrupted Current Thread");
 //			    System.exit(0);
 			}
 			break;
@@ -433,7 +443,7 @@ public class CreateServiceRunnable extends Thread {
                     }
 				}
 			} finally {
-
+                System.out.println("All Contest Done!");
 			}
 			break;
 		}

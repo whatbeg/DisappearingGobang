@@ -14,7 +14,7 @@ public class ContestResult {
 	public int[] stepsNum;
 	public int[][] scores;
 	public int[][] errors;
-	public int[][] timecost;
+	public long[][] timecost;
     public int [] winStep;
     public int [] errCounts;
     public int [] totalTime;
@@ -25,7 +25,7 @@ public class ContestResult {
 		this.stepsNum = new int[ROUNDS];
 		this.scores = new int[2][ROUNDS];
 		this.errors = new int[2][ROUNDS];
-        this.timecost = new int[2][ROUNDS];
+        this.timecost = new long[2][ROUNDS];
 		this.winStep = new int[2];
 		this.errCounts = new int[2];
 		this.totalTime = new int[2];
@@ -40,7 +40,7 @@ public class ContestResult {
 		this.stepsNum = new int[ROUNDS];
 		this.scores = new int[2][ROUNDS];
 		this.errors = new int[2][ROUNDS];
-		this.timecost = new int[2][ROUNDS];
+		this.timecost = new long[2][ROUNDS];
         this.winStep = new int[2];
         this.errCounts = new int[2];
         this.totalTime = new int[2];
@@ -142,5 +142,4 @@ public class ContestResult {
         }
 		return sb.toString();
 	}
-	
 }
