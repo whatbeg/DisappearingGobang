@@ -16,7 +16,7 @@ import org.apache.log4j.Logger;
  * monitor clients access
  * 
  * @author coldcode
- *
+ * modifier whatbeg
  */
 public class ClientConnectMonitor extends Thread {
 
@@ -57,7 +57,7 @@ public class ClientConnectMonitor extends Thread {
 			System.exit(0);
 		}
 		
-		LOG.info("Creat server socket success!");
+		LOG.info("Create server socket success!");
 		MainFrame.instance().log("Creat server socket success!");
 		LOG.info("Server address is: " + this.ip + ":" + this.port);
 		MainFrame.instance().log("Server address is: " + this.ip + ":" + this.port);
@@ -103,7 +103,7 @@ public class ClientConnectMonitor extends Thread {
 						+ ":" + socket.getPort());
 				MainFrame.instance().log("Accepted one accession: " + socket.getInetAddress().getHostAddress()
 						+ ":" + socket.getPort());
-				System.out.println("Next...");
+				// System.out.println("Next...");
 			}
 		} catch (Exception e) {
 		    e.printStackTrace();

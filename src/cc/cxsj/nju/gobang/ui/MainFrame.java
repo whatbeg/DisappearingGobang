@@ -541,7 +541,6 @@ public class MainFrame extends JFrame {
                                 synchronized (this) {
                                     if (suspend) {
                                         break;
-
                                     }
                                 }
                                 temp++;
@@ -661,13 +660,24 @@ public class MainFrame extends JFrame {
 		log("Refresh result list complete!");
 	}
 
-	public synchronized void log(String info) {
+    /**
+     * write info on MainFrame's Log Info panel.
+     * Cancel `synchronized` key word, let every thread access it freely.
+     *
+     * @param info contents to write on Log Info panel
+     */
+	public void log(String info) {    // logInfo is shared variable
 		logInfo.append(info + '\n');
         System.out.println(info);
-		logInfo.append("\n");
 		logInfo.selectAll();
 	}
 
+    /**
+     * invoke static instance of MainFrame to change contents of main panel
+     * without `synchronized` key word
+     *
+     * @return static instance of MainFrame
+     */
 	public static MainFrame instance() {
 		return instance;
 	}

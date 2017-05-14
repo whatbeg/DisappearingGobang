@@ -46,8 +46,8 @@ public class CreateServiceRunnable extends Thread {
 
 	public synchronized void addSocket(Socket socket) {
 		if (sockets == null) {
-			LOG.info("This round of contest is over!");
-			MainFrame.instance().log("This round of contest is over!");
+			LOG.info("Contest Started or Contest over!");
+			MainFrame.instance().log("Contest Started or Contest over!");
 			try {
 				socket.close();
 			} catch (IOException e) {
@@ -128,7 +128,7 @@ public class CreateServiceRunnable extends Thread {
 						try {
 							// block / wait for take
 							socket = this.sockets.take();
-							System.out.println("Take one socket, this.sockets remain " + this.sockets.size() + " ps");
+							// System.out.println("Take one socket, this.sockets remain " + this.sockets.size() + " ps");
 						} catch (InterruptedException e) {
 						    if (PRINT_ERROR) e.printStackTrace();
 							LOG.error(e);
@@ -180,7 +180,6 @@ public class CreateServiceRunnable extends Thread {
 						}
 
 						String msg = new String(buffer);
-						System.out.println("MSG: " + msg);
 						Arrays.fill(buffer, (byte) 0);
 						if (msg.charAt(0) == 'A' && msg.length() == 16) {
 							String id = msg.substring(1, 10);
@@ -443,7 +442,7 @@ public class CreateServiceRunnable extends Thread {
                     }
 				}
 			} finally {
-                System.out.println("All Contest Done!");
+
 			}
 			break;
 		}
