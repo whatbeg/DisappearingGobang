@@ -56,3 +56,10 @@ DisappearingGobang Server Source Code.
 
 更新的文件有
 * GobangServer1.0.3_rc3.jar
+
+### 5. 添加服务器属性see.error
+
+增加了一个服务器配置属性: see.error，默认为true，即所有异常都会打印在stdout中，用于服务器错误调试。不用修改。
+
+更新的文件有：
+* server.properties
