@@ -214,8 +214,8 @@ public class CreateServiceRunnable extends Thread {
 									}
 									isContested.add(id);
 									matchPlayerMap.put(user.getId(), user); // ID : Player
-									LOG.info("Welcome " + id);
-									MainFrame.instance().log("Welcome " + id);
+                                    LOG.info("Welcome " + id + "," + user.getName());
+                                    MainFrame.instance().log("Welcome " + id + "," +user.getName());
 									break;     // break this sub loop
 								} else {
 									try {
@@ -394,8 +394,8 @@ public class CreateServiceRunnable extends Thread {
 										bfin = null;
 										continue;
 									}
-									LOG.info("Welcome " + id);
-									MainFrame.instance().log("Welcome " + id);
+									LOG.info("Welcome " + id + "," + user.getName());
+									MainFrame.instance().log("Welcome " + id + "," +user.getName());
 									break;
 								} else {
 									try {

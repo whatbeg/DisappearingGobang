@@ -389,7 +389,7 @@ public class MainFrame extends JFrame {
 		aboutItem.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				JOptionPane.showMessageDialog(null, "Just Enjoy it :-)", "From whatbeg", JOptionPane.INFORMATION_MESSAGE,
+				JOptionPane.showMessageDialog(null, "Just Enjoy it :-)", "From Qiu Hu & J.Kai Shen", JOptionPane.INFORMATION_MESSAGE,
 						null);
 			}
 		});

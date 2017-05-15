@@ -110,12 +110,12 @@ public class ContestResults {
 					line = in.readLine();
 					String[] l2 = line.split(" ");
 					if (l2[1].contains("Robot")) {
-						result.players[0] = new Player(l2[1], l2[1]);
+						result.players[0] = new Player(l2[1], l2[1], l2[1]);
 					} else {
 						result.players[0] = Players.getPlayer(l2[1]);
 					}
 					if (l2[3].contains("Robot")) {
-						result.players[1] = new Player(l2[3], l2[3]);
+						result.players[1] = new Player(l2[3], l2[3], l2[3]);
 					} else {
 						result.players[1] = Players.getPlayer(l2[3]);
 					}

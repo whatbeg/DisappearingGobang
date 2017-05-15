@@ -15,7 +15,7 @@ public class RobotPlayerAdapter extends Player{
 	private RobotAI robot;
 
 	public RobotPlayerAdapter(String id, String name, RobotAIModel model) {
-		super(id, name);
+		super(id, name, name);
 		this.robot = RobotAIFactory.produceRobotAIof(model);
 	}
 	

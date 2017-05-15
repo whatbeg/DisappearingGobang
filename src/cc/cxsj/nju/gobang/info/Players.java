@@ -75,11 +75,16 @@ public class Players {
 					if (s.equals(""))
 						continue;
 					String[] info = s.split(",");
-					if (info.length == 2) {
-						playersInfo.put(info[0].trim(), new Player(info[0].trim(), info[1].trim()));
+					if (info.length == 3) {
+						playersInfo.put(info[0].trim(), new Player(info[0].trim(), info[1].trim(), info[2].trim()));
 						LOG.info(info[0].trim());
-						MainFrame.instance().log(info[0].trim());
+						MainFrame.instance().log(info[0].trim() + "," + info[2].trim());
 					}
+					else if (info.length == 2) {
+                        playersInfo.put(info[0].trim(), new Player(info[0].trim(), info[1].trim(), null));
+                        LOG.info(info[0].trim());
+                        MainFrame.instance().log(info[0].trim());
+                    }
 				}
 				LOG.info("Total players: " + playersInfo.size());
 				MainFrame.instance().log("Total: " + playersInfo.size());
@@ -107,20 +112,20 @@ public class Players {
 				case 0:   // A赢
 					nextPlayers.add(result.players[0]);
 					LOG.error(result.players[0].getId());
-					MainFrame.instance().log(result.players[0].getId());
+					MainFrame.instance().log(result.players[0].getId() + "," + result.players[0].getName());
 					break;
 				case 1:   // B赢
 					nextPlayers.add(result.players[1]);
 					LOG.error(result.players[1].getId());
-					MainFrame.instance().log(result.players[1].getId());
+					MainFrame.instance().log(result.players[1].getId() + "," + result.players[1].getName());
 					break;
 				case 2:   // 平局
 					nextPlayers.add(result.players[0]);
 					nextPlayers.add(result.players[1]);
 					LOG.error(result.players[0].getId());
-					MainFrame.instance().log(result.players[0].getId());
+					MainFrame.instance().log(result.players[0].getId() + "," + result.players[0].getName());
 					LOG.error(result.players[1].getId());
-					MainFrame.instance().log(result.players[1].getId());
+					MainFrame.instance().log(result.players[1].getId() + "," + result.players[1].getName());
 					break;
 				default:
 					break;
@@ -165,7 +170,10 @@ public class Players {
 			}
 			out = new PrintWriter(file);
 			for (Player player : nextPlayers) {
-				out.println(player.getId() + "," + player.getPassword());
+			    if (!player.getName().equalsIgnoreCase(""))
+				    out.println(player.getId() + "," + player.getPassword() + "," + player.getName());
+			    else
+                    out.println(player.getId() + "," + player.getPassword());
 			}
 			out.flush();
 			LOG.error("Export promotion palyers sucess!");

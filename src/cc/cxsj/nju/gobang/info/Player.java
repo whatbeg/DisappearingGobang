@@ -10,6 +10,7 @@ import java.util.Arrays;
 public class Player {
 	private String id;
 	private String password;
+	private String name;
 	private Socket socket = null;
 	private BufferedInputStream receiver = null;
 	private OutputStream sender = null;
@@ -17,14 +18,18 @@ public class Player {
 	protected byte[] sendBuffer = new byte[16];
 	protected byte[] recvBuffer = new byte[16];
 	
-	public Player(String id, String password) {
+	public Player(String id, String password, String name) {
 		this.id = id;
 		this.password = password;
+		if (name == null) this.name = "";
+		else this.name = name;
 	}
 	
 	public String getId() {
 		return id;
 	}
+
+	public String getName() { return name; }
 	
 	public void setId(String id) {
 		this.id = id;
