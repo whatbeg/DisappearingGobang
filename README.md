@@ -63,3 +63,37 @@ DisappearingGobang Server Source Code.
 
 更新的文件有：
 * server.properties
+
+## 5月15日模拟赛后更新
+
+### 1. 将玩家列表players list从.list格式改成了.txt格式
+
+新版本的服务器读取.txt格式，老版本只能读取.list格式。
+
+更新的文件有：
+* GobangServer1.0.4.jar
+
+### 2. 比赛时log面板加入中文名信息
+
+为了更加方便的可视化用户信息，在log面板中加入了player的中文名信息。
+只需在players-x.txt中以比如“161220001,123456,张三”的一行表示用户即可。
+也可以不加这个信息，即以比如“161220001,123456”的一行表示用户即可。
+
+更新的文件有：
+* GobangServer1.0.4.jar
+
+### 说明：
+
+### 1. 双击运行jar时中文名乱码问题
+
+尝试在cmd中用如下语句
+"java -Dfile.encoding=UTF-8 -jar GobangServer1.0.4.jar"
+来运行Jar文件。
+
+### 2. 回放模拟赛，正赛，小组赛棋局的方法
+
+看每一轮的竞赛需要将每一轮的player-x.txt放到players文件夹中
+（不要有别的txt文件）
+在players里面保留players-0.txt，则在主面板Load Contest Results时会看到第1轮比赛的棋局列表。
+players-1.txt放到players中就是看第2轮的比赛
+
