@@ -34,7 +34,7 @@ public class Players {
 			System.exit(0);
 		}
 		File[] files = dir.listFiles(new FilenameFilter() {    // 得到固定文件名格式的文件列表
-			Pattern pattern = Pattern.compile("players\\-[0-9]+\\.list");
+			Pattern pattern = Pattern.compile("players\\-[0-9]+\\.txt");
 
 			@Override
 			public boolean accept(File dir, String name) {   // 复写accept方法
@@ -59,7 +59,7 @@ public class Players {
 		}
 		File file = files[index];
 		int nextId = currentId + 1;
-		ServerProperties.instance().setProperty("next.players.file", "players-" + nextId + ".list");
+		ServerProperties.instance().setProperty("next.players.file", "players-" + nextId + ".txt");
 		ServerProperties.instance().setProperty("current.record.dir", "record-" + currentId);
 		ServerProperties.instance().setProperty("current.result.dir", "result-" + currentId);
 		MainFrame.instance().log("Load list file: " + file.getName());

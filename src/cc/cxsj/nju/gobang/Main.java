@@ -14,6 +14,8 @@ public class Main {
 
     static {
         PropertyConfigurator.configure(System.getProperty("user.dir") + "/config/log4j.properties");
+        System.setProperty("file.encoding", "UTF-8");
+        // System.out.println(System.getProperty("file.encoding"));
     }
 
     private static final Logger LOG = Logger.getLogger(Main.class);

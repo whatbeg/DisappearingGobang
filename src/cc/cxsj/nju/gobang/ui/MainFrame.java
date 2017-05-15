@@ -667,9 +667,14 @@ public class MainFrame extends JFrame {
      * @param info contents to write on Log Info panel
      */
 	public void log(String info) {    // logInfo is shared variable
-		logInfo.append(info + '\n');
-        System.out.println(info);
-		logInfo.selectAll();
+        try {
+            logInfo.append(info + '\n');
+            System.out.println(info);
+            // logInfo.selectAll();
+            logInfo.setCaretPosition(logInfo.getText().length());
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 	}
 
     /**

@@ -194,7 +194,7 @@ public class ContestServiceRunnable implements Runnable{
                     for ( ; num <= STEPS; num++) {
                         winner = board.isGeneratedWinnner();
                         if (winner >= 0) {   // a player won
-                            MainFrame.instance().log("Winner is" + (winner==0?" Black":" White"));
+                            // MainFrame.instance().log("Winner is" + (winner==0?" Black":" White"));
                             break;
                         }
                         if (num != 1 && (num-1) % DIS_FREQ == 0) {
@@ -354,7 +354,7 @@ public class ContestServiceRunnable implements Runnable{
 
                         winner = board.isGeneratedWinnner();
                         if (winner >= 0) { // a player won
-                            MainFrame.instance().log("Winner is" + (winner==0?" Black":" White"));
+                            // MainFrame.instance().log("Winner is" + (winner==0?" Black":" White"));
                             break;
                         }
 
