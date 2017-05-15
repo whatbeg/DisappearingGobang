@@ -1,4 +1,84 @@
-2017-05-12 09:45:03  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
-2017-05-12 09:45:03  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
-2017-05-12 09:45:06  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 0 end
-2017-05-12 09:45:06  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-05-13 17:05:47  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-05-13 17:05:47  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-05-13 17:05:48  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-05-13 17:05:48  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-05-13 17:05:48  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-05-13 17:05:48  INFO DebugServiceRunnable:266 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-05-13 17:05:48  INFO DebugServiceRunnable:273 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-05-13 17:05:48  INFO DebugServiceRunnable:278 - RobotOmegavsRobotAlpha-debug-0 record save completed!
+2017-05-13 19:32:25  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-05-13 19:32:25  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-05-13 19:32:25  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-05-13 19:32:25  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-05-13 19:32:25  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-05-13 19:32:25  INFO DebugServiceRunnable:266 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-05-13 19:32:25  INFO DebugServiceRunnable:273 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-05-13 19:32:25  INFO DebugServiceRunnable:278 - RobotOmegavsRobotAlpha-debug-0 record save completed!
+2017-05-13 20:01:11  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-05-13 20:01:11  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-05-13 20:01:12  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-05-13 20:01:12  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-05-13 20:01:12  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-05-13 20:01:12  INFO DebugServiceRunnable:266 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-05-13 20:01:12  INFO DebugServiceRunnable:273 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-05-13 20:01:12  INFO DebugServiceRunnable:278 - RobotOmegavsRobotAlpha-debug-0 record save completed!
+2017-05-13 20:02:17  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-05-13 20:02:17  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-05-13 20:02:17  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-05-13 20:02:17  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-05-13 20:02:18  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-05-13 20:02:18  INFO DebugServiceRunnable:266 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-05-13 20:02:18  INFO DebugServiceRunnable:273 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-05-13 20:02:18  INFO DebugServiceRunnable:278 - RobotOmegavsRobotAlpha-debug-0 record save completed!
+2017-05-13 20:03:34  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-05-13 20:03:34  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-05-13 20:03:34  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-05-13 20:03:34  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-05-13 20:03:34  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-05-13 20:03:34  INFO DebugServiceRunnable:266 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-05-13 20:03:34  INFO DebugServiceRunnable:273 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-05-13 20:03:34  INFO DebugServiceRunnable:278 - RobotOmegavsRobotAlpha-debug-0 record save completed!
+2017-05-13 20:09:09  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-05-13 20:09:09  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-05-13 20:09:09  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-05-13 20:09:09  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-05-13 20:09:09  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-05-13 20:09:09  INFO DebugServiceRunnable:266 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-05-13 20:09:09  INFO DebugServiceRunnable:273 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-05-13 20:09:09  INFO DebugServiceRunnable:278 - RobotOmegavsRobotAlpha-debug-0 record save completed!
+2017-05-13 20:11:43  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-05-13 20:11:43  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-05-13 20:11:43  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-05-13 20:11:43  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-05-13 20:11:44  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-05-13 20:11:44  INFO DebugServiceRunnable:266 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-05-13 20:11:44  INFO DebugServiceRunnable:273 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-05-13 20:11:44  INFO DebugServiceRunnable:278 - RobotOmegavsRobotAlpha-debug-0 record save completed!
+2017-05-13 20:12:41  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-05-13 20:12:41  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-05-13 20:12:42  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-05-13 20:12:42  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-05-13 20:12:42  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-05-13 20:12:42  INFO DebugServiceRunnable:266 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-05-13 20:12:42  INFO DebugServiceRunnable:273 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-05-13 20:12:42  INFO DebugServiceRunnable:278 - RobotOmegavsRobotAlpha-debug-0 record save completed!
+2017-05-13 20:13:46  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-05-13 20:13:46  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-05-13 20:13:46  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-05-13 20:13:46  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-05-13 20:13:46  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-05-13 20:13:46  INFO DebugServiceRunnable:266 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-05-13 20:13:46  INFO DebugServiceRunnable:273 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-05-13 20:13:46  INFO DebugServiceRunnable:278 - RobotOmegavsRobotAlpha-debug-0 record save completed!
+2017-05-13 20:14:56  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-05-13 20:14:56  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-05-13 20:15:11  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-05-13 20:15:11  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start
+2017-05-13 20:17:18  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 1 end
+2017-05-13 20:17:18  INFO DebugServiceRunnable:266 - RobotOmegavsRobotAlpha-debug-0 game over
+2017-05-13 20:17:18  INFO DebugServiceRunnable:273 - RobotOmegavsRobotAlpha-debug-0 result save completed!
+2017-05-13 20:17:18  INFO DebugServiceRunnable:278 - RobotOmegavsRobotAlpha-debug-0 record save completed!
+2017-05-13 20:20:31  INFO DebugServiceRunnable:65 - RobotOmegavsRobotAlpha-debug-0 begin!
+2017-05-13 20:20:31  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 0 start
+2017-05-13 20:20:42  INFO DebugServiceRunnable:246 - RobotOmegavsRobotAlpha-debug-0 round 0 end
+2017-05-13 20:20:42  INFO DebugServiceRunnable:74 - RobotOmegavsRobotAlpha-debug-0 round 1 start

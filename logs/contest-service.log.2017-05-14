@@ -1,0 +1,1596 @@
+2017-05-14 11:10:07  INFO ContestServiceRunnable:59 - 111111112vs111111114-contest-0 begin!
+2017-05-14 11:10:07  INFO ContestServiceRunnable:69 - 111111112vs111111114-contest-0 round 0 start
+2017-05-14 11:10:07  INFO ContestServiceRunnable:59 - 111111111vs111111115-contest-3 begin!
+2017-05-14 11:10:07  INFO ContestServiceRunnable:59 - 111111113vs111111110-contest-2 begin!
+2017-05-14 11:10:07  INFO ContestServiceRunnable:69 - 111111113vs111111110-contest-2 round 0 start
+2017-05-14 11:10:07  INFO ContestServiceRunnable:59 - 111111116vs111111117-contest-1 begin!
+2017-05-14 11:10:07  INFO ContestServiceRunnable:69 - 111111111vs111111115-contest-3 round 0 start
+2017-05-14 11:10:07  INFO ContestServiceRunnable:69 - 111111116vs111111117-contest-1 round 0 start
+2017-05-14 11:10:08  INFO ContestServiceRunnable:550 - 111111111vs111111115-contest-3 round 0 end
+2017-05-14 11:10:08  INFO ContestServiceRunnable:69 - 111111111vs111111115-contest-3 round 1 start
+2017-05-14 11:10:09  INFO ContestServiceRunnable:550 - 111111112vs111111114-contest-0 round 0 end
+2017-05-14 11:10:09  INFO ContestServiceRunnable:69 - 111111112vs111111114-contest-0 round 1 start
+2017-05-14 11:10:09  INFO ContestServiceRunnable:550 - 111111116vs111111117-contest-1 round 0 end
+2017-05-14 11:10:09  INFO ContestServiceRunnable:69 - 111111116vs111111117-contest-1 round 1 start
+2017-05-14 11:10:09  INFO ContestServiceRunnable:550 - 111111113vs111111110-contest-2 round 0 end
+2017-05-14 11:10:09  INFO ContestServiceRunnable:69 - 111111113vs111111110-contest-2 round 1 start
+2017-05-14 11:10:10  INFO ContestServiceRunnable:550 - 111111111vs111111115-contest-3 round 1 end
+2017-05-14 11:10:10  INFO ContestServiceRunnable:577 - 111111111vs111111115-contest-3 game over
+2017-05-14 11:10:10  INFO ContestServiceRunnable:584 - 111111111vs111111115-contest-3 result save done!
+2017-05-14 11:10:10  INFO ContestServiceRunnable:589 - 111111111vs111111115-contest-3 record save completed!
+2017-05-14 11:10:10  INFO ContestServiceRunnable:550 - 111111112vs111111114-contest-0 round 1 end
+2017-05-14 11:10:10  INFO ContestServiceRunnable:577 - 111111112vs111111114-contest-0 game over
+2017-05-14 11:10:10  INFO ContestServiceRunnable:584 - 111111112vs111111114-contest-0 result save done!
+2017-05-14 11:10:10  INFO ContestServiceRunnable:589 - 111111112vs111111114-contest-0 record save completed!
+2017-05-14 11:10:11  INFO ContestServiceRunnable:550 - 111111116vs111111117-contest-1 round 1 end
+2017-05-14 11:10:11  INFO ContestServiceRunnable:577 - 111111116vs111111117-contest-1 game over
+2017-05-14 11:10:11  INFO ContestServiceRunnable:584 - 111111116vs111111117-contest-1 result save done!
+2017-05-14 11:10:11  INFO ContestServiceRunnable:589 - 111111116vs111111117-contest-1 record save completed!
+2017-05-14 11:10:11  INFO ContestServiceRunnable:550 - 111111113vs111111110-contest-2 round 1 end
+2017-05-14 11:10:11  INFO ContestServiceRunnable:577 - 111111113vs111111110-contest-2 game over
+2017-05-14 11:10:11  INFO ContestServiceRunnable:584 - 111111113vs111111110-contest-2 result save done!
+2017-05-14 11:10:11  INFO ContestServiceRunnable:589 - 111111113vs111111110-contest-2 record save completed!
+2017-05-14 11:54:04  INFO ContestServiceRunnable:59 - 111111113vs111111114-contest-0 begin!
+2017-05-14 11:54:04  INFO ContestServiceRunnable:69 - 111111113vs111111114-contest-0 round 0 start
+2017-05-14 11:54:04  INFO ContestServiceRunnable:59 - 111111112vs111111111-contest-3 begin!
+2017-05-14 11:54:04  INFO ContestServiceRunnable:69 - 111111112vs111111111-contest-3 round 0 start
+2017-05-14 11:54:04  INFO ContestServiceRunnable:59 - 111111115vs111111116-contest-2 begin!
+2017-05-14 11:54:04  INFO ContestServiceRunnable:69 - 111111115vs111111116-contest-2 round 0 start
+2017-05-14 11:54:04  INFO ContestServiceRunnable:59 - 111111117vs111111110-contest-1 begin!
+2017-05-14 11:54:04  INFO ContestServiceRunnable:69 - 111111117vs111111110-contest-1 round 0 start
+2017-05-14 11:54:21  INFO ContestServiceRunnable:550 - 111111113vs111111114-contest-0 round 0 end
+2017-05-14 11:54:21  INFO ContestServiceRunnable:69 - 111111113vs111111114-contest-0 round 1 start
+2017-05-14 11:54:21  INFO ContestServiceRunnable:550 - 111111117vs111111110-contest-1 round 0 end
+2017-05-14 11:54:21  INFO ContestServiceRunnable:69 - 111111117vs111111110-contest-1 round 1 start
+2017-05-14 11:54:22  INFO ContestServiceRunnable:550 - 111111112vs111111111-contest-3 round 0 end
+2017-05-14 11:54:22  INFO ContestServiceRunnable:69 - 111111112vs111111111-contest-3 round 1 start
+2017-05-14 11:54:22  INFO ContestServiceRunnable:550 - 111111115vs111111116-contest-2 round 0 end
+2017-05-14 11:54:22  INFO ContestServiceRunnable:69 - 111111115vs111111116-contest-2 round 1 start
+2017-05-14 11:54:38  INFO ContestServiceRunnable:550 - 111111113vs111111114-contest-0 round 1 end
+2017-05-14 11:54:38  INFO ContestServiceRunnable:577 - 111111113vs111111114-contest-0 game over
+2017-05-14 11:54:38  INFO ContestServiceRunnable:584 - 111111113vs111111114-contest-0 result save done!
+2017-05-14 11:54:38  INFO ContestServiceRunnable:589 - 111111113vs111111114-contest-0 record save completed!
+2017-05-14 11:54:38  INFO ContestServiceRunnable:550 - 111111112vs111111111-contest-3 round 1 end
+2017-05-14 11:54:38  INFO ContestServiceRunnable:577 - 111111112vs111111111-contest-3 game over
+2017-05-14 11:54:38  INFO ContestServiceRunnable:584 - 111111112vs111111111-contest-3 result save done!
+2017-05-14 11:54:38  INFO ContestServiceRunnable:589 - 111111112vs111111111-contest-3 record save completed!
+2017-05-14 11:54:39  INFO ContestServiceRunnable:550 - 111111117vs111111110-contest-1 round 1 end
+2017-05-14 11:54:39  INFO ContestServiceRunnable:577 - 111111117vs111111110-contest-1 game over
+2017-05-14 11:54:39  INFO ContestServiceRunnable:584 - 111111117vs111111110-contest-1 result save done!
+2017-05-14 11:54:39  INFO ContestServiceRunnable:589 - 111111117vs111111110-contest-1 record save completed!
+2017-05-14 11:54:39  INFO ContestServiceRunnable:550 - 111111115vs111111116-contest-2 round 1 end
+2017-05-14 11:54:39  INFO ContestServiceRunnable:577 - 111111115vs111111116-contest-2 game over
+2017-05-14 11:54:39  INFO ContestServiceRunnable:584 - 111111115vs111111116-contest-2 result save done!
+2017-05-14 11:54:39  INFO ContestServiceRunnable:589 - 111111115vs111111116-contest-2 record save completed!
+2017-05-14 11:56:35  INFO ContestServiceRunnable:59 - 111111112vs111111116-contest-0 begin!
+2017-05-14 11:56:35  INFO ContestServiceRunnable:69 - 111111112vs111111116-contest-0 round 0 start
+2017-05-14 11:56:35  INFO ContestServiceRunnable:59 - 111111113vs111111117-contest-3 begin!
+2017-05-14 11:56:35  INFO ContestServiceRunnable:69 - 111111113vs111111117-contest-3 round 0 start
+2017-05-14 11:56:35  INFO ContestServiceRunnable:59 - 111111114vs111111110-contest-1 begin!
+2017-05-14 11:56:35  INFO ContestServiceRunnable:69 - 111111114vs111111110-contest-1 round 0 start
+2017-05-14 11:56:35  INFO ContestServiceRunnable:59 - 111111111vs111111115-contest-2 begin!
+2017-05-14 11:56:35  INFO ContestServiceRunnable:69 - 111111111vs111111115-contest-2 round 0 start
+2017-05-14 11:56:52  INFO ContestServiceRunnable:550 - 111111114vs111111110-contest-1 round 0 end
+2017-05-14 11:56:52  INFO ContestServiceRunnable:69 - 111111114vs111111110-contest-1 round 1 start
+2017-05-14 11:56:52  INFO ContestServiceRunnable:550 - 111111113vs111111117-contest-3 round 0 end
+2017-05-14 11:56:52  INFO ContestServiceRunnable:69 - 111111113vs111111117-contest-3 round 1 start
+2017-05-14 11:56:52  INFO ContestServiceRunnable:550 - 111111112vs111111116-contest-0 round 0 end
+2017-05-14 11:56:52  INFO ContestServiceRunnable:69 - 111111112vs111111116-contest-0 round 1 start
+2017-05-14 11:56:53  INFO ContestServiceRunnable:550 - 111111111vs111111115-contest-2 round 0 end
+2017-05-14 11:56:53  INFO ContestServiceRunnable:69 - 111111111vs111111115-contest-2 round 1 start
+2017-05-14 11:57:09  INFO ContestServiceRunnable:550 - 111111114vs111111110-contest-1 round 1 end
+2017-05-14 11:57:09  INFO ContestServiceRunnable:577 - 111111114vs111111110-contest-1 game over
+2017-05-14 11:57:09  INFO ContestServiceRunnable:584 - 111111114vs111111110-contest-1 result save done!
+2017-05-14 11:57:09  INFO ContestServiceRunnable:589 - 111111114vs111111110-contest-1 record save completed!
+2017-05-14 11:57:09  INFO ContestServiceRunnable:550 - 111111113vs111111117-contest-3 round 1 end
+2017-05-14 11:57:09  INFO ContestServiceRunnable:577 - 111111113vs111111117-contest-3 game over
+2017-05-14 12:02:01  INFO ContestServiceRunnable:59 - 111111117vs111111116-contest-0 begin!
+2017-05-14 12:02:01  INFO ContestServiceRunnable:69 - 111111117vs111111116-contest-0 round 0 start
+2017-05-14 12:02:01  INFO ContestServiceRunnable:59 - 111111112vs111111114-contest-2 begin!
+2017-05-14 12:02:01  INFO ContestServiceRunnable:69 - 111111112vs111111114-contest-2 round 0 start
+2017-05-14 12:02:01  INFO ContestServiceRunnable:59 - 111111110vs111111115-contest-3 begin!
+2017-05-14 12:02:01  INFO ContestServiceRunnable:59 - 111111113vs111111111-contest-1 begin!
+2017-05-14 12:02:01  INFO ContestServiceRunnable:69 - 111111110vs111111115-contest-3 round 0 start
+2017-05-14 12:02:01  INFO ContestServiceRunnable:69 - 111111113vs111111111-contest-1 round 0 start
+2017-05-14 12:02:18  INFO ContestServiceRunnable:550 - 111111113vs111111111-contest-1 round 0 end
+2017-05-14 12:02:18  INFO ContestServiceRunnable:69 - 111111113vs111111111-contest-1 round 1 start
+2017-05-14 12:02:18  INFO ContestServiceRunnable:550 - 111111110vs111111115-contest-3 round 0 end
+2017-05-14 12:02:18  INFO ContestServiceRunnable:69 - 111111110vs111111115-contest-3 round 1 start
+2017-05-14 12:02:18  INFO ContestServiceRunnable:550 - 111111117vs111111116-contest-0 round 0 end
+2017-05-14 12:02:18  INFO ContestServiceRunnable:69 - 111111117vs111111116-contest-0 round 1 start
+2017-05-14 12:02:18  INFO ContestServiceRunnable:550 - 111111112vs111111114-contest-2 round 0 end
+2017-05-14 12:02:18  INFO ContestServiceRunnable:69 - 111111112vs111111114-contest-2 round 1 start
+2017-05-14 12:02:35  INFO ContestServiceRunnable:550 - 111111117vs111111116-contest-0 round 1 end
+2017-05-14 12:02:35  INFO ContestServiceRunnable:577 - 111111117vs111111116-contest-0 game over
+2017-05-14 12:02:35  INFO ContestServiceRunnable:584 - 111111117vs111111116-contest-0 result save done!
+2017-05-14 12:02:35  INFO ContestServiceRunnable:550 - 111111112vs111111114-contest-2 round 1 end
+2017-05-14 12:02:35  INFO ContestServiceRunnable:577 - 111111112vs111111114-contest-2 game over
+2017-05-14 12:02:35  INFO ContestServiceRunnable:584 - 111111112vs111111114-contest-2 result save done!
+2017-05-14 12:02:35  INFO ContestServiceRunnable:589 - 111111112vs111111114-contest-2 record save completed!
+2017-05-14 12:02:35  INFO ContestServiceRunnable:589 - 111111117vs111111116-contest-0 record save completed!
+2017-05-14 12:02:35  INFO ContestServiceRunnable:550 - 111111113vs111111111-contest-1 round 1 end
+2017-05-14 12:02:35  INFO ContestServiceRunnable:577 - 111111113vs111111111-contest-1 game over
+2017-05-14 12:02:35  INFO ContestServiceRunnable:550 - 111111110vs111111115-contest-3 round 1 end
+2017-05-14 12:02:35  INFO ContestServiceRunnable:577 - 111111110vs111111115-contest-3 game over
+2017-05-14 12:02:35  INFO ContestServiceRunnable:584 - 111111113vs111111111-contest-1 result save done!
+2017-05-14 12:02:35  INFO ContestServiceRunnable:584 - 111111110vs111111115-contest-3 result save done!
+2017-05-14 12:02:35  INFO ContestServiceRunnable:589 - 111111113vs111111111-contest-1 record save completed!
+2017-05-14 12:02:35  INFO ContestServiceRunnable:589 - 111111110vs111111115-contest-3 record save completed!
+2017-05-14 12:13:13  INFO ContestServiceRunnable:59 - 111111115vs111111110-contest-1 begin!
+2017-05-14 12:13:13  INFO ContestServiceRunnable:59 - 111111112vs111111116-contest-0 begin!
+2017-05-14 12:13:13  INFO ContestServiceRunnable:69 - 111111115vs111111110-contest-1 round 0 start
+2017-05-14 12:13:13  INFO ContestServiceRunnable:69 - 111111112vs111111116-contest-0 round 0 start
+2017-05-14 12:13:13  INFO ContestServiceRunnable:59 - 111111113vs111111114-contest-3 begin!
+2017-05-14 12:13:13  INFO ContestServiceRunnable:59 - 111111111vs111111117-contest-2 begin!
+2017-05-14 12:13:13  INFO ContestServiceRunnable:69 - 111111113vs111111114-contest-3 round 0 start
+2017-05-14 12:13:13  INFO ContestServiceRunnable:69 - 111111111vs111111117-contest-2 round 0 start
+2017-05-14 12:13:30  INFO ContestServiceRunnable:550 - 111111111vs111111117-contest-2 round 0 end
+2017-05-14 12:13:30  INFO ContestServiceRunnable:69 - 111111111vs111111117-contest-2 round 1 start
+2017-05-14 12:13:30  INFO ContestServiceRunnable:550 - 111111115vs111111110-contest-1 round 0 end
+2017-05-14 12:13:30  INFO ContestServiceRunnable:69 - 111111115vs111111110-contest-1 round 1 start
+2017-05-14 12:13:31  INFO ContestServiceRunnable:550 - 111111113vs111111114-contest-3 round 0 end
+2017-05-14 12:13:31  INFO ContestServiceRunnable:69 - 111111113vs111111114-contest-3 round 1 start
+2017-05-14 12:13:31  INFO ContestServiceRunnable:550 - 111111112vs111111116-contest-0 round 0 end
+2017-05-14 12:13:31  INFO ContestServiceRunnable:69 - 111111112vs111111116-contest-0 round 1 start
+2017-05-14 12:13:49  INFO ContestServiceRunnable:550 - 111111111vs111111117-contest-2 round 1 end
+2017-05-14 12:13:49  INFO ContestServiceRunnable:578 - 111111111vs111111117-contest-2 game over
+2017-05-14 12:13:49  INFO ContestServiceRunnable:585 - 111111111vs111111117-contest-2 result save done!
+2017-05-14 12:13:49  INFO ContestServiceRunnable:590 - 111111111vs111111117-contest-2 record save completed!
+2017-05-14 12:13:49  INFO ContestServiceRunnable:550 - 111111115vs111111110-contest-1 round 1 end
+2017-05-14 12:13:49  INFO ContestServiceRunnable:578 - 111111115vs111111110-contest-1 game over
+2017-05-14 12:13:49  INFO ContestServiceRunnable:585 - 111111115vs111111110-contest-1 result save done!
+2017-05-14 12:13:49  INFO ContestServiceRunnable:590 - 111111115vs111111110-contest-1 record save completed!
+2017-05-14 12:13:49  INFO ContestServiceRunnable:550 - 111111113vs111111114-contest-3 round 1 end
+2017-05-14 12:13:49  INFO ContestServiceRunnable:578 - 111111113vs111111114-contest-3 game over
+2017-05-14 12:13:49  INFO ContestServiceRunnable:585 - 111111113vs111111114-contest-3 result save done!
+2017-05-14 12:13:49  INFO ContestServiceRunnable:590 - 111111113vs111111114-contest-3 record save completed!
+2017-05-14 12:13:49  INFO ContestServiceRunnable:550 - 111111112vs111111116-contest-0 round 1 end
+2017-05-14 12:13:49  INFO ContestServiceRunnable:578 - 111111112vs111111116-contest-0 game over
+2017-05-14 12:13:49  INFO ContestServiceRunnable:585 - 111111112vs111111116-contest-0 result save done!
+2017-05-14 12:13:49  INFO ContestServiceRunnable:590 - 111111112vs111111116-contest-0 record save completed!
+2017-05-14 13:42:43  INFO ContestServiceRunnable:59 - 111111116vs111111117-contest-0 begin!
+2017-05-14 13:42:43  INFO ContestServiceRunnable:69 - 111111116vs111111117-contest-0 round 0 start
+2017-05-14 13:42:43  INFO ContestServiceRunnable:59 - 111111113vs111111115-contest-1 begin!
+2017-05-14 13:42:43  INFO ContestServiceRunnable:69 - 111111113vs111111115-contest-1 round 0 start
+2017-05-14 13:42:43  INFO ContestServiceRunnable:59 - 111111111vs111111112-contest-3 begin!
+2017-05-14 13:42:43  INFO ContestServiceRunnable:69 - 111111111vs111111112-contest-3 round 0 start
+2017-05-14 13:42:43  INFO ContestServiceRunnable:59 - 111111114vs111111110-contest-2 begin!
+2017-05-14 13:42:43  INFO ContestServiceRunnable:69 - 111111114vs111111110-contest-2 round 0 start
+2017-05-14 13:43:00  INFO ContestServiceRunnable:550 - 111111111vs111111112-contest-3 round 0 end
+2017-05-14 13:43:00  INFO ContestServiceRunnable:69 - 111111111vs111111112-contest-3 round 1 start
+2017-05-14 13:43:00  INFO ContestServiceRunnable:550 - 111111116vs111111117-contest-0 round 0 end
+2017-05-14 13:43:00  INFO ContestServiceRunnable:69 - 111111116vs111111117-contest-0 round 1 start
+2017-05-14 13:43:00  INFO ContestServiceRunnable:550 - 111111114vs111111110-contest-2 round 0 end
+2017-05-14 13:43:00  INFO ContestServiceRunnable:69 - 111111114vs111111110-contest-2 round 1 start
+2017-05-14 13:43:00  INFO ContestServiceRunnable:550 - 111111113vs111111115-contest-1 round 0 end
+2017-05-14 13:43:00  INFO ContestServiceRunnable:69 - 111111113vs111111115-contest-1 round 1 start
+2017-05-14 13:43:17  INFO ContestServiceRunnable:550 - 111111111vs111111112-contest-3 round 1 end
+2017-05-14 13:43:17  INFO ContestServiceRunnable:578 - 111111111vs111111112-contest-3 game over
+2017-05-14 13:43:17  INFO ContestServiceRunnable:585 - 111111111vs111111112-contest-3 result save done!
+2017-05-14 13:43:17  INFO ContestServiceRunnable:590 - 111111111vs111111112-contest-3 record save completed!
+2017-05-14 13:43:17  INFO ContestServiceRunnable:550 - 111111114vs111111110-contest-2 round 1 end
+2017-05-14 13:43:17  INFO ContestServiceRunnable:578 - 111111114vs111111110-contest-2 game over
+2017-05-14 13:43:17  INFO ContestServiceRunnable:585 - 111111114vs111111110-contest-2 result save done!
+2017-05-14 13:43:17  INFO ContestServiceRunnable:590 - 111111114vs111111110-contest-2 record save completed!
+2017-05-14 13:43:17  INFO ContestServiceRunnable:550 - 111111116vs111111117-contest-0 round 1 end
+2017-05-14 13:43:17  INFO ContestServiceRunnable:578 - 111111116vs111111117-contest-0 game over
+2017-05-14 13:43:17  INFO ContestServiceRunnable:585 - 111111116vs111111117-contest-0 result save done!
+2017-05-14 13:43:17  INFO ContestServiceRunnable:590 - 111111116vs111111117-contest-0 record save completed!
+2017-05-14 13:43:17  INFO ContestServiceRunnable:550 - 111111113vs111111115-contest-1 round 1 end
+2017-05-14 13:43:17  INFO ContestServiceRunnable:578 - 111111113vs111111115-contest-1 game over
+2017-05-14 13:43:17  INFO ContestServiceRunnable:585 - 111111113vs111111115-contest-1 result save done!
+2017-05-14 13:43:17  INFO ContestServiceRunnable:590 - 111111113vs111111115-contest-1 record save completed!
+2017-05-14 13:48:24  INFO ContestServiceRunnable:59 - 111111111vs111111115-contest-0 begin!
+2017-05-14 13:48:24  INFO ContestServiceRunnable:69 - 111111111vs111111115-contest-0 round 0 start
+2017-05-14 13:48:24  INFO ContestServiceRunnable:59 - 111111112vs111111110-contest-1 begin!
+2017-05-14 13:48:24  INFO ContestServiceRunnable:59 - 111111113vs111111117-contest-2 begin!
+2017-05-14 13:48:24  INFO ContestServiceRunnable:59 - 111111116vs111111114-contest-3 begin!
+2017-05-14 13:48:24  INFO ContestServiceRunnable:69 - 111111113vs111111117-contest-2 round 0 start
+2017-05-14 13:48:24  INFO ContestServiceRunnable:69 - 111111112vs111111110-contest-1 round 0 start
+2017-05-14 13:48:24  INFO ContestServiceRunnable:69 - 111111116vs111111114-contest-3 round 0 start
+2017-05-14 13:48:41  INFO ContestServiceRunnable:550 - 111111111vs111111115-contest-0 round 0 end
+2017-05-14 13:48:41  INFO ContestServiceRunnable:69 - 111111111vs111111115-contest-0 round 1 start
+2017-05-14 13:48:41  INFO ContestServiceRunnable:550 - 111111112vs111111110-contest-1 round 0 end
+2017-05-14 13:48:41  INFO ContestServiceRunnable:69 - 111111112vs111111110-contest-1 round 1 start
+2017-05-14 13:48:41  INFO ContestServiceRunnable:550 - 111111113vs111111117-contest-2 round 0 end
+2017-05-14 13:48:41  INFO ContestServiceRunnable:69 - 111111113vs111111117-contest-2 round 1 start
+2017-05-14 13:48:41  INFO ContestServiceRunnable:550 - 111111116vs111111114-contest-3 round 0 end
+2017-05-14 13:48:41  INFO ContestServiceRunnable:69 - 111111116vs111111114-contest-3 round 1 start
+2017-05-14 13:48:57  INFO ContestServiceRunnable:550 - 111111111vs111111115-contest-0 round 1 end
+2017-05-14 13:48:57  INFO ContestServiceRunnable:578 - 111111111vs111111115-contest-0 game over
+2017-05-14 13:48:58  INFO ContestServiceRunnable:585 - 111111111vs111111115-contest-0 result save done!
+2017-05-14 13:48:58  INFO ContestServiceRunnable:590 - 111111111vs111111115-contest-0 record save completed!
+2017-05-14 13:48:58  INFO ContestServiceRunnable:550 - 111111112vs111111110-contest-1 round 1 end
+2017-05-14 13:48:58  INFO ContestServiceRunnable:578 - 111111112vs111111110-contest-1 game over
+2017-05-14 13:48:58  INFO ContestServiceRunnable:585 - 111111112vs111111110-contest-1 result save done!
+2017-05-14 13:48:58  INFO ContestServiceRunnable:590 - 111111112vs111111110-contest-1 record save completed!
+2017-05-14 13:48:58  INFO ContestServiceRunnable:550 - 111111113vs111111117-contest-2 round 1 end
+2017-05-14 13:48:58  INFO ContestServiceRunnable:578 - 111111113vs111111117-contest-2 game over
+2017-05-14 13:48:58  INFO ContestServiceRunnable:585 - 111111113vs111111117-contest-2 result save done!
+2017-05-14 13:48:58  INFO ContestServiceRunnable:590 - 111111113vs111111117-contest-2 record save completed!
+2017-05-14 13:48:58  INFO ContestServiceRunnable:550 - 111111116vs111111114-contest-3 round 1 end
+2017-05-14 13:48:58  INFO ContestServiceRunnable:578 - 111111116vs111111114-contest-3 game over
+2017-05-14 13:48:58  INFO ContestServiceRunnable:585 - 111111116vs111111114-contest-3 result save done!
+2017-05-14 13:48:58  INFO ContestServiceRunnable:590 - 111111116vs111111114-contest-3 record save completed!
+2017-05-14 14:02:03  INFO ContestServiceRunnable:59 - 111111114vs111111115-contest-0 begin!
+2017-05-14 14:02:03  INFO ContestServiceRunnable:59 - 111111112vs111111110-contest-2 begin!
+2017-05-14 14:02:03  INFO ContestServiceRunnable:69 - 111111114vs111111115-contest-0 round 0 start
+2017-05-14 14:02:03  INFO ContestServiceRunnable:69 - 111111112vs111111110-contest-2 round 0 start
+2017-05-14 14:02:03  INFO ContestServiceRunnable:59 - 111111113vs111111117-contest-3 begin!
+2017-05-14 14:02:03  INFO ContestServiceRunnable:69 - 111111113vs111111117-contest-3 round 0 start
+2017-05-14 14:02:03  INFO ContestServiceRunnable:59 - 111111116vs111111111-contest-1 begin!
+2017-05-14 14:02:03  INFO ContestServiceRunnable:69 - 111111116vs111111111-contest-1 round 0 start
+2017-05-14 14:02:20  INFO ContestServiceRunnable:550 - 111111112vs111111110-contest-2 round 0 end
+2017-05-14 14:02:20  INFO ContestServiceRunnable:69 - 111111112vs111111110-contest-2 round 1 start
+2017-05-14 14:02:20  INFO ContestServiceRunnable:550 - 111111116vs111111111-contest-1 round 0 end
+2017-05-14 14:02:20  INFO ContestServiceRunnable:69 - 111111116vs111111111-contest-1 round 1 start
+2017-05-14 14:02:20  INFO ContestServiceRunnable:550 - 111111113vs111111117-contest-3 round 0 end
+2017-05-14 14:02:20  INFO ContestServiceRunnable:69 - 111111113vs111111117-contest-3 round 1 start
+2017-05-14 14:02:20  INFO ContestServiceRunnable:550 - 111111114vs111111115-contest-0 round 0 end
+2017-05-14 14:02:20  INFO ContestServiceRunnable:69 - 111111114vs111111115-contest-0 round 1 start
+2017-05-14 14:02:36  INFO ContestServiceRunnable:550 - 111111112vs111111110-contest-2 round 1 end
+2017-05-14 14:02:36  INFO ContestServiceRunnable:578 - 111111112vs111111110-contest-2 game over
+2017-05-14 14:02:36  INFO ContestServiceRunnable:585 - 111111112vs111111110-contest-2 result save done!
+2017-05-14 14:02:37  INFO ContestServiceRunnable:590 - 111111112vs111111110-contest-2 record save completed!
+2017-05-14 14:02:37  INFO ContestServiceRunnable:550 - 111111113vs111111117-contest-3 round 1 end
+2017-05-14 14:02:37  INFO ContestServiceRunnable:578 - 111111113vs111111117-contest-3 game over
+2017-05-14 14:02:37  INFO ContestServiceRunnable:585 - 111111113vs111111117-contest-3 result save done!
+2017-05-14 14:02:37  INFO ContestServiceRunnable:590 - 111111113vs111111117-contest-3 record save completed!
+2017-05-14 14:02:37  INFO ContestServiceRunnable:550 - 111111114vs111111115-contest-0 round 1 end
+2017-05-14 14:02:37  INFO ContestServiceRunnable:578 - 111111114vs111111115-contest-0 game over
+2017-05-14 14:02:37  INFO ContestServiceRunnable:585 - 111111114vs111111115-contest-0 result save done!
+2017-05-14 14:02:37  INFO ContestServiceRunnable:590 - 111111114vs111111115-contest-0 record save completed!
+2017-05-14 14:02:37  INFO ContestServiceRunnable:550 - 111111116vs111111111-contest-1 round 1 end
+2017-05-14 14:02:37  INFO ContestServiceRunnable:578 - 111111116vs111111111-contest-1 game over
+2017-05-14 14:02:37  INFO ContestServiceRunnable:585 - 111111116vs111111111-contest-1 result save done!
+2017-05-14 14:02:37  INFO ContestServiceRunnable:590 - 111111116vs111111111-contest-1 record save completed!
+2017-05-14 14:06:19  INFO ContestServiceRunnable:59 - 111111113vs111111115-contest-0 begin!
+2017-05-14 14:06:19  INFO ContestServiceRunnable:59 - 111111111vs111111116-contest-1 begin!
+2017-05-14 14:06:19  INFO ContestServiceRunnable:59 - 111111114vs111111112-contest-2 begin!
+2017-05-14 14:06:19  INFO ContestServiceRunnable:69 - 111111114vs111111112-contest-2 round 0 start
+2017-05-14 14:06:19  INFO ContestServiceRunnable:69 - 111111113vs111111115-contest-0 round 0 start
+2017-05-14 14:06:19  INFO ContestServiceRunnable:69 - 111111111vs111111116-contest-1 round 0 start
+2017-05-14 14:06:19  INFO ContestServiceRunnable:59 - 111111110vs111111117-contest-3 begin!
+2017-05-14 14:06:19  INFO ContestServiceRunnable:69 - 111111110vs111111117-contest-3 round 0 start
+2017-05-14 14:06:36  INFO ContestServiceRunnable:550 - 111111113vs111111115-contest-0 round 0 end
+2017-05-14 14:06:36  INFO ContestServiceRunnable:69 - 111111113vs111111115-contest-0 round 1 start
+2017-05-14 14:06:36  INFO ContestServiceRunnable:550 - 111111114vs111111112-contest-2 round 0 end
+2017-05-14 14:06:36  INFO ContestServiceRunnable:69 - 111111114vs111111112-contest-2 round 1 start
+2017-05-14 14:06:36  INFO ContestServiceRunnable:550 - 111111110vs111111117-contest-3 round 0 end
+2017-05-14 14:06:36  INFO ContestServiceRunnable:69 - 111111110vs111111117-contest-3 round 1 start
+2017-05-14 14:06:36  INFO ContestServiceRunnable:550 - 111111111vs111111116-contest-1 round 0 end
+2017-05-14 14:06:36  INFO ContestServiceRunnable:69 - 111111111vs111111116-contest-1 round 1 start
+2017-05-14 14:06:53  INFO ContestServiceRunnable:550 - 111111114vs111111112-contest-2 round 1 end
+2017-05-14 14:06:53  INFO ContestServiceRunnable:578 - 111111114vs111111112-contest-2 game over
+2017-05-14 14:06:53  INFO ContestServiceRunnable:585 - 111111114vs111111112-contest-2 result save done!
+2017-05-14 14:06:53  INFO ContestServiceRunnable:590 - 111111114vs111111112-contest-2 record save completed!
+2017-05-14 14:06:53  INFO ContestServiceRunnable:550 - 111111113vs111111115-contest-0 round 1 end
+2017-05-14 14:06:53  INFO ContestServiceRunnable:578 - 111111113vs111111115-contest-0 game over
+2017-05-14 14:06:53  INFO ContestServiceRunnable:585 - 111111113vs111111115-contest-0 result save done!
+2017-05-14 14:06:53  INFO ContestServiceRunnable:590 - 111111113vs111111115-contest-0 record save completed!
+2017-05-14 14:06:53  INFO ContestServiceRunnable:550 - 111111110vs111111117-contest-3 round 1 end
+2017-05-14 14:06:53  INFO ContestServiceRunnable:578 - 111111110vs111111117-contest-3 game over
+2017-05-14 14:06:53  INFO ContestServiceRunnable:585 - 111111110vs111111117-contest-3 result save done!
+2017-05-14 14:06:53  INFO ContestServiceRunnable:590 - 111111110vs111111117-contest-3 record save completed!
+2017-05-14 14:06:53  INFO ContestServiceRunnable:550 - 111111111vs111111116-contest-1 round 1 end
+2017-05-14 14:06:53  INFO ContestServiceRunnable:578 - 111111111vs111111116-contest-1 game over
+2017-05-14 14:06:53  INFO ContestServiceRunnable:585 - 111111111vs111111116-contest-1 result save done!
+2017-05-14 14:06:53  INFO ContestServiceRunnable:590 - 111111111vs111111116-contest-1 record save completed!
+2017-05-14 14:22:13  INFO ContestServiceRunnable:59 - 111111115vs111111116-contest-0 begin!
+2017-05-14 14:22:13  INFO ContestServiceRunnable:69 - 111111115vs111111116-contest-0 round 0 start
+2017-05-14 14:22:13  INFO ContestServiceRunnable:59 - 111111111vs111111112-contest-1 begin!
+2017-05-14 14:22:13  INFO ContestServiceRunnable:69 - 111111111vs111111112-contest-1 round 0 start
+2017-05-14 14:22:13  INFO ContestServiceRunnable:59 - 111111117vs111111114-contest-2 begin!
+2017-05-14 14:22:13  INFO ContestServiceRunnable:69 - 111111117vs111111114-contest-2 round 0 start
+2017-05-14 14:22:13  INFO ContestServiceRunnable:59 - 111111110vs111111113-contest-3 begin!
+2017-05-14 14:22:13  INFO ContestServiceRunnable:69 - 111111110vs111111113-contest-3 round 0 start
+2017-05-14 14:22:30  INFO ContestServiceRunnable:550 - 111111110vs111111113-contest-3 round 0 end
+2017-05-14 14:22:30  INFO ContestServiceRunnable:69 - 111111110vs111111113-contest-3 round 1 start
+2017-05-14 14:22:30  INFO ContestServiceRunnable:550 - 111111111vs111111112-contest-1 round 0 end
+2017-05-14 14:22:30  INFO ContestServiceRunnable:69 - 111111111vs111111112-contest-1 round 1 start
+2017-05-14 14:22:30  INFO ContestServiceRunnable:550 - 111111117vs111111114-contest-2 round 0 end
+2017-05-14 14:22:30  INFO ContestServiceRunnable:69 - 111111117vs111111114-contest-2 round 1 start
+2017-05-14 14:22:30  INFO ContestServiceRunnable:550 - 111111115vs111111116-contest-0 round 0 end
+2017-05-14 14:22:30  INFO ContestServiceRunnable:69 - 111111115vs111111116-contest-0 round 1 start
+2017-05-14 14:22:46  INFO ContestServiceRunnable:550 - 111111110vs111111113-contest-3 round 1 end
+2017-05-14 14:22:47  INFO ContestServiceRunnable:578 - 111111110vs111111113-contest-3 game over
+2017-05-14 14:22:47  INFO ContestServiceRunnable:585 - 111111110vs111111113-contest-3 result save done!
+2017-05-14 14:22:47  INFO ContestServiceRunnable:590 - 111111110vs111111113-contest-3 record save completed!
+2017-05-14 14:22:47  INFO ContestServiceRunnable:550 - 111111111vs111111112-contest-1 round 1 end
+2017-05-14 14:22:47  INFO ContestServiceRunnable:550 - 111111117vs111111114-contest-2 round 1 end
+2017-05-14 14:22:47  INFO ContestServiceRunnable:578 - 111111111vs111111112-contest-1 game over
+2017-05-14 14:22:47  INFO ContestServiceRunnable:578 - 111111117vs111111114-contest-2 game over
+2017-05-14 14:22:47  INFO ContestServiceRunnable:585 - 111111111vs111111112-contest-1 result save done!
+2017-05-14 14:22:47  INFO ContestServiceRunnable:590 - 111111111vs111111112-contest-1 record save completed!
+2017-05-14 14:22:47  INFO ContestServiceRunnable:585 - 111111117vs111111114-contest-2 result save done!
+2017-05-14 14:22:47  INFO ContestServiceRunnable:590 - 111111117vs111111114-contest-2 record save completed!
+2017-05-14 14:22:47  INFO ContestServiceRunnable:550 - 111111115vs111111116-contest-0 round 1 end
+2017-05-14 14:22:47  INFO ContestServiceRunnable:578 - 111111115vs111111116-contest-0 game over
+2017-05-14 14:22:47  INFO ContestServiceRunnable:585 - 111111115vs111111116-contest-0 result save done!
+2017-05-14 14:22:47  INFO ContestServiceRunnable:590 - 111111115vs111111116-contest-0 record save completed!
+2017-05-14 14:34:09  INFO ContestServiceRunnable:59 - 111111111vs111111114-contest-0 begin!
+2017-05-14 14:34:09  INFO ContestServiceRunnable:69 - 111111111vs111111114-contest-0 round 0 start
+2017-05-14 14:34:09  INFO ContestServiceRunnable:59 - 111111115vs111111110-contest-1 begin!
+2017-05-14 14:34:09  INFO ContestServiceRunnable:69 - 111111115vs111111110-contest-1 round 0 start
+2017-05-14 14:34:09  INFO ContestServiceRunnable:59 - 111111116vs111111117-contest-3 begin!
+2017-05-14 14:34:09  INFO ContestServiceRunnable:59 - 111111113vs111111112-contest-2 begin!
+2017-05-14 14:34:09  INFO ContestServiceRunnable:69 - 111111116vs111111117-contest-3 round 0 start
+2017-05-14 14:34:09  INFO ContestServiceRunnable:69 - 111111113vs111111112-contest-2 round 0 start
+2017-05-14 14:36:22  INFO ContestServiceRunnable:59 - 111111111vs111111114-contest-0 begin!
+2017-05-14 14:36:22  INFO ContestServiceRunnable:69 - 111111111vs111111114-contest-0 round 0 start
+2017-05-14 14:36:22  INFO ContestServiceRunnable:59 - 111111113vs111111117-contest-3 begin!
+2017-05-14 14:36:22  INFO ContestServiceRunnable:59 - 111111110vs111111116-contest-1 begin!
+2017-05-14 14:36:22  INFO ContestServiceRunnable:59 - 111111112vs111111115-contest-2 begin!
+2017-05-14 14:36:22  INFO ContestServiceRunnable:69 - 111111110vs111111116-contest-1 round 0 start
+2017-05-14 14:36:22  INFO ContestServiceRunnable:69 - 111111113vs111111117-contest-3 round 0 start
+2017-05-14 14:36:22  INFO ContestServiceRunnable:69 - 111111112vs111111115-contest-2 round 0 start
+2017-05-14 14:36:24 ERROR ContestServiceRunnable:484 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:36:24 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:36:24  INFO ContestServiceRunnable:550 - 111111110vs111111116-contest-1 round 0 end
+2017-05-14 14:36:24 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:36:24  INFO ContestServiceRunnable:578 - 111111110vs111111116-contest-1 game over
+2017-05-14 14:36:24  INFO ContestServiceRunnable:585 - 111111110vs111111116-contest-1 result save done!
+2017-05-14 14:36:24  INFO ContestServiceRunnable:590 - 111111110vs111111116-contest-1 record save completed!
+2017-05-14 14:36:36  INFO ContestServiceRunnable:550 - 111111112vs111111115-contest-2 round 0 end
+2017-05-14 14:36:36  INFO ContestServiceRunnable:69 - 111111112vs111111115-contest-2 round 1 start
+2017-05-14 14:36:37  INFO ContestServiceRunnable:550 - 111111113vs111111117-contest-3 round 0 end
+2017-05-14 14:36:37  INFO ContestServiceRunnable:69 - 111111113vs111111117-contest-3 round 1 start
+2017-05-14 14:36:37  INFO ContestServiceRunnable:550 - 111111111vs111111114-contest-0 round 0 end
+2017-05-14 14:36:37  INFO ContestServiceRunnable:69 - 111111111vs111111114-contest-0 round 1 start
+2017-05-14 14:52:02  INFO ContestServiceRunnable:59 - 111111113vs111111116-contest-0 begin!
+2017-05-14 14:52:02  INFO ContestServiceRunnable:69 - 111111113vs111111116-contest-0 round 0 start
+2017-05-14 14:52:02  INFO ContestServiceRunnable:59 - 111111112vs111111115-contest-1 begin!
+2017-05-14 14:52:02  INFO ContestServiceRunnable:69 - 111111112vs111111115-contest-1 round 0 start
+2017-05-14 14:52:02  INFO ContestServiceRunnable:59 - 111111117vs111111110-contest-2 begin!
+2017-05-14 14:52:02  INFO ContestServiceRunnable:69 - 111111117vs111111110-contest-2 round 0 start
+2017-05-14 14:52:02  INFO ContestServiceRunnable:59 - 111111114vs111111111-contest-3 begin!
+2017-05-14 14:52:02  INFO ContestServiceRunnable:69 - 111111114vs111111111-contest-3 round 0 start
+2017-05-14 14:53:56  INFO ContestServiceRunnable:59 - 111111116vs111111110-contest-0 begin!
+2017-05-14 14:53:56  INFO ContestServiceRunnable:69 - 111111116vs111111110-contest-0 round 0 start
+2017-05-14 14:53:56  INFO ContestServiceRunnable:59 - 111111114vs111111112-contest-2 begin!
+2017-05-14 14:53:56  INFO ContestServiceRunnable:59 - 111111115vs111111111-contest-3 begin!
+2017-05-14 14:53:56  INFO ContestServiceRunnable:69 - 111111114vs111111112-contest-2 round 0 start
+2017-05-14 14:53:56  INFO ContestServiceRunnable:69 - 111111115vs111111111-contest-3 round 0 start
+2017-05-14 14:53:56  INFO ContestServiceRunnable:59 - 111111117vs111111113-contest-1 begin!
+2017-05-14 14:53:56  INFO ContestServiceRunnable:69 - 111111117vs111111113-contest-1 round 0 start
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:440 - 111111116vs111111110-contest-0 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09  INFO ContestServiceRunnable:550 - 111111116vs111111110-contest-0 round 0 end
+2017-05-14 14:54:09  INFO ContestServiceRunnable:69 - 111111116vs111111110-contest-0 round 1 start
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09  INFO ContestServiceRunnable:550 - 111111116vs111111110-contest-0 round 1 end
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09  INFO ContestServiceRunnable:578 - 111111116vs111111110-contest-0 game over
+2017-05-14 14:54:09  INFO ContestServiceRunnable:585 - 111111116vs111111110-contest-0 result save done!
+2017-05-14 14:54:09  INFO ContestServiceRunnable:590 - 111111116vs111111110-contest-0 record save completed!
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:440 - 111111114vs111111112-contest-2 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09  INFO ContestServiceRunnable:550 - 111111114vs111111112-contest-2 round 0 end
+2017-05-14 14:54:09  INFO ContestServiceRunnable:69 - 111111114vs111111112-contest-2 round 1 start
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09  INFO ContestServiceRunnable:550 - 111111114vs111111112-contest-2 round 1 end
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09  INFO ContestServiceRunnable:578 - 111111114vs111111112-contest-2 game over
+2017-05-14 14:54:09  INFO ContestServiceRunnable:585 - 111111114vs111111112-contest-2 result save done!
+2017-05-14 14:54:09  INFO ContestServiceRunnable:590 - 111111114vs111111112-contest-2 record save completed!
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:440 - 111111115vs111111111-contest-3 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:440 - 111111117vs111111113-contest-1 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09  INFO ContestServiceRunnable:550 - 111111115vs111111111-contest-3 round 0 end
+2017-05-14 14:54:09  INFO ContestServiceRunnable:550 - 111111117vs111111113-contest-1 round 0 end
+2017-05-14 14:54:09  INFO ContestServiceRunnable:69 - 111111117vs111111113-contest-1 round 1 start
+2017-05-14 14:54:09  INFO ContestServiceRunnable:69 - 111111115vs111111111-contest-3 round 1 start
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09  INFO ContestServiceRunnable:550 - 111111117vs111111113-contest-1 round 1 end
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09  INFO ContestServiceRunnable:578 - 111111117vs111111113-contest-1 game over
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09  INFO ContestServiceRunnable:585 - 111111117vs111111113-contest-1 result save done!
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09  INFO ContestServiceRunnable:550 - 111111115vs111111111-contest-3 round 1 end
+2017-05-14 14:54:09  INFO ContestServiceRunnable:590 - 111111117vs111111113-contest-1 record save completed!
+2017-05-14 14:54:09 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 14:54:09  INFO ContestServiceRunnable:578 - 111111115vs111111111-contest-3 game over
+2017-05-14 14:54:09  INFO ContestServiceRunnable:585 - 111111115vs111111111-contest-3 result save done!
+2017-05-14 14:54:09  INFO ContestServiceRunnable:590 - 111111115vs111111111-contest-3 record save completed!
+2017-05-14 14:57:56  INFO ContestServiceRunnable:59 - 111111115vs111111114-contest-0 begin!
+2017-05-14 14:57:56  INFO ContestServiceRunnable:69 - 111111115vs111111114-contest-0 round 0 start
+2017-05-14 14:57:56  INFO ContestServiceRunnable:59 - 111111117vs111111111-contest-1 begin!
+2017-05-14 14:57:56  INFO ContestServiceRunnable:59 - 111111113vs111111116-contest-3 begin!
+2017-05-14 14:57:56  INFO ContestServiceRunnable:59 - 111111112vs111111110-contest-2 begin!
+2017-05-14 14:57:56  INFO ContestServiceRunnable:69 - 111111117vs111111111-contest-1 round 0 start
+2017-05-14 14:57:56  INFO ContestServiceRunnable:69 - 111111112vs111111110-contest-2 round 0 start
+2017-05-14 14:57:56  INFO ContestServiceRunnable:69 - 111111113vs111111116-contest-3 round 0 start
+2017-05-14 14:58:13  INFO ContestServiceRunnable:550 - 111111112vs111111110-contest-2 round 0 end
+2017-05-14 14:58:13  INFO ContestServiceRunnable:69 - 111111112vs111111110-contest-2 round 1 start
+2017-05-14 14:58:13  INFO ContestServiceRunnable:550 - 111111117vs111111111-contest-1 round 0 end
+2017-05-14 14:58:13  INFO ContestServiceRunnable:69 - 111111117vs111111111-contest-1 round 1 start
+2017-05-14 14:58:13  INFO ContestServiceRunnable:550 - 111111115vs111111114-contest-0 round 0 end
+2017-05-14 14:58:13  INFO ContestServiceRunnable:69 - 111111115vs111111114-contest-0 round 1 start
+2017-05-14 14:58:14  INFO ContestServiceRunnable:550 - 111111113vs111111116-contest-3 round 0 end
+2017-05-14 14:58:14  INFO ContestServiceRunnable:69 - 111111113vs111111116-contest-3 round 1 start
+2017-05-14 14:58:30  INFO ContestServiceRunnable:550 - 111111112vs111111110-contest-2 round 1 end
+2017-05-14 14:58:30  INFO ContestServiceRunnable:578 - 111111112vs111111110-contest-2 game over
+2017-05-14 14:58:30  INFO ContestServiceRunnable:585 - 111111112vs111111110-contest-2 result save done!
+2017-05-14 14:58:30  INFO ContestServiceRunnable:590 - 111111112vs111111110-contest-2 record save completed!
+2017-05-14 14:58:30  INFO ContestServiceRunnable:550 - 111111117vs111111111-contest-1 round 1 end
+2017-05-14 14:58:30  INFO ContestServiceRunnable:578 - 111111117vs111111111-contest-1 game over
+2017-05-14 14:58:30  INFO ContestServiceRunnable:585 - 111111117vs111111111-contest-1 result save done!
+2017-05-14 14:58:30  INFO ContestServiceRunnable:590 - 111111117vs111111111-contest-1 record save completed!
+2017-05-14 14:58:30  INFO ContestServiceRunnable:550 - 111111115vs111111114-contest-0 round 1 end
+2017-05-14 14:58:30  INFO ContestServiceRunnable:578 - 111111115vs111111114-contest-0 game over
+2017-05-14 14:58:30  INFO ContestServiceRunnable:585 - 111111115vs111111114-contest-0 result save done!
+2017-05-14 14:58:30  INFO ContestServiceRunnable:590 - 111111115vs111111114-contest-0 record save completed!
+2017-05-14 14:58:30  INFO ContestServiceRunnable:550 - 111111113vs111111116-contest-3 round 1 end
+2017-05-14 14:58:30  INFO ContestServiceRunnable:578 - 111111113vs111111116-contest-3 game over
+2017-05-14 14:58:30  INFO ContestServiceRunnable:585 - 111111113vs111111116-contest-3 result save done!
+2017-05-14 14:58:30  INFO ContestServiceRunnable:590 - 111111113vs111111116-contest-3 record save completed!
+2017-05-14 15:00:41  INFO ContestServiceRunnable:59 - 111111112vs111111114-contest-0 begin!
+2017-05-14 15:00:41  INFO ContestServiceRunnable:69 - 111111112vs111111114-contest-0 round 0 start
+2017-05-14 15:00:41  INFO ContestServiceRunnable:59 - 111111110vs111111111-contest-3 begin!
+2017-05-14 15:00:41  INFO ContestServiceRunnable:69 - 111111110vs111111111-contest-3 round 0 start
+2017-05-14 15:00:41  INFO ContestServiceRunnable:59 - 111111115vs111111116-contest-2 begin!
+2017-05-14 15:00:41  INFO ContestServiceRunnable:69 - 111111115vs111111116-contest-2 round 0 start
+2017-05-14 15:00:41  INFO ContestServiceRunnable:59 - 111111117vs111111113-contest-1 begin!
+2017-05-14 15:00:41  INFO ContestServiceRunnable:69 - 111111117vs111111113-contest-1 round 0 start
+2017-05-14 15:00:58  INFO ContestServiceRunnable:550 - 111111115vs111111116-contest-2 round 0 end
+2017-05-14 15:00:58  INFO ContestServiceRunnable:69 - 111111115vs111111116-contest-2 round 1 start
+2017-05-14 15:00:58  INFO ContestServiceRunnable:550 - 111111117vs111111113-contest-1 round 0 end
+2017-05-14 15:00:58  INFO ContestServiceRunnable:69 - 111111117vs111111113-contest-1 round 1 start
+2017-05-14 15:00:58  INFO ContestServiceRunnable:550 - 111111110vs111111111-contest-3 round 0 end
+2017-05-14 15:00:58  INFO ContestServiceRunnable:69 - 111111110vs111111111-contest-3 round 1 start
+2017-05-14 15:00:58  INFO ContestServiceRunnable:550 - 111111112vs111111114-contest-0 round 0 end
+2017-05-14 15:00:58  INFO ContestServiceRunnable:69 - 111111112vs111111114-contest-0 round 1 start
+2017-05-14 15:01:15  INFO ContestServiceRunnable:550 - 111111115vs111111116-contest-2 round 1 end
+2017-05-14 15:01:15  INFO ContestServiceRunnable:578 - 111111115vs111111116-contest-2 game over
+2017-05-14 15:01:15  INFO ContestServiceRunnable:585 - 111111115vs111111116-contest-2 result save done!
+2017-05-14 15:01:15  INFO ContestServiceRunnable:590 - 111111115vs111111116-contest-2 record save completed!
+2017-05-14 15:01:15  INFO ContestServiceRunnable:550 - 111111112vs111111114-contest-0 round 1 end
+2017-05-14 15:01:15  INFO ContestServiceRunnable:578 - 111111112vs111111114-contest-0 game over
+2017-05-14 15:01:15  INFO ContestServiceRunnable:585 - 111111112vs111111114-contest-0 result save done!
+2017-05-14 15:01:15  INFO ContestServiceRunnable:590 - 111111112vs111111114-contest-0 record save completed!
+2017-05-14 15:01:15  INFO ContestServiceRunnable:550 - 111111110vs111111111-contest-3 round 1 end
+2017-05-14 15:01:15  INFO ContestServiceRunnable:578 - 111111110vs111111111-contest-3 game over
+2017-05-14 15:01:15  INFO ContestServiceRunnable:585 - 111111110vs111111111-contest-3 result save done!
+2017-05-14 15:01:15  INFO ContestServiceRunnable:590 - 111111110vs111111111-contest-3 record save completed!
+2017-05-14 15:01:15  INFO ContestServiceRunnable:550 - 111111117vs111111113-contest-1 round 1 end
+2017-05-14 15:01:15  INFO ContestServiceRunnable:578 - 111111117vs111111113-contest-1 game over
+2017-05-14 15:01:15  INFO ContestServiceRunnable:585 - 111111117vs111111113-contest-1 result save done!
+2017-05-14 15:01:15  INFO ContestServiceRunnable:590 - 111111117vs111111113-contest-1 record save completed!
+2017-05-14 15:04:34  INFO ContestServiceRunnable:59 - 111111115vs111111110-contest-0 begin!
+2017-05-14 15:04:34  INFO ContestServiceRunnable:69 - 111111115vs111111110-contest-0 round 0 start
+2017-05-14 15:04:34  INFO ContestServiceRunnable:59 - 111111111vs111111116-contest-2 begin!
+2017-05-14 15:04:34  INFO ContestServiceRunnable:69 - 111111111vs111111116-contest-2 round 0 start
+2017-05-14 15:04:34  INFO ContestServiceRunnable:59 - 111111113vs111111112-contest-1 begin!
+2017-05-14 15:04:34  INFO ContestServiceRunnable:59 - 111111117vs111111114-contest-3 begin!
+2017-05-14 15:04:34  INFO ContestServiceRunnable:69 - 111111113vs111111112-contest-1 round 0 start
+2017-05-14 15:04:34  INFO ContestServiceRunnable:69 - 111111117vs111111114-contest-3 round 0 start
+2017-05-14 15:06:25  INFO ContestServiceRunnable:59 - 111111114vs111111115-contest-0 begin!
+2017-05-14 15:06:25  INFO ContestServiceRunnable:69 - 111111114vs111111115-contest-0 round 0 start
+2017-05-14 15:06:25  INFO ContestServiceRunnable:59 - 111111117vs111111112-contest-1 begin!
+2017-05-14 15:06:25  INFO ContestServiceRunnable:69 - 111111117vs111111112-contest-1 round 0 start
+2017-05-14 15:06:25  INFO ContestServiceRunnable:59 - 111111110vs111111111-contest-3 begin!
+2017-05-14 15:06:25  INFO ContestServiceRunnable:69 - 111111110vs111111111-contest-3 round 0 start
+2017-05-14 15:06:25  INFO ContestServiceRunnable:59 - 111111116vs111111113-contest-2 begin!
+2017-05-14 15:06:25  INFO ContestServiceRunnable:69 - 111111116vs111111113-contest-2 round 0 start
+2017-05-14 15:06:27 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 15:06:27 ERROR ContestServiceRunnable:268 - 111111110vs111111111-contest-3 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 15:06:27 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:06:27  INFO ContestServiceRunnable:550 - 111111110vs111111111-contest-3 round 0 end
+2017-05-14 15:06:27  INFO ContestServiceRunnable:69 - 111111110vs111111111-contest-3 round 1 start
+2017-05-14 15:06:27 ERROR ContestServiceRunnable:114 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:06:27 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:06:27  INFO ContestServiceRunnable:550 - 111111110vs111111111-contest-3 round 1 end
+2017-05-14 15:06:27 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:06:27  INFO ContestServiceRunnable:578 - 111111110vs111111111-contest-3 game over
+2017-05-14 15:06:27  INFO ContestServiceRunnable:585 - 111111110vs111111111-contest-3 result saved!
+2017-05-14 15:06:27  INFO ContestServiceRunnable:590 - 111111110vs111111111-contest-3 record save completed!
+2017-05-14 15:07:56  INFO ContestServiceRunnable:59 - 111111110vs111111116-contest-0 begin!
+2017-05-14 15:07:56  INFO ContestServiceRunnable:69 - 111111110vs111111116-contest-0 round 0 start
+2017-05-14 15:07:56  INFO ContestServiceRunnable:59 - 111111112vs111111114-contest-2 begin!
+2017-05-14 15:07:56  INFO ContestServiceRunnable:69 - 111111112vs111111114-contest-2 round 0 start
+2017-05-14 15:07:56  INFO ContestServiceRunnable:59 - 111111115vs111111117-contest-1 begin!
+2017-05-14 15:07:56  INFO ContestServiceRunnable:59 - 111111113vs111111111-contest-3 begin!
+2017-05-14 15:07:56  INFO ContestServiceRunnable:69 - 111111113vs111111111-contest-3 round 0 start
+2017-05-14 15:07:56  INFO ContestServiceRunnable:69 - 111111115vs111111117-contest-1 round 0 start
+2017-05-14 15:07:59 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 15:07:59 ERROR ContestServiceRunnable:268 - 111111110vs111111116-contest-0 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 15:07:59 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:07:59  INFO ContestServiceRunnable:550 - 111111110vs111111116-contest-0 round 0 end
+2017-05-14 15:07:59  INFO ContestServiceRunnable:69 - 111111110vs111111116-contest-0 round 1 start
+2017-05-14 15:07:59 ERROR ContestServiceRunnable:114 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:07:59 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:07:59  INFO ContestServiceRunnable:550 - 111111110vs111111116-contest-0 round 1 end
+2017-05-14 15:07:59 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:07:59  INFO ContestServiceRunnable:578 - 111111110vs111111116-contest-0 game over
+2017-05-14 15:07:59  INFO ContestServiceRunnable:585 - 111111110vs111111116-contest-0 result saved!
+2017-05-14 15:07:59  INFO ContestServiceRunnable:590 - 111111110vs111111116-contest-0 record save completed!
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:440 - 111111113vs111111111-contest-3 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:08:01  INFO ContestServiceRunnable:550 - 111111113vs111111111-contest-3 round 0 end
+2017-05-14 15:08:01  INFO ContestServiceRunnable:69 - 111111113vs111111111-contest-3 round 1 start
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:08:01  INFO ContestServiceRunnable:550 - 111111113vs111111111-contest-3 round 1 end
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:08:01  INFO ContestServiceRunnable:578 - 111111113vs111111111-contest-3 game over
+2017-05-14 15:08:01  INFO ContestServiceRunnable:585 - 111111113vs111111111-contest-3 result saved!
+2017-05-14 15:08:01  INFO ContestServiceRunnable:590 - 111111113vs111111111-contest-3 record save completed!
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:440 - 111111115vs111111117-contest-1 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:08:01  INFO ContestServiceRunnable:550 - 111111115vs111111117-contest-1 round 0 end
+2017-05-14 15:08:01  INFO ContestServiceRunnable:69 - 111111115vs111111117-contest-1 round 1 start
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:08:01  INFO ContestServiceRunnable:550 - 111111115vs111111117-contest-1 round 1 end
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:08:01  INFO ContestServiceRunnable:578 - 111111115vs111111117-contest-1 game over
+2017-05-14 15:08:01  INFO ContestServiceRunnable:585 - 111111115vs111111117-contest-1 result saved!
+2017-05-14 15:08:01  INFO ContestServiceRunnable:590 - 111111115vs111111117-contest-1 record save completed!
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:440 - 111111112vs111111114-contest-2 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:08:01  INFO ContestServiceRunnable:550 - 111111112vs111111114-contest-2 round 0 end
+2017-05-14 15:08:01  INFO ContestServiceRunnable:69 - 111111112vs111111114-contest-2 round 1 start
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:08:01  INFO ContestServiceRunnable:550 - 111111112vs111111114-contest-2 round 1 end
+2017-05-14 15:08:01 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:08:01  INFO ContestServiceRunnable:578 - 111111112vs111111114-contest-2 game over
+2017-05-14 15:08:01  INFO ContestServiceRunnable:585 - 111111112vs111111114-contest-2 result saved!
+2017-05-14 15:08:01  INFO ContestServiceRunnable:590 - 111111112vs111111114-contest-2 record save completed!
+2017-05-14 15:09:40  INFO ContestServiceRunnable:59 - 111111117vs111111116-contest-0 begin!
+2017-05-14 15:09:40  INFO ContestServiceRunnable:69 - 111111117vs111111116-contest-0 round 0 start
+2017-05-14 15:09:40  INFO ContestServiceRunnable:59 - 111111111vs111111115-contest-1 begin!
+2017-05-14 15:09:40  INFO ContestServiceRunnable:59 - 111111110vs111111114-contest-2 begin!
+2017-05-14 15:09:40  INFO ContestServiceRunnable:69 - 111111111vs111111115-contest-1 round 0 start
+2017-05-14 15:09:40  INFO ContestServiceRunnable:69 - 111111110vs111111114-contest-2 round 0 start
+2017-05-14 15:09:40  INFO ContestServiceRunnable:59 - 111111112vs111111113-contest-3 begin!
+2017-05-14 15:09:40  INFO ContestServiceRunnable:69 - 111111112vs111111113-contest-3 round 0 start
+2017-05-14 15:09:44 ERROR ContestServiceRunnable:484 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:44 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:44  INFO ContestServiceRunnable:550 - 111111110vs111111114-contest-2 round 0 end
+2017-05-14 15:09:44 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:44  INFO ContestServiceRunnable:578 - 111111110vs111111114-contest-2 game over
+2017-05-14 15:09:44  INFO ContestServiceRunnable:585 - 111111110vs111111114-contest-2 result saved!
+2017-05-14 15:09:44  INFO ContestServiceRunnable:590 - 111111110vs111111114-contest-2 record save completed!
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:440 - 111111112vs111111113-contest-3 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:46  INFO ContestServiceRunnable:550 - 111111112vs111111113-contest-3 round 0 end
+2017-05-14 15:09:46  INFO ContestServiceRunnable:69 - 111111112vs111111113-contest-3 round 1 start
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:46  INFO ContestServiceRunnable:550 - 111111112vs111111113-contest-3 round 1 end
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:46  INFO ContestServiceRunnable:578 - 111111112vs111111113-contest-3 game over
+2017-05-14 15:09:46  INFO ContestServiceRunnable:585 - 111111112vs111111113-contest-3 result saved!
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:440 - 111111111vs111111115-contest-1 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:46  INFO ContestServiceRunnable:550 - 111111111vs111111115-contest-1 round 0 end
+2017-05-14 15:09:46  INFO ContestServiceRunnable:69 - 111111111vs111111115-contest-1 round 1 start
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:440 - 111111117vs111111116-contest-0 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 15:09:46  INFO ContestServiceRunnable:590 - 111111112vs111111113-contest-3 record save completed!
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:46  INFO ContestServiceRunnable:550 - 111111111vs111111115-contest-1 round 1 end
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:46  INFO ContestServiceRunnable:550 - 111111117vs111111116-contest-0 round 0 end
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:46  INFO ContestServiceRunnable:578 - 111111111vs111111115-contest-1 game over
+2017-05-14 15:09:46  INFO ContestServiceRunnable:69 - 111111117vs111111116-contest-0 round 1 start
+2017-05-14 15:09:46  INFO ContestServiceRunnable:585 - 111111111vs111111115-contest-1 result saved!
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:46  INFO ContestServiceRunnable:550 - 111111117vs111111116-contest-0 round 1 end
+2017-05-14 15:09:46 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:09:46  INFO ContestServiceRunnable:578 - 111111117vs111111116-contest-0 game over
+2017-05-14 15:09:46  INFO ContestServiceRunnable:590 - 111111111vs111111115-contest-1 record save completed!
+2017-05-14 15:09:46  INFO ContestServiceRunnable:585 - 111111117vs111111116-contest-0 result saved!
+2017-05-14 15:09:46  INFO ContestServiceRunnable:590 - 111111117vs111111116-contest-0 record save completed!
+2017-05-14 15:11:04  INFO ContestServiceRunnable:59 - 111111116vs111111114-contest-0 begin!
+2017-05-14 15:11:04  INFO ContestServiceRunnable:59 - 111111115vs111111113-contest-1 begin!
+2017-05-14 15:11:04  INFO ContestServiceRunnable:69 - 111111115vs111111113-contest-1 round 0 start
+2017-05-14 15:11:04  INFO ContestServiceRunnable:69 - 111111116vs111111114-contest-0 round 0 start
+2017-05-14 15:11:04  INFO ContestServiceRunnable:59 - 111111110vs111111117-contest-3 begin!
+2017-05-14 15:11:04  INFO ContestServiceRunnable:59 - 111111112vs111111111-contest-2 begin!
+2017-05-14 15:11:04  INFO ContestServiceRunnable:69 - 111111112vs111111111-contest-2 round 0 start
+2017-05-14 15:11:04  INFO ContestServiceRunnable:69 - 111111110vs111111117-contest-3 round 0 start
+2017-05-14 15:11:07 ERROR ContestServiceRunnable:484 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:11:07 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:11:07  INFO ContestServiceRunnable:550 - 111111110vs111111117-contest-3 round 0 end
+2017-05-14 15:11:07 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:11:07  INFO ContestServiceRunnable:578 - 111111110vs111111117-contest-3 game over
+2017-05-14 15:11:07  INFO ContestServiceRunnable:585 - 111111110vs111111117-contest-3 result saved!
+2017-05-14 15:11:07  INFO ContestServiceRunnable:590 - 111111110vs111111117-contest-3 record save completed!
+2017-05-14 15:17:03  INFO ContestServiceRunnable:59 - 111111114vs111111115-contest-0 begin!
+2017-05-14 15:17:03  INFO ContestServiceRunnable:69 - 111111114vs111111115-contest-0 round 0 start
+2017-05-14 15:17:03  INFO ContestServiceRunnable:59 - 111111112vs111111117-contest-2 begin!
+2017-05-14 15:17:03  INFO ContestServiceRunnable:59 - 111111113vs111111110-contest-3 begin!
+2017-05-14 15:17:03  INFO ContestServiceRunnable:69 - 111111112vs111111117-contest-2 round 0 start
+2017-05-14 15:17:03  INFO ContestServiceRunnable:69 - 111111113vs111111110-contest-3 round 0 start
+2017-05-14 15:17:03  INFO ContestServiceRunnable:59 - 111111116vs111111111-contest-1 begin!
+2017-05-14 15:17:03  INFO ContestServiceRunnable:69 - 111111116vs111111111-contest-1 round 0 start
+2017-05-14 15:17:20  INFO ContestServiceRunnable:550 - 111111116vs111111111-contest-1 round 0 end
+2017-05-14 15:17:20  INFO ContestServiceRunnable:69 - 111111116vs111111111-contest-1 round 1 start
+2017-05-14 15:17:21  INFO ContestServiceRunnable:550 - 111111113vs111111110-contest-3 round 0 end
+2017-05-14 15:17:21  INFO ContestServiceRunnable:69 - 111111113vs111111110-contest-3 round 1 start
+2017-05-14 15:17:21  INFO ContestServiceRunnable:550 - 111111114vs111111115-contest-0 round 0 end
+2017-05-14 15:17:21  INFO ContestServiceRunnable:69 - 111111114vs111111115-contest-0 round 1 start
+2017-05-14 15:17:21  INFO ContestServiceRunnable:550 - 111111112vs111111117-contest-2 round 0 end
+2017-05-14 15:17:21  INFO ContestServiceRunnable:69 - 111111112vs111111117-contest-2 round 1 start
+2017-05-14 15:17:37  INFO ContestServiceRunnable:550 - 111111116vs111111111-contest-1 round 1 end
+2017-05-14 15:17:37  INFO ContestServiceRunnable:578 - 111111116vs111111111-contest-1 game over
+2017-05-14 15:17:37  INFO ContestServiceRunnable:585 - 111111116vs111111111-contest-1 result saved!
+2017-05-14 15:17:37  INFO ContestServiceRunnable:590 - 111111116vs111111111-contest-1 record save completed!
+2017-05-14 15:17:38  INFO ContestServiceRunnable:550 - 111111113vs111111110-contest-3 round 1 end
+2017-05-14 15:17:38  INFO ContestServiceRunnable:578 - 111111113vs111111110-contest-3 game over
+2017-05-14 15:17:38  INFO ContestServiceRunnable:585 - 111111113vs111111110-contest-3 result saved!
+2017-05-14 15:17:38  INFO ContestServiceRunnable:590 - 111111113vs111111110-contest-3 record save completed!
+2017-05-14 15:17:38  INFO ContestServiceRunnable:550 - 111111114vs111111115-contest-0 round 1 end
+2017-05-14 15:17:38  INFO ContestServiceRunnable:578 - 111111114vs111111115-contest-0 game over
+2017-05-14 15:17:38  INFO ContestServiceRunnable:585 - 111111114vs111111115-contest-0 result saved!
+2017-05-14 15:17:38  INFO ContestServiceRunnable:590 - 111111114vs111111115-contest-0 record save completed!
+2017-05-14 15:17:38  INFO ContestServiceRunnable:550 - 111111112vs111111117-contest-2 round 1 end
+2017-05-14 15:17:38  INFO ContestServiceRunnable:578 - 111111112vs111111117-contest-2 game over
+2017-05-14 15:17:38  INFO ContestServiceRunnable:585 - 111111112vs111111117-contest-2 result saved!
+2017-05-14 15:17:38  INFO ContestServiceRunnable:590 - 111111112vs111111117-contest-2 record save completed!
+2017-05-14 15:23:25  INFO ContestServiceRunnable:59 - 111111115vs111111110-contest-0 begin!
+2017-05-14 15:23:25  INFO ContestServiceRunnable:69 - 111111115vs111111110-contest-0 round 0 start
+2017-05-14 15:23:25  INFO ContestServiceRunnable:59 - 111111112vs111111114-contest-1 begin!
+2017-05-14 15:23:25  INFO ContestServiceRunnable:59 - 111111116vs111111117-contest-2 begin!
+2017-05-14 15:23:25  INFO ContestServiceRunnable:69 - 111111112vs111111114-contest-1 round 0 start
+2017-05-14 15:23:25  INFO ContestServiceRunnable:69 - 111111116vs111111117-contest-2 round 0 start
+2017-05-14 15:23:25  INFO ContestServiceRunnable:59 - 111111113vs111111111-contest-3 begin!
+2017-05-14 15:23:25  INFO ContestServiceRunnable:69 - 111111113vs111111111-contest-3 round 0 start
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:268 - 111111113vs111111111-contest-3 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32  INFO ContestServiceRunnable:550 - 111111113vs111111111-contest-3 round 0 end
+2017-05-14 15:23:32  INFO ContestServiceRunnable:69 - 111111113vs111111111-contest-3 round 1 start
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:268 - 111111112vs111111114-contest-1 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32  INFO ContestServiceRunnable:550 - 111111112vs111111114-contest-1 round 0 end
+2017-05-14 15:23:32  INFO ContestServiceRunnable:69 - 111111112vs111111114-contest-1 round 1 start
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32  INFO ContestServiceRunnable:550 - 111111113vs111111111-contest-3 round 1 end
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32  INFO ContestServiceRunnable:578 - 111111113vs111111111-contest-3 game over
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32  INFO ContestServiceRunnable:550 - 111111112vs111111114-contest-1 round 1 end
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32  INFO ContestServiceRunnable:578 - 111111112vs111111114-contest-1 game over
+2017-05-14 15:23:32  INFO ContestServiceRunnable:585 - 111111112vs111111114-contest-1 result saved!
+2017-05-14 15:23:32  INFO ContestServiceRunnable:590 - 111111112vs111111114-contest-1 record save completed!
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:268 - 111111115vs111111110-contest-0 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32  INFO ContestServiceRunnable:550 - 111111115vs111111110-contest-0 round 0 end
+2017-05-14 15:23:32  INFO ContestServiceRunnable:69 - 111111115vs111111110-contest-0 round 1 start
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32  INFO ContestServiceRunnable:550 - 111111115vs111111110-contest-0 round 1 end
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32  INFO ContestServiceRunnable:578 - 111111115vs111111110-contest-0 game over
+2017-05-14 15:23:32  INFO ContestServiceRunnable:585 - 111111115vs111111110-contest-0 result saved!
+2017-05-14 15:23:32  INFO ContestServiceRunnable:590 - 111111115vs111111110-contest-0 record save completed!
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:268 - 111111116vs111111117-contest-2 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32  INFO ContestServiceRunnable:550 - 111111116vs111111117-contest-2 round 0 end
+2017-05-14 15:23:32  INFO ContestServiceRunnable:69 - 111111116vs111111117-contest-2 round 1 start
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:114 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32  INFO ContestServiceRunnable:550 - 111111116vs111111117-contest-2 round 1 end
+2017-05-14 15:23:32 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 15:23:32  INFO ContestServiceRunnable:578 - 111111116vs111111117-contest-2 game over
+2017-05-14 15:23:32  INFO ContestServiceRunnable:585 - 111111116vs111111117-contest-2 result saved!
+2017-05-14 15:23:32  INFO ContestServiceRunnable:590 - 111111116vs111111117-contest-2 record save completed!
+2017-05-14 15:23:32  INFO ContestServiceRunnable:585 - 111111113vs111111111-contest-3 result saved!
+2017-05-14 15:23:32  INFO ContestServiceRunnable:590 - 111111113vs111111111-contest-3 record save completed!
+2017-05-14 15:26:10  INFO ContestServiceRunnable:59 - 111111115vs111111111-contest-0 begin!
+2017-05-14 15:26:10  INFO ContestServiceRunnable:69 - 111111115vs111111111-contest-0 round 0 start
+2017-05-14 15:26:10  INFO ContestServiceRunnable:59 - 111111116vs111111110-contest-2 begin!
+2017-05-14 15:26:10  INFO ContestServiceRunnable:69 - 111111116vs111111110-contest-2 round 0 start
+2017-05-14 15:26:10  INFO ContestServiceRunnable:59 - 111111113vs111111117-contest-1 begin!
+2017-05-14 15:26:10  INFO ContestServiceRunnable:69 - 111111113vs111111117-contest-1 round 0 start
+2017-05-14 15:26:10  INFO ContestServiceRunnable:59 - 111111114vs111111112-contest-3 begin!
+2017-05-14 15:26:10  INFO ContestServiceRunnable:69 - 111111114vs111111112-contest-3 round 0 start
+2017-05-14 15:26:27  INFO ContestServiceRunnable:550 - 111111115vs111111111-contest-0 round 0 end
+2017-05-14 15:26:27  INFO ContestServiceRunnable:69 - 111111115vs111111111-contest-0 round 1 start
+2017-05-14 15:26:27  INFO ContestServiceRunnable:550 - 111111114vs111111112-contest-3 round 0 end
+2017-05-14 15:26:27  INFO ContestServiceRunnable:69 - 111111114vs111111112-contest-3 round 1 start
+2017-05-14 15:26:27  INFO ContestServiceRunnable:550 - 111111116vs111111110-contest-2 round 0 end
+2017-05-14 15:26:27  INFO ContestServiceRunnable:69 - 111111116vs111111110-contest-2 round 1 start
+2017-05-14 15:26:27  INFO ContestServiceRunnable:550 - 111111113vs111111117-contest-1 round 0 end
+2017-05-14 15:26:27  INFO ContestServiceRunnable:69 - 111111113vs111111117-contest-1 round 1 start
+2017-05-14 15:26:44  INFO ContestServiceRunnable:550 - 111111115vs111111111-contest-0 round 1 end
+2017-05-14 15:26:44  INFO ContestServiceRunnable:578 - 111111115vs111111111-contest-0 game over
+2017-05-14 15:26:44  INFO ContestServiceRunnable:585 - 111111115vs111111111-contest-0 result saved!
+2017-05-14 15:26:44  INFO ContestServiceRunnable:590 - 111111115vs111111111-contest-0 record save completed!
+2017-05-14 15:26:44  INFO ContestServiceRunnable:550 - 111111113vs111111117-contest-1 round 1 end
+2017-05-14 15:26:44  INFO ContestServiceRunnable:578 - 111111113vs111111117-contest-1 game over
+2017-05-14 15:26:44  INFO ContestServiceRunnable:585 - 111111113vs111111117-contest-1 result saved!
+2017-05-14 15:26:44  INFO ContestServiceRunnable:590 - 111111113vs111111117-contest-1 record save completed!
+2017-05-14 15:26:44  INFO ContestServiceRunnable:550 - 111111114vs111111112-contest-3 round 1 end
+2017-05-14 15:26:44  INFO ContestServiceRunnable:578 - 111111114vs111111112-contest-3 game over
+2017-05-14 15:26:44  INFO ContestServiceRunnable:585 - 111111114vs111111112-contest-3 result saved!
+2017-05-14 15:26:44  INFO ContestServiceRunnable:590 - 111111114vs111111112-contest-3 record save completed!
+2017-05-14 15:26:45  INFO ContestServiceRunnable:550 - 111111116vs111111110-contest-2 round 1 end
+2017-05-14 15:26:45  INFO ContestServiceRunnable:578 - 111111116vs111111110-contest-2 game over
+2017-05-14 15:26:45  INFO ContestServiceRunnable:585 - 111111116vs111111110-contest-2 result saved!
+2017-05-14 15:26:45  INFO ContestServiceRunnable:590 - 111111116vs111111110-contest-2 record save completed!
+2017-05-14 15:33:07  INFO ContestServiceRunnable:59 - 111111111vs111111113-contest-0 begin!
+2017-05-14 15:33:07  INFO ContestServiceRunnable:69 - 111111111vs111111113-contest-0 round 0 start
+2017-05-14 15:33:07  INFO ContestServiceRunnable:59 - 111111112vs111111115-contest-3 begin!
+2017-05-14 15:33:07  INFO ContestServiceRunnable:69 - 111111112vs111111115-contest-3 round 0 start
+2017-05-14 15:33:07  INFO ContestServiceRunnable:59 - 111111114vs111111117-contest-1 begin!
+2017-05-14 15:33:07  INFO ContestServiceRunnable:69 - 111111114vs111111117-contest-1 round 0 start
+2017-05-14 15:33:07  INFO ContestServiceRunnable:59 - 111111116vs111111110-contest-2 begin!
+2017-05-14 15:33:07  INFO ContestServiceRunnable:69 - 111111116vs111111110-contest-2 round 0 start
+2017-05-14 15:33:23  INFO ContestServiceRunnable:550 - 111111116vs111111110-contest-2 round 0 end
+2017-05-14 15:33:23  INFO ContestServiceRunnable:69 - 111111116vs111111110-contest-2 round 1 start
+2017-05-14 15:33:24  INFO ContestServiceRunnable:550 - 111111111vs111111113-contest-0 round 0 end
+2017-05-14 15:33:24  INFO ContestServiceRunnable:69 - 111111111vs111111113-contest-0 round 1 start
+2017-05-14 15:33:24  INFO ContestServiceRunnable:550 - 111111114vs111111117-contest-1 round 0 end
+2017-05-14 15:33:24  INFO ContestServiceRunnable:69 - 111111114vs111111117-contest-1 round 1 start
+2017-05-14 15:33:24  INFO ContestServiceRunnable:550 - 111111112vs111111115-contest-3 round 0 end
+2017-05-14 15:33:24  INFO ContestServiceRunnable:69 - 111111112vs111111115-contest-3 round 1 start
+2017-05-14 15:33:39  INFO ContestServiceRunnable:550 - 111111116vs111111110-contest-2 round 1 end
+2017-05-14 15:33:39  INFO ContestServiceRunnable:578 - 111111116vs111111110-contest-2 game over
+2017-05-14 15:33:39  INFO ContestServiceRunnable:585 - 111111116vs111111110-contest-2 result saved!
+2017-05-14 15:33:39  INFO ContestServiceRunnable:590 - 111111116vs111111110-contest-2 record save completed!
+2017-05-14 15:33:41  INFO ContestServiceRunnable:550 - 111111111vs111111113-contest-0 round 1 end
+2017-05-14 15:33:41  INFO ContestServiceRunnable:578 - 111111111vs111111113-contest-0 game over
+2017-05-14 15:33:41  INFO ContestServiceRunnable:585 - 111111111vs111111113-contest-0 result saved!
+2017-05-14 15:33:41  INFO ContestServiceRunnable:590 - 111111111vs111111113-contest-0 record save completed!
+2017-05-14 15:33:41  INFO ContestServiceRunnable:550 - 111111114vs111111117-contest-1 round 1 end
+2017-05-14 15:33:41  INFO ContestServiceRunnable:578 - 111111114vs111111117-contest-1 game over
+2017-05-14 15:33:41  INFO ContestServiceRunnable:585 - 111111114vs111111117-contest-1 result saved!
+2017-05-14 15:33:41  INFO ContestServiceRunnable:590 - 111111114vs111111117-contest-1 record save completed!
+2017-05-14 15:33:41  INFO ContestServiceRunnable:550 - 111111112vs111111115-contest-3 round 1 end
+2017-05-14 15:33:41  INFO ContestServiceRunnable:578 - 111111112vs111111115-contest-3 game over
+2017-05-14 15:33:41  INFO ContestServiceRunnable:585 - 111111112vs111111115-contest-3 result saved!
+2017-05-14 15:33:41  INFO ContestServiceRunnable:590 - 111111112vs111111115-contest-3 record save completed!
+2017-05-14 15:52:03  INFO ContestServiceRunnable:59 - 111111117vs111111115-contest-0 begin!
+2017-05-14 15:52:03  INFO ContestServiceRunnable:59 - 111111110vs111111112-contest-1 begin!
+2017-05-14 15:52:03  INFO ContestServiceRunnable:59 - 111111113vs111111114-contest-2 begin!
+2017-05-14 15:52:03  INFO ContestServiceRunnable:59 - 111111111vs111111116-contest-3 begin!
+2017-05-14 15:52:03  INFO ContestServiceRunnable:69 - 111111117vs111111115-contest-0 round 0 start
+2017-05-14 15:52:03  INFO ContestServiceRunnable:69 - 111111113vs111111114-contest-2 round 0 start
+2017-05-14 15:52:03  INFO ContestServiceRunnable:69 - 111111111vs111111116-contest-3 round 0 start
+2017-05-14 15:52:03  INFO ContestServiceRunnable:69 - 111111110vs111111112-contest-1 round 0 start
+2017-05-14 15:52:23  INFO ContestServiceRunnable:550 - 111111110vs111111112-contest-1 round 0 end
+2017-05-14 15:52:23  INFO ContestServiceRunnable:69 - 111111110vs111111112-contest-1 round 1 start
+2017-05-14 15:52:23  INFO ContestServiceRunnable:550 - 111111111vs111111116-contest-3 round 0 end
+2017-05-14 15:52:23  INFO ContestServiceRunnable:69 - 111111111vs111111116-contest-3 round 1 start
+2017-05-14 15:52:24  INFO ContestServiceRunnable:550 - 111111113vs111111114-contest-2 round 0 end
+2017-05-14 15:52:24  INFO ContestServiceRunnable:69 - 111111113vs111111114-contest-2 round 1 start
+2017-05-14 15:52:24  INFO ContestServiceRunnable:550 - 111111117vs111111115-contest-0 round 0 end
+2017-05-14 15:52:24  INFO ContestServiceRunnable:69 - 111111117vs111111115-contest-0 round 1 start
+2017-05-14 15:52:40  INFO ContestServiceRunnable:550 - 111111110vs111111112-contest-1 round 1 end
+2017-05-14 15:52:40  INFO ContestServiceRunnable:578 - 111111110vs111111112-contest-1 game over
+2017-05-14 15:52:40  INFO ContestServiceRunnable:585 - 111111110vs111111112-contest-1 result saved!
+2017-05-14 15:52:40  INFO ContestServiceRunnable:590 - 111111110vs111111112-contest-1 record save completed!
+2017-05-14 15:52:42  INFO ContestServiceRunnable:550 - 111111111vs111111116-contest-3 round 1 end
+2017-05-14 15:52:42  INFO ContestServiceRunnable:578 - 111111111vs111111116-contest-3 game over
+2017-05-14 15:52:42  INFO ContestServiceRunnable:585 - 111111111vs111111116-contest-3 result saved!
+2017-05-14 15:52:42  INFO ContestServiceRunnable:590 - 111111111vs111111116-contest-3 record save completed!
+2017-05-14 15:52:42  INFO ContestServiceRunnable:550 - 111111113vs111111114-contest-2 round 1 end
+2017-05-14 15:52:42  INFO ContestServiceRunnable:578 - 111111113vs111111114-contest-2 game over
+2017-05-14 15:52:42  INFO ContestServiceRunnable:585 - 111111113vs111111114-contest-2 result saved!
+2017-05-14 15:52:42  INFO ContestServiceRunnable:590 - 111111113vs111111114-contest-2 record save completed!
+2017-05-14 15:52:42  INFO ContestServiceRunnable:550 - 111111117vs111111115-contest-0 round 1 end
+2017-05-14 15:52:42  INFO ContestServiceRunnable:578 - 111111117vs111111115-contest-0 game over
+2017-05-14 15:52:42  INFO ContestServiceRunnable:585 - 111111117vs111111115-contest-0 result saved!
+2017-05-14 15:52:42  INFO ContestServiceRunnable:590 - 111111117vs111111115-contest-0 record save completed!
+2017-05-14 16:00:01  INFO ContestServiceRunnable:59 - 111111113vs111111112-contest-0 begin!
+2017-05-14 16:00:01  INFO ContestServiceRunnable:69 - 111111113vs111111112-contest-0 round 0 start
+2017-05-14 16:00:01  INFO ContestServiceRunnable:59 - 111111114vs111111111-contest-3 begin!
+2017-05-14 16:00:01  INFO ContestServiceRunnable:69 - 111111114vs111111111-contest-3 round 0 start
+2017-05-14 16:00:01  INFO ContestServiceRunnable:59 - 111111116vs111111115-contest-2 begin!
+2017-05-14 16:00:01  INFO ContestServiceRunnable:69 - 111111116vs111111115-contest-2 round 0 start
+2017-05-14 16:00:01  INFO ContestServiceRunnable:59 - 111111110vs111111117-contest-1 begin!
+2017-05-14 16:00:01  INFO ContestServiceRunnable:69 - 111111110vs111111117-contest-1 round 0 start
+2017-05-14 16:00:18  INFO ContestServiceRunnable:550 - 111111110vs111111117-contest-1 round 0 end
+2017-05-14 16:00:18  INFO ContestServiceRunnable:69 - 111111110vs111111117-contest-1 round 1 start
+2017-05-14 16:00:18  INFO ContestServiceRunnable:550 - 111111114vs111111111-contest-3 round 0 end
+2017-05-14 16:00:18  INFO ContestServiceRunnable:69 - 111111114vs111111111-contest-3 round 1 start
+2017-05-14 16:00:19  INFO ContestServiceRunnable:550 - 111111116vs111111115-contest-2 round 0 end
+2017-05-14 16:00:19  INFO ContestServiceRunnable:69 - 111111116vs111111115-contest-2 round 1 start
+2017-05-14 16:00:19  INFO ContestServiceRunnable:550 - 111111113vs111111112-contest-0 round 0 end
+2017-05-14 16:00:19  INFO ContestServiceRunnable:69 - 111111113vs111111112-contest-0 round 1 start
+2017-05-14 16:00:35  INFO ContestServiceRunnable:550 - 111111110vs111111117-contest-1 round 1 end
+2017-05-14 16:00:35  INFO ContestServiceRunnable:578 - 111111110vs111111117-contest-1 game over
+2017-05-14 16:00:35  INFO ContestServiceRunnable:585 - 111111110vs111111117-contest-1 result saved!
+2017-05-14 16:00:35  INFO ContestServiceRunnable:590 - 111111110vs111111117-contest-1 record save completed!
+2017-05-14 16:00:35  INFO ContestServiceRunnable:550 - 111111114vs111111111-contest-3 round 1 end
+2017-05-14 16:00:35  INFO ContestServiceRunnable:578 - 111111114vs111111111-contest-3 game over
+2017-05-14 16:00:35  INFO ContestServiceRunnable:585 - 111111114vs111111111-contest-3 result saved!
+2017-05-14 16:00:35  INFO ContestServiceRunnable:590 - 111111114vs111111111-contest-3 record save completed!
+2017-05-14 16:00:35  INFO ContestServiceRunnable:550 - 111111116vs111111115-contest-2 round 1 end
+2017-05-14 16:00:35  INFO ContestServiceRunnable:578 - 111111116vs111111115-contest-2 game over
+2017-05-14 16:00:35  INFO ContestServiceRunnable:585 - 111111116vs111111115-contest-2 result saved!
+2017-05-14 16:00:35  INFO ContestServiceRunnable:590 - 111111116vs111111115-contest-2 record save completed!
+2017-05-14 16:00:35  INFO ContestServiceRunnable:550 - 111111113vs111111112-contest-0 round 1 end
+2017-05-14 16:00:35  INFO ContestServiceRunnable:578 - 111111113vs111111112-contest-0 game over
+2017-05-14 16:00:35  INFO ContestServiceRunnable:585 - 111111113vs111111112-contest-0 result saved!
+2017-05-14 16:00:35  INFO ContestServiceRunnable:590 - 111111113vs111111112-contest-0 record save completed!
+2017-05-14 16:53:16  INFO ContestServiceRunnable:59 - 111111116vs111111110-contest-0 begin!
+2017-05-14 16:53:16  INFO ContestServiceRunnable:69 - 111111116vs111111110-contest-0 round 0 start
+2017-05-14 16:53:16  INFO ContestServiceRunnable:59 - 111111111vs111111115-contest-1 begin!
+2017-05-14 16:53:16  INFO ContestServiceRunnable:69 - 111111111vs111111115-contest-1 round 0 start
+2017-05-14 16:53:16  INFO ContestServiceRunnable:59 - 111111113vs111111112-contest-3 begin!
+2017-05-14 16:53:16  INFO ContestServiceRunnable:69 - 111111113vs111111112-contest-3 round 0 start
+2017-05-14 16:53:16  INFO ContestServiceRunnable:59 - 111111114vs111111117-contest-2 begin!
+2017-05-14 16:53:16  INFO ContestServiceRunnable:69 - 111111114vs111111117-contest-2 round 0 start
+2017-05-14 16:53:16 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 16:53:16 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 16:53:16  INFO ContestServiceRunnable:550 - 111111113vs111111112-contest-3 round 0 end
+2017-05-14 16:53:16 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 16:53:16  INFO ContestServiceRunnable:578 - 111111113vs111111112-contest-3 game over
+2017-05-14 16:53:16  INFO ContestServiceRunnable:585 - 111111113vs111111112-contest-3 result saved!
+2017-05-14 16:53:16  INFO ContestServiceRunnable:590 - 111111113vs111111112-contest-3 record save completed!
+2017-05-14 16:53:31  INFO ContestServiceRunnable:550 - 111111111vs111111115-contest-1 round 0 end
+2017-05-14 16:53:31  INFO ContestServiceRunnable:69 - 111111111vs111111115-contest-1 round 1 start
+2017-05-14 16:53:31  INFO ContestServiceRunnable:550 - 111111114vs111111117-contest-2 round 0 end
+2017-05-14 16:53:31  INFO ContestServiceRunnable:69 - 111111114vs111111117-contest-2 round 1 start
+2017-05-14 16:53:31  INFO ContestServiceRunnable:550 - 111111116vs111111110-contest-0 round 0 end
+2017-05-14 16:53:31  INFO ContestServiceRunnable:69 - 111111116vs111111110-contest-0 round 1 start
+2017-05-14 16:53:44  INFO ContestServiceRunnable:550 - 111111114vs111111117-contest-2 round 1 end
+2017-05-14 16:53:44  INFO ContestServiceRunnable:578 - 111111114vs111111117-contest-2 game over
+2017-05-14 16:53:44  INFO ContestServiceRunnable:585 - 111111114vs111111117-contest-2 result saved!
+2017-05-14 16:53:44  INFO ContestServiceRunnable:590 - 111111114vs111111117-contest-2 record save completed!
+2017-05-14 16:53:44  INFO ContestServiceRunnable:550 - 111111111vs111111115-contest-1 round 1 end
+2017-05-14 16:53:44  INFO ContestServiceRunnable:578 - 111111111vs111111115-contest-1 game over
+2017-05-14 16:53:44  INFO ContestServiceRunnable:585 - 111111111vs111111115-contest-1 result saved!
+2017-05-14 16:53:44  INFO ContestServiceRunnable:590 - 111111111vs111111115-contest-1 record save completed!
+2017-05-14 16:53:45  INFO ContestServiceRunnable:550 - 111111116vs111111110-contest-0 round 1 end
+2017-05-14 16:53:45  INFO ContestServiceRunnable:578 - 111111116vs111111110-contest-0 game over
+2017-05-14 16:53:45  INFO ContestServiceRunnable:585 - 111111116vs111111110-contest-0 result saved!
+2017-05-14 16:53:45  INFO ContestServiceRunnable:590 - 111111116vs111111110-contest-0 record save completed!
+2017-05-14 17:02:23  INFO ContestServiceRunnable:59 - 111111110vs111111117-contest-0 begin!
+2017-05-14 17:02:23  INFO ContestServiceRunnable:69 - 111111110vs111111117-contest-0 round 0 start
+2017-05-14 17:02:23  INFO ContestServiceRunnable:59 - 111111114vs111111113-contest-1 begin!
+2017-05-14 17:02:23  INFO ContestServiceRunnable:69 - 111111114vs111111113-contest-1 round 0 start
+2017-05-14 17:02:23  INFO ContestServiceRunnable:59 - 111111115vs111111111-contest-2 begin!
+2017-05-14 17:02:23  INFO ContestServiceRunnable:59 - 111111112vs111111116-contest-3 begin!
+2017-05-14 17:02:23  INFO ContestServiceRunnable:69 - 111111112vs111111116-contest-3 round 0 start
+2017-05-14 17:02:23  INFO ContestServiceRunnable:69 - 111111115vs111111111-contest-2 round 0 start
+2017-05-14 17:02:40  INFO ContestServiceRunnable:550 - 111111115vs111111111-contest-2 round 0 end
+2017-05-14 17:02:40  INFO ContestServiceRunnable:69 - 111111115vs111111111-contest-2 round 1 start
+2017-05-14 17:02:40  INFO ContestServiceRunnable:550 - 111111110vs111111117-contest-0 round 0 end
+2017-05-14 17:02:40  INFO ContestServiceRunnable:69 - 111111110vs111111117-contest-0 round 1 start
+2017-05-14 17:02:40  INFO ContestServiceRunnable:550 - 111111112vs111111116-contest-3 round 0 end
+2017-05-14 17:02:40  INFO ContestServiceRunnable:69 - 111111112vs111111116-contest-3 round 1 start
+2017-05-14 17:02:40  INFO ContestServiceRunnable:550 - 111111114vs111111113-contest-1 round 0 end
+2017-05-14 17:02:40  INFO ContestServiceRunnable:69 - 111111114vs111111113-contest-1 round 1 start
+2017-05-14 17:02:57  INFO ContestServiceRunnable:550 - 111111115vs111111111-contest-2 round 1 end
+2017-05-14 17:02:57  INFO ContestServiceRunnable:578 - 111111115vs111111111-contest-2 game over
+2017-05-14 17:02:57  INFO ContestServiceRunnable:585 - 111111115vs111111111-contest-2 result saved!
+2017-05-14 17:02:57  INFO ContestServiceRunnable:590 - 111111115vs111111111-contest-2 record save completed!
+2017-05-14 17:02:57  INFO ContestServiceRunnable:550 - 111111110vs111111117-contest-0 round 1 end
+2017-05-14 17:02:57  INFO ContestServiceRunnable:578 - 111111110vs111111117-contest-0 game over
+2017-05-14 17:02:57  INFO ContestServiceRunnable:585 - 111111110vs111111117-contest-0 result saved!
+2017-05-14 17:02:57  INFO ContestServiceRunnable:590 - 111111110vs111111117-contest-0 record save completed!
+2017-05-14 17:02:57  INFO ContestServiceRunnable:550 - 111111112vs111111116-contest-3 round 1 end
+2017-05-14 17:02:57  INFO ContestServiceRunnable:578 - 111111112vs111111116-contest-3 game over
+2017-05-14 17:02:57  INFO ContestServiceRunnable:585 - 111111112vs111111116-contest-3 result saved!
+2017-05-14 17:02:57  INFO ContestServiceRunnable:590 - 111111112vs111111116-contest-3 record save completed!
+2017-05-14 17:02:57  INFO ContestServiceRunnable:550 - 111111114vs111111113-contest-1 round 1 end
+2017-05-14 17:02:57  INFO ContestServiceRunnable:578 - 111111114vs111111113-contest-1 game over
+2017-05-14 17:02:57  INFO ContestServiceRunnable:585 - 111111114vs111111113-contest-1 result saved!
+2017-05-14 17:02:57  INFO ContestServiceRunnable:590 - 111111114vs111111113-contest-1 record save completed!
+2017-05-14 17:04:20  INFO ContestServiceRunnable:59 - 111111117vs111111111-contest-0 begin!
+2017-05-14 17:04:20  INFO ContestServiceRunnable:69 - 111111117vs111111111-contest-0 round 0 start
+2017-05-14 17:04:20  INFO ContestServiceRunnable:59 - 111111110vs111111114-contest-1 begin!
+2017-05-14 17:04:20  INFO ContestServiceRunnable:59 - 111111113vs111111115-contest-2 begin!
+2017-05-14 17:04:20  INFO ContestServiceRunnable:59 - 111111116vs111111112-contest-3 begin!
+2017-05-14 17:04:20  INFO ContestServiceRunnable:69 - 111111116vs111111112-contest-3 round 0 start
+2017-05-14 17:04:20  INFO ContestServiceRunnable:69 - 111111110vs111111114-contest-1 round 0 start
+2017-05-14 17:04:20  INFO ContestServiceRunnable:69 - 111111113vs111111115-contest-2 round 0 start
+2017-05-14 17:04:37  INFO ContestServiceRunnable:550 - 111111116vs111111112-contest-3 round 0 end
+2017-05-14 17:04:37  INFO ContestServiceRunnable:69 - 111111116vs111111112-contest-3 round 1 start
+2017-05-14 17:04:37  INFO ContestServiceRunnable:550 - 111111110vs111111114-contest-1 round 0 end
+2017-05-14 17:04:37  INFO ContestServiceRunnable:69 - 111111110vs111111114-contest-1 round 1 start
+2017-05-14 17:04:37  INFO ContestServiceRunnable:550 - 111111113vs111111115-contest-2 round 0 end
+2017-05-14 17:04:37  INFO ContestServiceRunnable:69 - 111111113vs111111115-contest-2 round 1 start
+2017-05-14 17:04:37  INFO ContestServiceRunnable:550 - 111111117vs111111111-contest-0 round 0 end
+2017-05-14 17:04:37  INFO ContestServiceRunnable:69 - 111111117vs111111111-contest-0 round 1 start
+2017-05-14 17:04:54  INFO ContestServiceRunnable:550 - 111111116vs111111112-contest-3 round 1 end
+2017-05-14 17:04:54  INFO ContestServiceRunnable:578 - 111111116vs111111112-contest-3 game over
+2017-05-14 17:04:54  INFO ContestServiceRunnable:585 - 111111116vs111111112-contest-3 result saved!
+2017-05-14 17:04:54  INFO ContestServiceRunnable:590 - 111111116vs111111112-contest-3 record save completed!
+2017-05-14 17:04:54  INFO ContestServiceRunnable:550 - 111111113vs111111115-contest-2 round 1 end
+2017-05-14 17:04:54  INFO ContestServiceRunnable:578 - 111111113vs111111115-contest-2 game over
+2017-05-14 17:04:54  INFO ContestServiceRunnable:585 - 111111113vs111111115-contest-2 result saved!
+2017-05-14 17:04:54  INFO ContestServiceRunnable:590 - 111111113vs111111115-contest-2 record save completed!
+2017-05-14 17:04:54  INFO ContestServiceRunnable:550 - 111111110vs111111114-contest-1 round 1 end
+2017-05-14 17:04:54  INFO ContestServiceRunnable:578 - 111111110vs111111114-contest-1 game over
+2017-05-14 17:04:54  INFO ContestServiceRunnable:585 - 111111110vs111111114-contest-1 result saved!
+2017-05-14 17:04:54  INFO ContestServiceRunnable:590 - 111111110vs111111114-contest-1 record save completed!
+2017-05-14 17:04:54  INFO ContestServiceRunnable:550 - 111111117vs111111111-contest-0 round 1 end
+2017-05-14 17:04:54  INFO ContestServiceRunnable:578 - 111111117vs111111111-contest-0 game over
+2017-05-14 17:04:54  INFO ContestServiceRunnable:585 - 111111117vs111111111-contest-0 result saved!
+2017-05-14 17:04:54  INFO ContestServiceRunnable:590 - 111111117vs111111111-contest-0 record save completed!
+2017-05-14 22:30:08  INFO ContestServiceRunnable:59 - 111111112vs111111113-contest-0 begin!
+2017-05-14 22:30:08  INFO ContestServiceRunnable:69 - 111111112vs111111113-contest-0 round 0 start
+2017-05-14 22:30:08  INFO ContestServiceRunnable:59 - 111111111vs111111117-contest-1 begin!
+2017-05-14 22:30:08  INFO ContestServiceRunnable:69 - 111111111vs111111117-contest-1 round 0 start
+2017-05-14 22:30:08  INFO ContestServiceRunnable:59 - 111111110vs111111116-contest-3 begin!
+2017-05-14 22:30:08  INFO ContestServiceRunnable:69 - 111111110vs111111116-contest-3 round 0 start
+2017-05-14 22:30:08  INFO ContestServiceRunnable:59 - 111111114vs111111115-contest-2 begin!
+2017-05-14 22:30:08  INFO ContestServiceRunnable:69 - 111111114vs111111115-contest-2 round 0 start
+2017-05-14 22:30:26  INFO ContestServiceRunnable:550 - 111111110vs111111116-contest-3 round 0 end
+2017-05-14 22:30:26  INFO ContestServiceRunnable:69 - 111111110vs111111116-contest-3 round 1 start
+2017-05-14 22:30:26  INFO ContestServiceRunnable:550 - 111111111vs111111117-contest-1 round 0 end
+2017-05-14 22:30:26  INFO ContestServiceRunnable:69 - 111111111vs111111117-contest-1 round 1 start
+2017-05-14 22:30:26  INFO ContestServiceRunnable:550 - 111111112vs111111113-contest-0 round 0 end
+2017-05-14 22:30:26  INFO ContestServiceRunnable:69 - 111111112vs111111113-contest-0 round 1 start
+2017-05-14 22:30:26  INFO ContestServiceRunnable:550 - 111111114vs111111115-contest-2 round 0 end
+2017-05-14 22:30:26  INFO ContestServiceRunnable:69 - 111111114vs111111115-contest-2 round 1 start
+2017-05-14 22:30:43  INFO ContestServiceRunnable:550 - 111111110vs111111116-contest-3 round 1 end
+2017-05-14 22:30:43  INFO ContestServiceRunnable:578 - 111111110vs111111116-contest-3 game over
+2017-05-14 22:30:43  INFO ContestServiceRunnable:585 - 111111110vs111111116-contest-3 result saved!
+2017-05-14 22:30:43  INFO ContestServiceRunnable:590 - 111111110vs111111116-contest-3 record save completed!
+2017-05-14 22:30:43  INFO ContestServiceRunnable:550 - 111111112vs111111113-contest-0 round 1 end
+2017-05-14 22:30:43  INFO ContestServiceRunnable:578 - 111111112vs111111113-contest-0 game over
+2017-05-14 22:30:43  INFO ContestServiceRunnable:585 - 111111112vs111111113-contest-0 result saved!
+2017-05-14 22:30:43  INFO ContestServiceRunnable:590 - 111111112vs111111113-contest-0 record save completed!
+2017-05-14 22:30:43  INFO ContestServiceRunnable:550 - 111111111vs111111117-contest-1 round 1 end
+2017-05-14 22:30:43  INFO ContestServiceRunnable:578 - 111111111vs111111117-contest-1 game over
+2017-05-14 22:30:43  INFO ContestServiceRunnable:585 - 111111111vs111111117-contest-1 result saved!
+2017-05-14 22:30:43  INFO ContestServiceRunnable:590 - 111111111vs111111117-contest-1 record save completed!
+2017-05-14 22:30:43  INFO ContestServiceRunnable:550 - 111111114vs111111115-contest-2 round 1 end
+2017-05-14 22:30:43  INFO ContestServiceRunnable:578 - 111111114vs111111115-contest-2 game over
+2017-05-14 22:30:43  INFO ContestServiceRunnable:585 - 111111114vs111111115-contest-2 result saved!
+2017-05-14 22:30:43  INFO ContestServiceRunnable:590 - 111111114vs111111115-contest-2 record save completed!
+2017-05-14 22:42:13  INFO ContestServiceRunnable:59 - 111111114vs111111117-contest-0 begin!
+2017-05-14 22:42:13  INFO ContestServiceRunnable:59 - 111111116vs111111111-contest-3 begin!
+2017-05-14 22:42:13  INFO ContestServiceRunnable:59 - 111111112vs111111115-contest-1 begin!
+2017-05-14 22:42:13  INFO ContestServiceRunnable:59 - 111111113vs111111110-contest-2 begin!
+2017-05-14 22:42:13  INFO ContestServiceRunnable:69 - 111111114vs111111117-contest-0 round 0 start
+2017-05-14 22:42:13  INFO ContestServiceRunnable:69 - 111111113vs111111110-contest-2 round 0 start
+2017-05-14 22:42:13  INFO ContestServiceRunnable:69 - 111111112vs111111115-contest-1 round 0 start
+2017-05-14 22:42:13  INFO ContestServiceRunnable:69 - 111111116vs111111111-contest-3 round 0 start
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:268 - 111111116vs111111111-contest-3 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18  INFO ContestServiceRunnable:550 - 111111116vs111111111-contest-3 round 0 end
+2017-05-14 22:42:18  INFO ContestServiceRunnable:69 - 111111116vs111111111-contest-3 round 1 start
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:114 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18  INFO ContestServiceRunnable:550 - 111111116vs111111111-contest-3 round 1 end
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18  INFO ContestServiceRunnable:578 - 111111116vs111111111-contest-3 game over
+2017-05-14 22:42:18  INFO ContestServiceRunnable:585 - 111111116vs111111111-contest-3 result saved!
+2017-05-14 22:42:18  INFO ContestServiceRunnable:590 - 111111116vs111111111-contest-3 record save completed!
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:268 - 111111112vs111111115-contest-1 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18  INFO ContestServiceRunnable:550 - 111111112vs111111115-contest-1 round 0 end
+2017-05-14 22:42:18  INFO ContestServiceRunnable:69 - 111111112vs111111115-contest-1 round 1 start
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18  INFO ContestServiceRunnable:550 - 111111112vs111111115-contest-1 round 1 end
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18  INFO ContestServiceRunnable:578 - 111111112vs111111115-contest-1 game over
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:42:18  INFO ContestServiceRunnable:585 - 111111112vs111111115-contest-1 result saved!
+2017-05-14 22:42:18  INFO ContestServiceRunnable:590 - 111111112vs111111115-contest-1 record save completed!
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:268 - 111111114vs111111117-contest-0 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:268 - 111111113vs111111110-contest-2 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18  INFO ContestServiceRunnable:550 - 111111114vs111111117-contest-0 round 0 end
+2017-05-14 22:42:18  INFO ContestServiceRunnable:550 - 111111113vs111111110-contest-2 round 0 end
+2017-05-14 22:42:18  INFO ContestServiceRunnable:69 - 111111114vs111111117-contest-0 round 1 start
+2017-05-14 22:42:18  INFO ContestServiceRunnable:69 - 111111113vs111111110-contest-2 round 1 start
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18  INFO ContestServiceRunnable:550 - 111111114vs111111117-contest-0 round 1 end
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18  INFO ContestServiceRunnable:578 - 111111114vs111111117-contest-0 game over
+2017-05-14 22:42:18  INFO ContestServiceRunnable:585 - 111111114vs111111117-contest-0 result saved!
+2017-05-14 22:42:18  INFO ContestServiceRunnable:590 - 111111114vs111111117-contest-0 record save completed!
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18  INFO ContestServiceRunnable:550 - 111111113vs111111110-contest-2 round 1 end
+2017-05-14 22:42:18 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:42:18  INFO ContestServiceRunnable:578 - 111111113vs111111110-contest-2 game over
+2017-05-14 22:42:18  INFO ContestServiceRunnable:585 - 111111113vs111111110-contest-2 result saved!
+2017-05-14 22:42:18  INFO ContestServiceRunnable:590 - 111111113vs111111110-contest-2 record save completed!
+2017-05-14 22:46:29  INFO ContestServiceRunnable:59 - 111111116vs111111113-contest-0 begin!
+2017-05-14 22:46:29  INFO ContestServiceRunnable:69 - 111111116vs111111113-contest-0 round 0 start
+2017-05-14 22:46:29  INFO ContestServiceRunnable:59 - 111111114vs111111115-contest-3 begin!
+2017-05-14 22:46:29  INFO ContestServiceRunnable:59 - 111111117vs111111111-contest-2 begin!
+2017-05-14 22:46:29  INFO ContestServiceRunnable:59 - 111111110vs111111112-contest-1 begin!
+2017-05-14 22:46:29  INFO ContestServiceRunnable:69 - 111111110vs111111112-contest-1 round 0 start
+2017-05-14 22:46:29  INFO ContestServiceRunnable:69 - 111111117vs111111111-contest-2 round 0 start
+2017-05-14 22:46:29  INFO ContestServiceRunnable:69 - 111111114vs111111115-contest-3 round 0 start
+2017-05-14 22:46:29 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:46:29 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:46:29  INFO ContestServiceRunnable:550 - 111111114vs111111115-contest-3 round 0 end
+2017-05-14 22:46:29 ERROR ContestServiceRunnable:114 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:46:29 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:46:29  INFO ContestServiceRunnable:550 - 111111110vs111111112-contest-1 round 0 end
+2017-05-14 22:46:29 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:46:29  INFO ContestServiceRunnable:578 - 111111114vs111111115-contest-3 game over
+2017-05-14 22:46:29 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:46:29  INFO ContestServiceRunnable:578 - 111111110vs111111112-contest-1 game over
+2017-05-14 22:46:29  INFO ContestServiceRunnable:585 - 111111114vs111111115-contest-3 result saved!
+2017-05-14 22:46:29  INFO ContestServiceRunnable:585 - 111111110vs111111112-contest-1 result saved!
+2017-05-14 22:46:29  INFO ContestServiceRunnable:590 - 111111114vs111111115-contest-3 record save completed!
+2017-05-14 22:46:29  INFO ContestServiceRunnable:590 - 111111110vs111111112-contest-1 record save completed!
+2017-05-14 22:46:40  INFO ContestServiceRunnable:550 - 111111117vs111111111-contest-2 round 0 end
+2017-05-14 22:46:40  INFO ContestServiceRunnable:69 - 111111117vs111111111-contest-2 round 1 start
+2017-05-14 22:46:41  INFO ContestServiceRunnable:550 - 111111116vs111111113-contest-0 round 0 end
+2017-05-14 22:46:41  INFO ContestServiceRunnable:69 - 111111116vs111111113-contest-0 round 1 start
+2017-05-14 22:46:51  INFO ContestServiceRunnable:550 - 111111117vs111111111-contest-2 round 1 end
+2017-05-14 22:46:51  INFO ContestServiceRunnable:578 - 111111117vs111111111-contest-2 game over
+2017-05-14 22:46:51  INFO ContestServiceRunnable:585 - 111111117vs111111111-contest-2 result saved!
+2017-05-14 22:46:51  INFO ContestServiceRunnable:590 - 111111117vs111111111-contest-2 record save completed!
+2017-05-14 22:46:51  INFO ContestServiceRunnable:550 - 111111116vs111111113-contest-0 round 1 end
+2017-05-14 22:46:51  INFO ContestServiceRunnable:578 - 111111116vs111111113-contest-0 game over
+2017-05-14 22:46:51  INFO ContestServiceRunnable:585 - 111111116vs111111113-contest-0 result saved!
+2017-05-14 22:46:51  INFO ContestServiceRunnable:590 - 111111116vs111111113-contest-0 record save completed!
+2017-05-14 22:50:29  INFO ContestServiceRunnable:59 - 111111116vs111111112-contest-0 begin!
+2017-05-14 22:50:29  INFO ContestServiceRunnable:69 - 111111116vs111111112-contest-0 round 0 start
+2017-05-14 22:50:29  INFO ContestServiceRunnable:59 - 111111111vs111111117-contest-3 begin!
+2017-05-14 22:50:29  INFO ContestServiceRunnable:69 - 111111111vs111111117-contest-3 round 0 start
+2017-05-14 22:50:29  INFO ContestServiceRunnable:59 - 111111114vs111111110-contest-1 begin!
+2017-05-14 22:50:29  INFO ContestServiceRunnable:69 - 111111114vs111111110-contest-1 round 0 start
+2017-05-14 22:50:29  INFO ContestServiceRunnable:59 - 111111113vs111111115-contest-2 begin!
+2017-05-14 22:50:29  INFO ContestServiceRunnable:69 - 111111113vs111111115-contest-2 round 0 start
+2017-05-14 22:50:47  INFO ContestServiceRunnable:550 - 111111114vs111111110-contest-1 round 0 end
+2017-05-14 22:50:47  INFO ContestServiceRunnable:69 - 111111114vs111111110-contest-1 round 1 start
+2017-05-14 22:50:47  INFO ContestServiceRunnable:550 - 111111111vs111111117-contest-3 round 0 end
+2017-05-14 22:50:47  INFO ContestServiceRunnable:69 - 111111111vs111111117-contest-3 round 1 start
+2017-05-14 22:50:47  INFO ContestServiceRunnable:550 - 111111116vs111111112-contest-0 round 0 end
+2017-05-14 22:50:47  INFO ContestServiceRunnable:69 - 111111116vs111111112-contest-0 round 1 start
+2017-05-14 22:50:47  INFO ContestServiceRunnable:550 - 111111113vs111111115-contest-2 round 0 end
+2017-05-14 22:50:47  INFO ContestServiceRunnable:69 - 111111113vs111111115-contest-2 round 1 start
+2017-05-14 22:51:03  INFO ContestServiceRunnable:550 - 111111114vs111111110-contest-1 round 1 end
+2017-05-14 22:51:03  INFO ContestServiceRunnable:578 - 111111114vs111111110-contest-1 game over
+2017-05-14 22:51:03  INFO ContestServiceRunnable:585 - 111111114vs111111110-contest-1 result saved!
+2017-05-14 22:51:03  INFO ContestServiceRunnable:590 - 111111114vs111111110-contest-1 record save completed!
+2017-05-14 22:51:04  INFO ContestServiceRunnable:550 - 111111111vs111111117-contest-3 round 1 end
+2017-05-14 22:51:04  INFO ContestServiceRunnable:578 - 111111111vs111111117-contest-3 game over
+2017-05-14 22:51:04  INFO ContestServiceRunnable:585 - 111111111vs111111117-contest-3 result saved!
+2017-05-14 22:51:04  INFO ContestServiceRunnable:590 - 111111111vs111111117-contest-3 record save completed!
+2017-05-14 22:51:04  INFO ContestServiceRunnable:550 - 111111113vs111111115-contest-2 round 1 end
+2017-05-14 22:51:04  INFO ContestServiceRunnable:578 - 111111113vs111111115-contest-2 game over
+2017-05-14 22:51:04  INFO ContestServiceRunnable:585 - 111111113vs111111115-contest-2 result saved!
+2017-05-14 22:51:04  INFO ContestServiceRunnable:590 - 111111113vs111111115-contest-2 record save completed!
+2017-05-14 22:51:04  INFO ContestServiceRunnable:550 - 111111116vs111111112-contest-0 round 1 end
+2017-05-14 22:51:04  INFO ContestServiceRunnable:578 - 111111116vs111111112-contest-0 game over
+2017-05-14 22:51:04  INFO ContestServiceRunnable:585 - 111111116vs111111112-contest-0 result saved!
+2017-05-14 22:51:04  INFO ContestServiceRunnable:590 - 111111116vs111111112-contest-0 record save completed!
+2017-05-14 22:52:42  INFO ContestServiceRunnable:59 - 111111115vs111111112-contest-0 begin!
+2017-05-14 22:52:42  INFO ContestServiceRunnable:69 - 111111115vs111111112-contest-0 round 0 start
+2017-05-14 22:52:42  INFO ContestServiceRunnable:59 - 111111113vs111111116-contest-1 begin!
+2017-05-14 22:52:42  INFO ContestServiceRunnable:59 - 111111111vs111111114-contest-2 begin!
+2017-05-14 22:52:42  INFO ContestServiceRunnable:69 - 111111113vs111111116-contest-1 round 0 start
+2017-05-14 22:52:42  INFO ContestServiceRunnable:69 - 111111111vs111111114-contest-2 round 0 start
+2017-05-14 22:52:42  INFO ContestServiceRunnable:59 - 111111117vs111111110-contest-3 begin!
+2017-05-14 22:52:42  INFO ContestServiceRunnable:69 - 111111117vs111111110-contest-3 round 0 start
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:440 - 111111111vs111111114-contest-2 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48  INFO ContestServiceRunnable:550 - 111111111vs111111114-contest-2 round 0 end
+2017-05-14 22:52:48  INFO ContestServiceRunnable:69 - 111111111vs111111114-contest-2 round 1 start
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48  INFO ContestServiceRunnable:550 - 111111111vs111111114-contest-2 round 1 end
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48  INFO ContestServiceRunnable:578 - 111111111vs111111114-contest-2 game over
+2017-05-14 22:52:48  INFO ContestServiceRunnable:585 - 111111111vs111111114-contest-2 result saved!
+2017-05-14 22:52:48  INFO ContestServiceRunnable:590 - 111111111vs111111114-contest-2 record save completed!
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:440 - 111111117vs111111110-contest-3 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48  INFO ContestServiceRunnable:550 - 111111117vs111111110-contest-3 round 0 end
+2017-05-14 22:52:48  INFO ContestServiceRunnable:69 - 111111117vs111111110-contest-3 round 1 start
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:440 - 111111113vs111111116-contest-1 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:440 - 111111115vs111111112-contest-0 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48  INFO ContestServiceRunnable:550 - 111111117vs111111110-contest-3 round 1 end
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48  INFO ContestServiceRunnable:578 - 111111117vs111111110-contest-3 game over
+2017-05-14 22:52:48  INFO ContestServiceRunnable:550 - 111111113vs111111116-contest-1 round 0 end
+2017-05-14 22:52:48  INFO ContestServiceRunnable:69 - 111111113vs111111116-contest-1 round 1 start
+2017-05-14 22:52:48  INFO ContestServiceRunnable:585 - 111111117vs111111110-contest-3 result saved!
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48  INFO ContestServiceRunnable:550 - 111111113vs111111116-contest-1 round 1 end
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48  INFO ContestServiceRunnable:578 - 111111113vs111111116-contest-1 game over
+2017-05-14 22:52:48  INFO ContestServiceRunnable:590 - 111111117vs111111110-contest-3 record save completed!
+2017-05-14 22:52:48  INFO ContestServiceRunnable:585 - 111111113vs111111116-contest-1 result saved!
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48  INFO ContestServiceRunnable:550 - 111111115vs111111112-contest-0 round 0 end
+2017-05-14 22:52:48  INFO ContestServiceRunnable:69 - 111111115vs111111112-contest-0 round 1 start
+2017-05-14 22:52:48  INFO ContestServiceRunnable:590 - 111111113vs111111116-contest-1 record save completed!
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48  INFO ContestServiceRunnable:550 - 111111115vs111111112-contest-0 round 1 end
+2017-05-14 22:52:48 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:52:48  INFO ContestServiceRunnable:578 - 111111115vs111111112-contest-0 game over
+2017-05-14 22:52:48  INFO ContestServiceRunnable:585 - 111111115vs111111112-contest-0 result saved!
+2017-05-14 22:52:48  INFO ContestServiceRunnable:590 - 111111115vs111111112-contest-0 record save completed!
+2017-05-14 22:53:55  INFO ContestServiceRunnable:59 - 111111110vs111111115-contest-0 begin!
+2017-05-14 22:53:55  INFO ContestServiceRunnable:69 - 111111110vs111111115-contest-0 round 0 start
+2017-05-14 22:53:55  INFO ContestServiceRunnable:59 - 111111114vs111111111-contest-1 begin!
+2017-05-14 22:53:55  INFO ContestServiceRunnable:69 - 111111114vs111111111-contest-1 round 0 start
+2017-05-14 22:53:55  INFO ContestServiceRunnable:59 - 111111117vs111111113-contest-2 begin!
+2017-05-14 22:53:55  INFO ContestServiceRunnable:59 - 111111112vs111111116-contest-3 begin!
+2017-05-14 22:53:55  INFO ContestServiceRunnable:69 - 111111117vs111111113-contest-2 round 0 start
+2017-05-14 22:53:55  INFO ContestServiceRunnable:69 - 111111112vs111111116-contest-3 round 0 start
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:268 - 111111112vs111111116-contest-3 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:550 - 111111112vs111111116-contest-3 round 0 end
+2017-05-14 22:54:00  INFO ContestServiceRunnable:69 - 111111112vs111111116-contest-3 round 1 start
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:114 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:550 - 111111112vs111111116-contest-3 round 1 end
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:578 - 111111112vs111111116-contest-3 game over
+2017-05-14 22:54:00  INFO ContestServiceRunnable:585 - 111111112vs111111116-contest-3 result saved!
+2017-05-14 22:54:00  INFO ContestServiceRunnable:590 - 111111112vs111111116-contest-3 record save completed!
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:268 - 111111117vs111111113-contest-2 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:268 - 111111114vs111111111-contest-1 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:268 - 111111110vs111111115-contest-0 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:550 - 111111117vs111111113-contest-2 round 0 end
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:550 - 111111114vs111111111-contest-1 round 0 end
+2017-05-14 22:54:00  INFO ContestServiceRunnable:69 - 111111117vs111111113-contest-2 round 1 start
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:550 - 111111110vs111111115-contest-0 round 0 end
+2017-05-14 22:54:00  INFO ContestServiceRunnable:69 - 111111110vs111111115-contest-0 round 1 start
+2017-05-14 22:54:00  INFO ContestServiceRunnable:69 - 111111114vs111111111-contest-1 round 1 start
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:550 - 111111117vs111111113-contest-2 round 1 end
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:578 - 111111117vs111111113-contest-2 game over
+2017-05-14 22:54:00  INFO ContestServiceRunnable:585 - 111111117vs111111113-contest-2 result saved!
+2017-05-14 22:54:00  INFO ContestServiceRunnable:590 - 111111117vs111111113-contest-2 record save completed!
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:550 - 111111110vs111111115-contest-0 round 1 end
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:578 - 111111110vs111111115-contest-0 game over
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:585 - 111111110vs111111115-contest-0 result saved!
+2017-05-14 22:54:00  INFO ContestServiceRunnable:590 - 111111110vs111111115-contest-0 record save completed!
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:550 - 111111114vs111111111-contest-1 round 1 end
+2017-05-14 22:54:00 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:54:00  INFO ContestServiceRunnable:578 - 111111114vs111111111-contest-1 game over
+2017-05-14 22:54:00  INFO ContestServiceRunnable:585 - 111111114vs111111111-contest-1 result saved!
+2017-05-14 22:54:00  INFO ContestServiceRunnable:590 - 111111114vs111111111-contest-1 record save completed!
+2017-05-14 22:56:54  INFO ContestServiceRunnable:59 - 111111111vs111111119-contest-0 begin!
+2017-05-14 22:56:54  INFO ContestServiceRunnable:69 - 111111111vs111111119-contest-0 round 0 start
+2017-05-14 22:56:54  INFO ContestServiceRunnable:59 - 111111118vs111111115-contest-1 begin!
+2017-05-14 22:56:54  INFO ContestServiceRunnable:69 - 111111118vs111111115-contest-1 round 0 start
+2017-05-14 22:56:54  INFO ContestServiceRunnable:59 - 111111113vs111111116-contest-2 begin!
+2017-05-14 22:56:54  INFO ContestServiceRunnable:59 - 111111114vs111111117-contest-3 begin!
+2017-05-14 22:56:54  INFO ContestServiceRunnable:69 - 111111114vs111111117-contest-3 round 0 start
+2017-05-14 22:56:54  INFO ContestServiceRunnable:69 - 111111113vs111111116-contest-2 round 0 start
+2017-05-14 22:56:54  INFO ContestServiceRunnable:59 - 111111112vs111111110-contest-4 begin!
+2017-05-14 22:56:54  INFO ContestServiceRunnable:69 - 111111112vs111111110-contest-4 round 0 start
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:268 - 111111118vs111111115-contest-1 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:550 - 111111118vs111111115-contest-1 round 0 end
+2017-05-14 22:57:02  INFO ContestServiceRunnable:69 - 111111118vs111111115-contest-1 round 1 start
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:550 - 111111118vs111111115-contest-1 round 1 end
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:578 - 111111118vs111111115-contest-1 game over
+2017-05-14 22:57:02  INFO ContestServiceRunnable:585 - 111111118vs111111115-contest-1 result saved!
+2017-05-14 22:57:02  INFO ContestServiceRunnable:590 - 111111118vs111111115-contest-1 record save completed!
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:268 - 111111111vs111111119-contest-0 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:550 - 111111111vs111111119-contest-0 round 0 end
+2017-05-14 22:57:02  INFO ContestServiceRunnable:69 - 111111111vs111111119-contest-0 round 1 start
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:550 - 111111111vs111111119-contest-0 round 1 end
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:578 - 111111111vs111111119-contest-0 game over
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:268 - 111111112vs111111110-contest-4 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:550 - 111111112vs111111110-contest-4 round 0 end
+2017-05-14 22:57:02  INFO ContestServiceRunnable:69 - 111111112vs111111110-contest-4 round 1 start
+2017-05-14 22:57:02  INFO ContestServiceRunnable:585 - 111111111vs111111119-contest-0 result saved!
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:550 - 111111112vs111111110-contest-4 round 1 end
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:268 - 111111113vs111111116-contest-2 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:57:02  INFO ContestServiceRunnable:590 - 111111111vs111111119-contest-0 record save completed!
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:578 - 111111112vs111111110-contest-4 game over
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:268 - 111111114vs111111117-contest-3 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:550 - 111111113vs111111116-contest-2 round 0 end
+2017-05-14 22:57:02  INFO ContestServiceRunnable:69 - 111111113vs111111116-contest-2 round 1 start
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:550 - 111111114vs111111117-contest-3 round 0 end
+2017-05-14 22:57:02  INFO ContestServiceRunnable:69 - 111111114vs111111117-contest-3 round 1 start
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:550 - 111111113vs111111116-contest-2 round 1 end
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:550 - 111111114vs111111117-contest-3 round 1 end
+2017-05-14 22:57:02  INFO ContestServiceRunnable:585 - 111111112vs111111110-contest-4 result saved!
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:578 - 111111113vs111111116-contest-2 game over
+2017-05-14 22:57:02 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:57:02  INFO ContestServiceRunnable:578 - 111111114vs111111117-contest-3 game over
+2017-05-14 22:57:02  INFO ContestServiceRunnable:585 - 111111113vs111111116-contest-2 result saved!
+2017-05-14 22:57:02  INFO ContestServiceRunnable:585 - 111111114vs111111117-contest-3 result saved!
+2017-05-14 22:57:02  INFO ContestServiceRunnable:590 - 111111114vs111111117-contest-3 record save completed!
+2017-05-14 22:57:02  INFO ContestServiceRunnable:590 - 111111112vs111111110-contest-4 record save completed!
+2017-05-14 22:57:02  INFO ContestServiceRunnable:590 - 111111113vs111111116-contest-2 record save completed!
+2017-05-14 22:59:41  INFO ContestServiceRunnable:59 - 111111118vs111111110-contest-0 begin!
+2017-05-14 22:59:41  INFO ContestServiceRunnable:59 - 111111116vs111111114-contest-2 begin!
+2017-05-14 22:59:41  INFO ContestServiceRunnable:69 - 111111118vs111111110-contest-0 round 0 start
+2017-05-14 22:59:41  INFO ContestServiceRunnable:59 - 111111117vs111111115-contest-1 begin!
+2017-05-14 22:59:41  INFO ContestServiceRunnable:69 - 111111116vs111111114-contest-2 round 0 start
+2017-05-14 22:59:41  INFO ContestServiceRunnable:59 - 111111112vs111111119-contest-4 begin!
+2017-05-14 22:59:41  INFO ContestServiceRunnable:69 - 111111112vs111111119-contest-4 round 0 start
+2017-05-14 22:59:41  INFO ContestServiceRunnable:69 - 111111117vs111111115-contest-1 round 0 start
+2017-05-14 22:59:41  INFO ContestServiceRunnable:59 - 111111113vs111111111-contest-3 begin!
+2017-05-14 22:59:41  INFO ContestServiceRunnable:69 - 111111113vs111111111-contest-3 round 0 start
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:268 - 111111118vs111111110-contest-0 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:550 - 111111118vs111111110-contest-0 round 0 end
+2017-05-14 22:59:46  INFO ContestServiceRunnable:69 - 111111118vs111111110-contest-0 round 1 start
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:114 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:550 - 111111118vs111111110-contest-0 round 1 end
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:578 - 111111118vs111111110-contest-0 game over
+2017-05-14 22:59:46  INFO ContestServiceRunnable:585 - 111111118vs111111110-contest-0 result saved!
+2017-05-14 22:59:46  INFO ContestServiceRunnable:590 - 111111118vs111111110-contest-0 record save completed!
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:440 - 111111116vs111111114-contest-2 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:550 - 111111116vs111111114-contest-2 round 0 end
+2017-05-14 22:59:46  INFO ContestServiceRunnable:69 - 111111116vs111111114-contest-2 round 1 start
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:550 - 111111116vs111111114-contest-2 round 1 end
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:578 - 111111116vs111111114-contest-2 game over
+2017-05-14 22:59:46  INFO ContestServiceRunnable:585 - 111111116vs111111114-contest-2 result saved!
+2017-05-14 22:59:46  INFO ContestServiceRunnable:590 - 111111116vs111111114-contest-2 record save completed!
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:268 - 111111117vs111111115-contest-1 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:550 - 111111117vs111111115-contest-1 round 0 end
+2017-05-14 22:59:46  INFO ContestServiceRunnable:69 - 111111117vs111111115-contest-1 round 1 start
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:550 - 111111117vs111111115-contest-1 round 1 end
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:578 - 111111117vs111111115-contest-1 game over
+2017-05-14 22:59:46  INFO ContestServiceRunnable:585 - 111111117vs111111115-contest-1 result saved!
+2017-05-14 22:59:46  INFO ContestServiceRunnable:590 - 111111117vs111111115-contest-1 record save completed!
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:268 - 111111112vs111111119-contest-4 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:268 - 111111113vs111111111-contest-3 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:550 - 111111112vs111111119-contest-4 round 0 end
+2017-05-14 22:59:46  INFO ContestServiceRunnable:550 - 111111113vs111111111-contest-3 round 0 end
+2017-05-14 22:59:46  INFO ContestServiceRunnable:69 - 111111112vs111111119-contest-4 round 1 start
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:550 - 111111112vs111111119-contest-4 round 1 end
+2017-05-14 22:59:46  INFO ContestServiceRunnable:69 - 111111113vs111111111-contest-3 round 1 start
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:578 - 111111112vs111111119-contest-4 game over
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:550 - 111111113vs111111111-contest-3 round 1 end
+2017-05-14 22:59:46 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 22:59:46  INFO ContestServiceRunnable:578 - 111111113vs111111111-contest-3 game over
+2017-05-14 22:59:46  INFO ContestServiceRunnable:585 - 111111113vs111111111-contest-3 result saved!
+2017-05-14 22:59:46  INFO ContestServiceRunnable:585 - 111111112vs111111119-contest-4 result saved!
+2017-05-14 22:59:46  INFO ContestServiceRunnable:590 - 111111112vs111111119-contest-4 record save completed!
+2017-05-14 22:59:46  INFO ContestServiceRunnable:590 - 111111113vs111111111-contest-3 record save completed!
+2017-05-14 23:01:19  INFO ContestServiceRunnable:59 - 111111111vs111111118-contest-0 begin!
+2017-05-14 23:01:19  INFO ContestServiceRunnable:69 - 111111111vs111111118-contest-0 round 0 start
+2017-05-14 23:01:19  INFO ContestServiceRunnable:59 - 111111116vs111111110-contest-1 begin!
+2017-05-14 23:01:19  INFO ContestServiceRunnable:59 - 111111114vs111111117-contest-2 begin!
+2017-05-14 23:01:19  INFO ContestServiceRunnable:59 - 111111115vs111111112-contest-3 begin!
+2017-05-14 23:01:19  INFO ContestServiceRunnable:59 - 111111113vs111111119-contest-4 begin!
+2017-05-14 23:01:19  INFO ContestServiceRunnable:69 - 111111115vs111111112-contest-3 round 0 start
+2017-05-14 23:01:19  INFO ContestServiceRunnable:69 - 111111113vs111111119-contest-4 round 0 start
+2017-05-14 23:01:19  INFO ContestServiceRunnable:69 - 111111114vs111111117-contest-2 round 0 start
+2017-05-14 23:01:19  INFO ContestServiceRunnable:69 - 111111116vs111111110-contest-1 round 0 start
+2017-05-14 23:01:19 ERROR ContestServiceRunnable:114 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:19 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:19  INFO ContestServiceRunnable:550 - 111111113vs111111119-contest-4 round 0 end
+2017-05-14 23:01:19 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:19  INFO ContestServiceRunnable:578 - 111111113vs111111119-contest-4 game over
+2017-05-14 23:01:19  INFO ContestServiceRunnable:585 - 111111113vs111111119-contest-4 result saved!
+2017-05-14 23:01:19  INFO ContestServiceRunnable:590 - 111111113vs111111119-contest-4 record save completed!
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:268 - 111111116vs111111110-contest-1 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23  INFO ContestServiceRunnable:550 - 111111116vs111111110-contest-1 round 0 end
+2017-05-14 23:01:23  INFO ContestServiceRunnable:69 - 111111116vs111111110-contest-1 round 1 start
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:114 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23  INFO ContestServiceRunnable:550 - 111111116vs111111110-contest-1 round 1 end
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23  INFO ContestServiceRunnable:578 - 111111116vs111111110-contest-1 game over
+2017-05-14 23:01:23  INFO ContestServiceRunnable:585 - 111111116vs111111110-contest-1 result saved!
+2017-05-14 23:01:23  INFO ContestServiceRunnable:590 - 111111116vs111111110-contest-1 record save completed!
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:268 - 111111115vs111111112-contest-3 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:268 - 111111111vs111111118-contest-0 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23  INFO ContestServiceRunnable:550 - 111111111vs111111118-contest-0 round 0 end
+2017-05-14 23:01:23  INFO ContestServiceRunnable:69 - 111111111vs111111118-contest-0 round 1 start
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23  INFO ContestServiceRunnable:550 - 111111115vs111111112-contest-3 round 0 end
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:268 - 111111114vs111111117-contest-2 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 23:01:23  INFO ContestServiceRunnable:69 - 111111115vs111111112-contest-3 round 1 start
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23  INFO ContestServiceRunnable:550 - 111111111vs111111118-contest-0 round 1 end
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23  INFO ContestServiceRunnable:550 - 111111114vs111111117-contest-2 round 0 end
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23  INFO ContestServiceRunnable:578 - 111111111vs111111118-contest-0 game over
+2017-05-14 23:01:23  INFO ContestServiceRunnable:550 - 111111115vs111111112-contest-3 round 1 end
+2017-05-14 23:01:23  INFO ContestServiceRunnable:69 - 111111114vs111111117-contest-2 round 1 start
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23  INFO ContestServiceRunnable:578 - 111111115vs111111112-contest-3 game over
+2017-05-14 23:01:23  INFO ContestServiceRunnable:585 - 111111111vs111111118-contest-0 result saved!
+2017-05-14 23:01:23  INFO ContestServiceRunnable:585 - 111111115vs111111112-contest-3 result saved!
+2017-05-14 23:01:23  INFO ContestServiceRunnable:590 - 111111111vs111111118-contest-0 record save completed!
+2017-05-14 23:01:23  INFO ContestServiceRunnable:590 - 111111115vs111111112-contest-3 record save completed!
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23  INFO ContestServiceRunnable:550 - 111111114vs111111117-contest-2 round 1 end
+2017-05-14 23:01:23 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:01:23  INFO ContestServiceRunnable:578 - 111111114vs111111117-contest-2 game over
+2017-05-14 23:01:23  INFO ContestServiceRunnable:585 - 111111114vs111111117-contest-2 result saved!
+2017-05-14 23:01:23  INFO ContestServiceRunnable:590 - 111111114vs111111117-contest-2 record save completed!
+2017-05-14 23:03:55  INFO ContestServiceRunnable:59 - 111111111vs111111117-contest-0 begin!
+2017-05-14 23:03:55  INFO ContestServiceRunnable:59 - 111111113vs111111118-contest-1 begin!
+2017-05-14 23:03:55  INFO ContestServiceRunnable:69 - 111111111vs111111117-contest-0 round 0 start
+2017-05-14 23:03:55  INFO ContestServiceRunnable:59 - 111111115vs111111114-contest-3 begin!
+2017-05-14 23:03:55  INFO ContestServiceRunnable:69 - 111111113vs111111118-contest-1 round 0 start
+2017-05-14 23:03:55  INFO ContestServiceRunnable:59 - 111111112vs111111110-contest-2 begin!
+2017-05-14 23:03:55  INFO ContestServiceRunnable:69 - 111111112vs111111110-contest-2 round 0 start
+2017-05-14 23:03:55  INFO ContestServiceRunnable:69 - 111111115vs111111114-contest-3 round 0 start
+2017-05-14 23:03:55 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:55 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:55  INFO ContestServiceRunnable:550 - 111111113vs111111118-contest-1 round 0 end
+2017-05-14 23:03:55 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:55  INFO ContestServiceRunnable:578 - 111111113vs111111118-contest-1 game over
+2017-05-14 23:03:55  INFO ContestServiceRunnable:585 - 111111113vs111111118-contest-1 result saved!
+2017-05-14 23:03:55  INFO ContestServiceRunnable:590 - 111111113vs111111118-contest-1 record save completed!
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:440 - 111111115vs111111114-contest-3 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:59  INFO ContestServiceRunnable:550 - 111111115vs111111114-contest-3 round 0 end
+2017-05-14 23:03:59  INFO ContestServiceRunnable:69 - 111111115vs111111114-contest-3 round 1 start
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:59  INFO ContestServiceRunnable:550 - 111111115vs111111114-contest-3 round 1 end
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:59  INFO ContestServiceRunnable:578 - 111111115vs111111114-contest-3 game over
+2017-05-14 23:03:59  INFO ContestServiceRunnable:585 - 111111115vs111111114-contest-3 result saved!
+2017-05-14 23:03:59  INFO ContestServiceRunnable:590 - 111111115vs111111114-contest-3 record save completed!
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:440 - 111111111vs111111117-contest-0 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:59  INFO ContestServiceRunnable:550 - 111111111vs111111117-contest-0 round 0 end
+2017-05-14 23:03:59  INFO ContestServiceRunnable:69 - 111111111vs111111117-contest-0 round 1 start
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:440 - 111111112vs111111110-contest-2 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:59  INFO ContestServiceRunnable:550 - 111111111vs111111117-contest-0 round 1 end
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:59  INFO ContestServiceRunnable:578 - 111111111vs111111117-contest-0 game over
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:59  INFO ContestServiceRunnable:550 - 111111112vs111111110-contest-2 round 0 end
+2017-05-14 23:03:59  INFO ContestServiceRunnable:585 - 111111111vs111111117-contest-0 result saved!
+2017-05-14 23:03:59  INFO ContestServiceRunnable:69 - 111111112vs111111110-contest-2 round 1 start
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:59  INFO ContestServiceRunnable:590 - 111111111vs111111117-contest-0 record save completed!
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:59  INFO ContestServiceRunnable:550 - 111111112vs111111110-contest-2 round 1 end
+2017-05-14 23:03:59 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:03:59  INFO ContestServiceRunnable:578 - 111111112vs111111110-contest-2 game over
+2017-05-14 23:03:59  INFO ContestServiceRunnable:585 - 111111112vs111111110-contest-2 result saved!
+2017-05-14 23:03:59  INFO ContestServiceRunnable:590 - 111111112vs111111110-contest-2 record save completed!
+2017-05-14 23:06:45  INFO ContestServiceRunnable:59 - 111111117vs111111116-contest-0 begin!
+2017-05-14 23:06:45  INFO ContestServiceRunnable:69 - 111111117vs111111116-contest-0 round 0 start
+2017-05-14 23:06:45  INFO ContestServiceRunnable:59 - 111111114vs111111118-contest-1 begin!
+2017-05-14 23:06:45  INFO ContestServiceRunnable:59 - 111111113vs111111111-contest-2 begin!
+2017-05-14 23:06:45  INFO ContestServiceRunnable:69 - 111111114vs111111118-contest-1 round 0 start
+2017-05-14 23:06:45  INFO ContestServiceRunnable:69 - 111111113vs111111111-contest-2 round 0 start
+2017-05-14 23:06:45  INFO ContestServiceRunnable:59 - 111111112vs111111110-contest-3 begin!
+2017-05-14 23:06:45  INFO ContestServiceRunnable:69 - 111111112vs111111110-contest-3 round 0 start
+2017-05-14 23:07:01  INFO ContestServiceRunnable:550 - 111111117vs111111116-contest-0 round 0 end
+2017-05-14 23:07:01  INFO ContestServiceRunnable:69 - 111111117vs111111116-contest-0 round 1 start
+2017-05-14 23:07:01  INFO ContestServiceRunnable:550 - 111111114vs111111118-contest-1 round 0 end
+2017-05-14 23:07:01  INFO ContestServiceRunnable:69 - 111111114vs111111118-contest-1 round 1 start
+2017-05-14 23:07:02  INFO ContestServiceRunnable:550 - 111111113vs111111111-contest-2 round 0 end
+2017-05-14 23:07:02  INFO ContestServiceRunnable:69 - 111111113vs111111111-contest-2 round 1 start
+2017-05-14 23:07:02  INFO ContestServiceRunnable:550 - 111111112vs111111110-contest-3 round 0 end
+2017-05-14 23:07:02  INFO ContestServiceRunnable:69 - 111111112vs111111110-contest-3 round 1 start
+2017-05-14 23:07:19  INFO ContestServiceRunnable:550 - 111111117vs111111116-contest-0 round 1 end
+2017-05-14 23:07:19  INFO ContestServiceRunnable:578 - 111111117vs111111116-contest-0 game over
+2017-05-14 23:07:19  INFO ContestServiceRunnable:585 - 111111117vs111111116-contest-0 result saved!
+2017-05-14 23:07:19  INFO ContestServiceRunnable:590 - 111111117vs111111116-contest-0 record save completed!
+2017-05-14 23:07:19  INFO ContestServiceRunnable:550 - 111111113vs111111111-contest-2 round 1 end
+2017-05-14 23:07:19  INFO ContestServiceRunnable:578 - 111111113vs111111111-contest-2 game over
+2017-05-14 23:07:19  INFO ContestServiceRunnable:585 - 111111113vs111111111-contest-2 result saved!
+2017-05-14 23:07:19  INFO ContestServiceRunnable:590 - 111111113vs111111111-contest-2 record save completed!
+2017-05-14 23:07:19  INFO ContestServiceRunnable:550 - 111111114vs111111118-contest-1 round 1 end
+2017-05-14 23:07:19  INFO ContestServiceRunnable:578 - 111111114vs111111118-contest-1 game over
+2017-05-14 23:07:19  INFO ContestServiceRunnable:585 - 111111114vs111111118-contest-1 result saved!
+2017-05-14 23:07:19  INFO ContestServiceRunnable:590 - 111111114vs111111118-contest-1 record save completed!
+2017-05-14 23:07:19  INFO ContestServiceRunnable:550 - 111111112vs111111110-contest-3 round 1 end
+2017-05-14 23:07:19  INFO ContestServiceRunnable:578 - 111111112vs111111110-contest-3 game over
+2017-05-14 23:07:19  INFO ContestServiceRunnable:585 - 111111112vs111111110-contest-3 result saved!
+2017-05-14 23:07:19  INFO ContestServiceRunnable:590 - 111111112vs111111110-contest-3 record save completed!
+2017-05-14 23:11:08  INFO ContestServiceRunnable:59 - 111111110vs111111116-contest-0 begin!
+2017-05-14 23:11:08  INFO ContestServiceRunnable:69 - 111111110vs111111116-contest-0 round 0 start
+2017-05-14 23:11:08  INFO ContestServiceRunnable:59 - 111111111vs111111114-contest-1 begin!
+2017-05-14 23:11:08  INFO ContestServiceRunnable:69 - 111111111vs111111114-contest-1 round 0 start
+2017-05-14 23:11:08  INFO ContestServiceRunnable:59 - 111111117vs111111115-contest-3 begin!
+2017-05-14 23:11:08  INFO ContestServiceRunnable:59 - 111111112vs111111118-contest-2 begin!
+2017-05-14 23:11:08  INFO ContestServiceRunnable:69 - 111111117vs111111115-contest-3 round 0 start
+2017-05-14 23:11:08  INFO ContestServiceRunnable:69 - 111111112vs111111118-contest-2 round 0 start
+2017-05-14 23:11:13 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 23:11:13 ERROR ContestServiceRunnable:440 - 111111111vs111111114-contest-1 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 23:11:13 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:13  INFO ContestServiceRunnable:550 - 111111111vs111111114-contest-1 round 0 end
+2017-05-14 23:11:13  INFO ContestServiceRunnable:69 - 111111111vs111111114-contest-1 round 1 start
+2017-05-14 23:11:13 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:13 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:13  INFO ContestServiceRunnable:550 - 111111111vs111111114-contest-1 round 1 end
+2017-05-14 23:11:13 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:13  INFO ContestServiceRunnable:578 - 111111111vs111111114-contest-1 game over
+2017-05-14 23:11:13  INFO ContestServiceRunnable:585 - 111111111vs111111114-contest-1 result saved!
+2017-05-14 23:11:13  INFO ContestServiceRunnable:590 - 111111111vs111111114-contest-1 record save completed!
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:268 - 111111110vs111111116-contest-0 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:14  INFO ContestServiceRunnable:550 - 111111110vs111111116-contest-0 round 0 end
+2017-05-14 23:11:14  INFO ContestServiceRunnable:69 - 111111110vs111111116-contest-0 round 1 start
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:114 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:14  INFO ContestServiceRunnable:550 - 111111110vs111111116-contest-0 round 1 end
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:14  INFO ContestServiceRunnable:578 - 111111110vs111111116-contest-0 game over
+2017-05-14 23:11:14  INFO ContestServiceRunnable:585 - 111111110vs111111116-contest-0 result saved!
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:268 - 111111112vs111111118-contest-2 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:14  INFO ContestServiceRunnable:550 - 111111112vs111111118-contest-2 round 0 end
+2017-05-14 23:11:14  INFO ContestServiceRunnable:69 - 111111112vs111111118-contest-2 round 1 start
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:14  INFO ContestServiceRunnable:550 - 111111112vs111111118-contest-2 round 1 end
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:14  INFO ContestServiceRunnable:578 - 111111112vs111111118-contest-2 game over
+2017-05-14 23:11:14  INFO ContestServiceRunnable:585 - 111111112vs111111118-contest-2 result saved!
+2017-05-14 23:11:14  INFO ContestServiceRunnable:590 - 111111112vs111111118-contest-2 record save completed!
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:268 - 111111117vs111111115-contest-3 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:14  INFO ContestServiceRunnable:550 - 111111117vs111111115-contest-3 round 0 end
+2017-05-14 23:11:14  INFO ContestServiceRunnable:69 - 111111117vs111111115-contest-3 round 1 start
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:14  INFO ContestServiceRunnable:550 - 111111117vs111111115-contest-3 round 1 end
+2017-05-14 23:11:14 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:11:14  INFO ContestServiceRunnable:578 - 111111117vs111111115-contest-3 game over
+2017-05-14 23:11:14  INFO ContestServiceRunnable:585 - 111111117vs111111115-contest-3 result saved!
+2017-05-14 23:11:14  INFO ContestServiceRunnable:590 - 111111117vs111111115-contest-3 record save completed!
+2017-05-14 23:11:14  INFO ContestServiceRunnable:590 - 111111110vs111111116-contest-0 record save completed!
+2017-05-14 23:20:26  INFO ContestServiceRunnable:59 - 111111116vs111111115-contest-0 begin!
+2017-05-14 23:20:26  INFO ContestServiceRunnable:69 - 111111116vs111111115-contest-0 round 0 start
+2017-05-14 23:20:26  INFO ContestServiceRunnable:59 - 111111110vs111111118-contest-2 begin!
+2017-05-14 23:20:26  INFO ContestServiceRunnable:69 - 111111110vs111111118-contest-2 round 0 start
+2017-05-14 23:20:26  INFO ContestServiceRunnable:59 - 111111112vs111111114-contest-1 begin!
+2017-05-14 23:20:26  INFO ContestServiceRunnable:59 - 111111111vs111111117-contest-3 begin!
+2017-05-14 23:20:26  INFO ContestServiceRunnable:69 - 111111112vs111111114-contest-1 round 0 start
+2017-05-14 23:20:26  INFO ContestServiceRunnable:69 - 111111111vs111111117-contest-3 round 0 start
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:268 - 111111112vs111111114-contest-1 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30  INFO ContestServiceRunnable:550 - 111111112vs111111114-contest-1 round 0 end
+2017-05-14 23:20:30  INFO ContestServiceRunnable:69 - 111111112vs111111114-contest-1 round 1 start
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30  INFO ContestServiceRunnable:550 - 111111112vs111111114-contest-1 round 1 end
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30  INFO ContestServiceRunnable:578 - 111111112vs111111114-contest-1 game over
+2017-05-14 23:20:30  INFO ContestServiceRunnable:585 - 111111112vs111111114-contest-1 result saved!
+2017-05-14 23:20:30  INFO ContestServiceRunnable:590 - 111111112vs111111114-contest-1 record save completed!
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:439 - java.net.SocketException: Connection reset
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:440 - 111111110vs111111118-contest-2 ROUND 0 Unkown Exception when receive WHITE step!
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:268 - 111111116vs111111115-contest-0 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30  INFO ContestServiceRunnable:550 - 111111116vs111111115-contest-0 round 0 end
+2017-05-14 23:20:30  INFO ContestServiceRunnable:69 - 111111116vs111111115-contest-0 round 1 start
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30  INFO ContestServiceRunnable:550 - 111111116vs111111115-contest-0 round 1 end
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30  INFO ContestServiceRunnable:578 - 111111116vs111111115-contest-0 game over
+2017-05-14 23:20:30  INFO ContestServiceRunnable:585 - 111111116vs111111115-contest-0 result saved!
+2017-05-14 23:20:30  INFO ContestServiceRunnable:590 - 111111116vs111111115-contest-0 record save completed!
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30  INFO ContestServiceRunnable:550 - 111111110vs111111118-contest-2 round 0 end
+2017-05-14 23:20:30  INFO ContestServiceRunnable:69 - 111111110vs111111118-contest-2 round 1 start
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30  INFO ContestServiceRunnable:550 - 111111110vs111111118-contest-2 round 1 end
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30  INFO ContestServiceRunnable:578 - 111111110vs111111118-contest-2 game over
+2017-05-14 23:20:30  INFO ContestServiceRunnable:585 - 111111110vs111111118-contest-2 result saved!
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:267 - java.net.SocketException: Connection reset
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:268 - 111111111vs111111117-contest-3 ROUND 0 Unkown Exception when receive BLACK step!
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30  INFO ContestServiceRunnable:550 - 111111111vs111111117-contest-3 round 0 end
+2017-05-14 23:20:30  INFO ContestServiceRunnable:69 - 111111111vs111111117-contest-3 round 1 start
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:97 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30 ERROR ContestServiceRunnable:548 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:30  INFO ContestServiceRunnable:550 - 111111111vs111111117-contest-3 round 1 end
+2017-05-14 23:20:30  INFO ContestServiceRunnable:590 - 111111110vs111111118-contest-2 record save completed!
+2017-05-14 23:20:31 ERROR ContestServiceRunnable:575 - java.net.SocketException: Connection reset by peer: socket write error
+2017-05-14 23:20:31  INFO ContestServiceRunnable:578 - 111111111vs111111117-contest-3 game over
+2017-05-14 23:20:31  INFO ContestServiceRunnable:585 - 111111111vs111111117-contest-3 result saved!
+2017-05-14 23:20:31  INFO ContestServiceRunnable:590 - 111111111vs111111117-contest-3 record save completed!
