@@ -242,7 +242,7 @@ public class MainFrame extends JFrame {
         logPanel.setLayout(new BorderLayout());
         {
             logInfo = new JTextArea();
-            Font font = new Font("Time News Roman", Font.PLAIN, 16);
+            Font font = new Font("Time News Roman", Font.PLAIN, 14);
             logInfo.setFont(font);
             JScrollPane scrollLogInfo = new JScrollPane(logInfo);
             scrollLogInfo.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_AS_NEEDED);

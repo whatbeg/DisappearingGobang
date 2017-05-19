@@ -74,12 +74,9 @@ public class Players {
 				while ((s = in.readLine()) != null) {
 					if (s.equals(""))
 						continue;
-					System.out.println("s = " + s);
 					String[] info = s.split(",");
 					if (info.length == 3) {
 						playersInfo.put(info[0].trim(), new Player(info[0].trim(), info[1].trim(), info[2].trim()));
-						System.out.println("info[0] = " + info[0].trim().charAt(1));
-						System.out.println(playersInfo.containsKey("161220010"));
 						LOG.info(info[0].trim());
 						MainFrame.instance().log(info[0].trim() + "," + info[2].trim());
 					}

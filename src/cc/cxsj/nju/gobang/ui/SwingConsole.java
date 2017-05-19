@@ -14,7 +14,7 @@ public class SwingConsole {
 			@Override
 			public void run() {
 				f.pack();
-				f.setTitle("GobanGServer Contest Version");
+				f.setTitle("人生如棋 【Gobang Server For Contest】 落子无悔");
 				f.setLocationRelativeTo(null);
 				f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 				f.setSize(width, height);
