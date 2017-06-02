@@ -2,6 +2,9 @@
 
 DisappearingGobang Server Source Code.
 
+## 效果图
+
+![](http://image-whatbegblog.oss-cn-shanghai.aliyuncs.com/images/GobangServer.jpg)
 
 ## 5月7日晚更新
 
